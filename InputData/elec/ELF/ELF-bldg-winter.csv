@@ -1,1 +1,7 @@
-load factor,urban residential,rural residential,commercialheating,3.2039,3.2039,6.0122cooling & ventilation,0.0000,0.0000,0.0000envelope,0.0000,0.0000,0.0000lighting,1.8011,1.8011,1.1226appliances,1.9344,1.9344,1.3089other,1.3664,1.3664,1.1226
+load factor,urban residential,rural residential,commercial
+heating,3.2115,3.2115,5.9849
+cooling & ventilation,0.0000,0.0000,0.0000
+envelope,0.0000,0.0000,0.0000
+lighting,1.2993,1.2993,0.9409
+appliances,2.4490,2.4490,1.0573
+other,0.6180,0.6180,0.9409
