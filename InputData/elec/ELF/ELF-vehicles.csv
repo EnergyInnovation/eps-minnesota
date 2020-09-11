@@ -1,7 +1,1 @@
-Unit: dimensionless (MW-peak/MW-avg),summer,winter
-LDVs,2.78371,0.58478
-HDVs,1.20596,0.64915
-aircraft,0.93916,0.73755
-rail,0.93916,0.73755
-ships,0.93916,0.73755
-motorbikes,0.93916,0.73755
+Unit: dimensionless (MW-peak/MW-avg),summer,winterLDVs,2.198528097,2.250996579HDVs,0.97694582,0.975816265aircraft,0.976318045,0.983709179rail,0.976318045,0.983709179ships,0.976318045,0.983709179motorbikes,2.198528097,2.250996579
