@@ -1,11 +1,2 @@
-BIEfIE Boolean Include Emissions from Imported Electricity
-
-This variable is a control lever.  A control lever is neither a policy nor input data.
-It is a configuration setting that is used to specify desired model behavior.
-This variable is intended to be set once when adapting the model to a particular
-"country or use case, then left alone."
-
-"As a boolean lever, use ""0"" to cause emissions from the generation of electricity"
-that is imported into the modeled region to be excluded from emissions totals.
-"Use ""1"" to cause emissions from the generation of imported electricity to be"
-included in emissions totals.
+,Include Emissions from Imported Electricity
+Boolean,1
