@@ -1,13 +1,7 @@
 ,Minimum Capacity (MW)
-<<<<<<< HEAD
-hard coal,100
-natural gas nonpeaker,86
-nuclear,1005
-=======
 hard coal,258
 natural gas nonpeaker,154
 nuclear,1139
->>>>>>> master
 hydro,1
 onshore wind,5
 solar PV,2

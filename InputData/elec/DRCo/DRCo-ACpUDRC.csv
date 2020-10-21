@@ -1,15 +1,4 @@
 ,Cost ($/MW),,,,,,,,,,,,,,,,,,,,,,,,
-<<<<<<< HEAD
-government,24436,,,,,,,,,,,,,,,,,,,,,,,,
-nonenergy industries,24436,,,,,,,,,,,,,,,,,,,,,,,,
-labor and consumers,37946,,,,,,,,,,,,,,,,,,,,,,,,
-foreign entities,0,,,,,,,,,,,,,,,,,,,,,,,,
-electricity suppliers,24436,,,,,,,,,,,,,,,,,,,,,,,,
-coal suppliers,24436,,,,,,,,,,,,,,,,,,,,,,,,
-natural gas and petroleum suppliers,24436,,,,,,,,,,,,,,,,,,,,,,,,
-biomass and biofuel suppliers,24436,,,,,,,,,,,,,,,,,,,,,,,,
-other energy suppliers,24436,,,,,,,,,,,,,,,,,,,,,,,,
-=======
 government,24436.22121878411,,,,,,,,,,,,,,,,,,,,,,,,
 nonenergy industries,24436.22121878411,,,,,,,,,,,,,,,,,,,,,,,,
 labor and consumers,37946.09248554913,,,,,,,,,,,,,,,,,,,,,,,,
@@ -19,7 +8,6 @@ coal suppliers,24436.22121878411,,,,,,,,,,,,,,,,,,,,,,,,
 natural gas and petroleum suppliers,24436.22121878411,,,,,,,,,,,,,,,,,,,,,,,,
 biomass and biofuel suppliers,24436.22121878411,,,,,,,,,,,,,,,,,,,,,,,,
 other energy suppliers,24436.22121878411,,,,,,,,,,,,,,,,,,,,,,,,
->>>>>>> master
 ,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,

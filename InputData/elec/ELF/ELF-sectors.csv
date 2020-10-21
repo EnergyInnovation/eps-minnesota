@@ -1,14 +1,4 @@
 Unit: dimensionless (MW-peak/MW-avg),summer,winter,,,,,,,,,,,,,,,,,,,,,,,
-<<<<<<< HEAD
-transportation sector (NOT USED),0,0,,,,,,,,,,,,,,,,,,,,,,,
-electricity sector (NOT USED),0,0,,,,,,,,,,,,,,,,,,,,,,,
-residential buildings sector (NOT USED),0,0,,,,,,,,,,,,,,,,,,,,,,,
-commercial buildings sector (NOT USED),0,0,,,,,,,,,,,,,,,,,,,,,,,
-industry sector (and hydrogen supply),1.46441,0.97429,,,,,,,,,,,,,,,,,,,,,,,
-district heat sector,0,0,,,,,,,,,,,,,,,,,,,,,,,
-LULUCF sector (NOT USED),0,0,,,,,,,,,,,,,,,,,,,,,,,
-geoengineering sector,1,1,,,,,,,,,,,,,,,,,,,,,,,
-=======
 transportation sector (NOT USED),0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,
 electricity sector (NOT USED),0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,
 residential buildings sector (NOT USED),0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,
@@ -17,7 +7,6 @@ industry sector (and hydrogen supply),1.46441,0.97429,,,,,,,,,,,,,,,,,,,,,,,
 district heat sector,0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,
 LULUCF sector (NOT USED),0.0,0.0,,,,,,,,,,,,,,,,,,,,,,,
 geoengineering sector,1.0,1.0,,,,,,,,,,,,,,,,,,,,,,,
->>>>>>> master
 ,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,

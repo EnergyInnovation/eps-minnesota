@@ -1,22 +1,4 @@
 ,Annual Retirement per Unit Increase in Relative Cost MW/($/MWh)
-<<<<<<< HEAD
-hard coal,69
-natural gas nonpeaker,40
-nuclear,43
-hydro,21
-onshore wind,15
-solar PV,14
-solar thermal,29
-biomass,100
-geothermal,30
-petroleum,0
-natural gas peaker,0
-lignite,74
-offshore wind,48
-crude oil,0
-heavy or residual fuel oil,0
-municipal solid waste,15
-=======
 hard coal,68.78080118803516
 natural gas nonpeaker,40.02617079810815
 nuclear,42.971435236952836
@@ -33,7 +15,6 @@ offshore wind,48.15612504851805
 crude oil,0.0
 heavy or residual fuel oil,0.0
 municipal solid waste,15.32861775342852
->>>>>>> master
 ,
 ,
 ,
