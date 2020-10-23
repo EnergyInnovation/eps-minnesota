@@ -37373,14 +37373,14 @@ Macro Effects involve partitioning the total change in output (calculated from t
 22:Year,Years,yr,yrs
 23:0
 15:0,0,0,0,0,0
-19:90,26
+19:140,28
 27:0,
 34:0,
 42:1
 72:0
 73:1
 4:Time
-5:Output Total CO2e Emissions
+5:Output First Year NPV of CapEx and OpEx through This Year
 35:Date
 36:YYYY-MM-DD
 37:2000
