@@ -27504,240 +27504,240 @@ Health Outcomes
 V300  Do not put anything below this section - it will be ignored
 *Policy Control Center
 $192-192-192,0,Times New Roman|12||0-0-0|0-0-0|0-0-255|-1--1--1|-1--1--1|96,96,110,0
-12,1,0,1383,-439,1418,26,3,135,0,12,-1,2,0,0,-1--1--1,255-192-128,|18||0-0-0,0,0,0,0,0,0
+12,1,0,1082,-1021,1418,26,3,135,0,12,-1,2,0,0,-1--1--1,255-192-128,|18||0-0-0,0,0,0,0,0,0
 Policy Control Center
-12,2,0,124,-366,158,26,3,135,0,12,-1,2,0,0,-1--1--1,192-255-255,|18||0-0-0,0,0,0,0,0,0
+12,2,0,-177,-948,158,26,3,135,0,12,-1,2,0,0,-1--1--1,192-255-255,|18||0-0-0,0,0,0,0,0,0
 Transportation
-10,3,Fraction of TDM Package Implemented,124,-178,71,19,8,131,0,0,-1,0,0,0,0,0,0,0,0,0
-10,4,LDVs Feebate Rate,124,-240,73,11,8,131,0,0,-1,0,0,0,0,0,0,0,0,0
-12,5,0,655,15,339,26,3,135,0,12,-1,2,0,0,-1--1--1,192-255-255,|18||0-0-0,0,0,0,0,0,0
+10,3,Fraction of TDM Package Implemented,-177,-760,71,19,8,131,0,0,-1,0,0,0,0,0,0,0,0,0
+10,4,LDVs Feebate Rate,-177,-822,73,11,8,131,0,0,-1,0,0,0,0,0,0,0,0,0
+12,5,0,354,-567,339,26,3,135,0,12,-1,2,0,0,-1--1--1,192-255-255,|18||0-0-0,0,0,0,0,0,0
 Electricity Supply
-12,6,0,1191,-366,158,26,3,135,0,12,-1,2,0,0,-1--1--1,192-255-255,|18||0-0-0,0,0,0,0,0,0
+12,6,0,890,-948,158,26,3,135,0,12,-1,2,0,0,-1--1--1,192-255-255,|18||0-0-0,0,0,0,0,0,0
 Buildings & Appliances
-12,7,0,1736,-366,331,26,3,135,0,12,-1,2,0,0,-1--1--1,192-255-255,|18||0-0-0,0,0,0,0,0,0
+12,7,0,1435,-948,331,26,3,135,0,12,-1,2,0,0,-1--1--1,192-255-255,|18||0-0-0,0,0,0,0,0,0
 Industry (Including Agriculture)
-12,8,0,664,-366,339,26,3,135,0,12,-1,2,0,0,-1--1--1,192-255-255,|18||0-0-0,0,0,0,0,0,0
+12,8,0,363,-948,339,26,3,135,0,12,-1,2,0,0,-1--1--1,192-255-255,|18||0-0-0,0,0,0,0,0,0
 Cross-Sector Policies
-10,9,Additional Fuel Tax Rate by Fuel,474,-295,63,19,8,131,0,0,-1,0,0,0,0,0,0,0,0,0
-10,10,Additional Carbon Tax Rate,474,-226,59,19,8,131,0,0,-1,0,0,0,0,0,0,0,0,0
-10,11,Percentage Additional Improvement of Fuel Economy Std,124,-303,112,20,8,131,0,0,-1,0,0,0,0,0,0,0,0,0
-10,12,Renewable Portfolio Std Percentage,474,87,65,19,8,131,0,0,-1,0,0,0,0,0,0,0,0,0
-10,13,Percent Reduction in BAU Subsidies,474,-153,74,22,8,131,0,0,-1,0,0,0,0,0,0,0,0,0
-10,14,Subsidy for Elec Production by Fuel,474,200,68,22,8,131,0,0,-1,0,0,0,0,0,0,0,0,0
-10,15,Annual Additional Capacity Retired due to Early Retirement Policy,474,261,129,22,8,131,0,0,-1,0,0,0,0,0,0,0,0,0
-10,16,Boolean Rebate Program for Efficient Components,1191,-304,90,22,8,131,0,0,-1,0,0,0,0,0,0,0,0,0
-10,17,Reduction in E Use Allowed by Component Eff Std,1191,-243,93,21,8,131,0,0,-1,0,0,0,0,0,0,0,0,0
-10,18,Boolean Improved Contractor Edu and Training,1191,-115,106,23,8,131,0,0,-1,0,0,0,0,0,0,0,0,0
-10,19,Boolean Improved Device Labeling,1191,-181,67,22,8,131,0,0,-1,0,0,0,0,0,0,0,0,0
-10,20,Fraction of F Gas Substitution Achieved,1562,-191,69,19,8,131,0,0,-1,0,0,0,0,0,0,0,0,0
-10,21,Fraction of Methane Destruction Opportunities Achieved,1922,-253,104,18,8,131,0,0,-1,0,0,0,0,0,0,0,0,0
-10,22,Fraction of Cement Measures Achieved,1562,-2,64,19,8,131,0,0,-1,0,0,0,0,0,0,0,0,0
-10,23,Fraction of Methane Capture Opportunities Achieved,1562,-253,94,18,8,131,0,0,-1,0,0,0,0,0,0,0,0,0
-10,24,Fraction of Energy Savings from Early Facility Retirement Achieved,1562,131,126,20,8,131,0,0,-1,0,0,0,0,0,0,0,0,0
-10,25,Fraction of Installation and System Integration Issues Remedied,1562,189,114,20,8,131,0,0,-1,0,0,0,0,0,0,0,0,0
-10,26,Fraction of Potential Cogeneration and Waste Heat Recovery Adopted,1569,251,120,21,8,131,0,0,-1,0,0,0,0,0,0,0,0,0
-10,27,Fraction of Industrial Fuel Use Shifted to Other Fuels,1920,131,85,19,8,131,0,0,-1,0,0,0,0,0,0,0,0,0
-10,28,Percentage Improvement in Eqpt Efficiency Standards above BAU,1562,315,108,20,8,131,0,0,-1,0,0,0,0,0,0,0,0,0
-12,29,0,1736,-307,331,18,3,135,0,12,-1,2,0,0,-1--1--1,192-192-192,|14||0-0-0,0,0,0,0,0,0
+10,9,Additional Fuel Tax Rate by Fuel,173,-877,63,19,8,131,0,0,-1,0,0,0,0,0,0,0,0,0
+10,10,Additional Carbon Tax Rate,173,-808,59,19,8,131,0,0,-1,0,0,0,0,0,0,0,0,0
+10,11,Percentage Additional Improvement of Fuel Economy Std,-177,-885,112,20,8,131,0,0,-1,0,0,0,0,0,0,0,0,0
+10,12,Renewable Portfolio Std Percentage,173,-495,65,19,8,131,0,0,-1,0,0,0,0,0,0,0,0,0
+10,13,Percent Reduction in BAU Subsidies,173,-735,74,22,8,131,0,0,-1,0,0,0,0,0,0,0,0,0
+10,14,Subsidy for Elec Production by Fuel,173,-382,68,22,8,131,0,0,-1,0,0,0,0,0,0,0,0,0
+10,15,Annual Additional Capacity Retired due to Early Retirement Policy,173,-321,129,22,8,131,0,0,-1,0,0,0,0,0,0,0,0,0
+10,16,Boolean Rebate Program for Efficient Components,890,-886,90,22,8,131,0,0,-1,0,0,0,0,0,0,0,0,0
+10,17,Reduction in E Use Allowed by Component Eff Std,890,-825,93,21,8,131,0,0,-1,0,0,0,0,0,0,0,0,0
+10,18,Boolean Improved Contractor Edu and Training,890,-697,106,23,8,131,0,0,-1,0,0,0,0,0,0,0,0,0
+10,19,Boolean Improved Device Labeling,890,-763,67,22,8,131,0,0,-1,0,0,0,0,0,0,0,0,0
+10,20,Fraction of F Gas Substitution Achieved,1261,-773,69,19,8,131,0,0,-1,0,0,0,0,0,0,0,0,0
+10,21,Fraction of Methane Destruction Opportunities Achieved,1621,-835,104,18,8,131,0,0,-1,0,0,0,0,0,0,0,0,0
+10,22,Fraction of Cement Measures Achieved,1261,-584,64,19,8,131,0,0,-1,0,0,0,0,0,0,0,0,0
+10,23,Fraction of Methane Capture Opportunities Achieved,1261,-835,94,18,8,131,0,0,-1,0,0,0,0,0,0,0,0,0
+10,24,Fraction of Energy Savings from Early Facility Retirement Achieved,1261,-451,126,20,8,131,0,0,-1,0,0,0,0,0,0,0,0,0
+10,25,Fraction of Installation and System Integration Issues Remedied,1261,-393,114,20,8,131,0,0,-1,0,0,0,0,0,0,0,0,0
+10,26,Fraction of Potential Cogeneration and Waste Heat Recovery Adopted,1268,-331,120,21,8,131,0,0,-1,0,0,0,0,0,0,0,0,0
+10,27,Fraction of Industrial Fuel Use Shifted to Other Fuels,1619,-451,85,19,8,131,0,0,-1,0,0,0,0,0,0,0,0,0
+10,28,Percentage Improvement in Eqpt Efficiency Standards above BAU,1261,-267,108,20,8,131,0,0,-1,0,0,0,0,0,0,0,0,0
+12,29,0,1435,-889,331,18,3,135,0,12,-1,2,0,0,-1--1--1,192-192-192,|14||0-0-0,0,0,0,0,0,0
 Process Emissions Policies
-12,30,0,1562,78,158,18,3,135,0,12,-1,2,0,0,-1--1--1,192-192-192,|14||0-0-0,0,0,0,0,0,0
+12,30,0,1261,-504,158,18,3,135,0,12,-1,2,0,0,-1--1--1,192-192-192,|14||0-0-0,0,0,0,0,0,0
 Fuel Efficiency Policies
-12,31,0,1295,-303,12,14,3,135,0,12,-1,2,0,0,-1--1--1,255-128-192,|16||0-0-0,0,0,0,0,0,0
+12,31,0,994,-885,12,14,3,135,0,12,-1,2,0,0,-1--1--1,255-128-192,|16||0-0-0,0,0,0,0,0,0
 S
-12,32,0,556,-294,12,14,3,135,0,12,-1,2,0,0,-1--1--1,255-128-192,|16||0-0-0,0,0,0,0,0,0
+12,32,0,255,-876,12,14,3,135,0,12,-1,2,0,0,-1--1--1,255-128-192,|16||0-0-0,0,0,0,0,0,0
 S
-12,33,0,559,200,12,14,3,135,0,12,-1,2,0,0,-1--1--1,255-128-192,|16||0-0-0,0,0,0,0,0,0
+12,33,0,258,-382,12,14,3,135,0,12,-1,2,0,0,-1--1--1,255-128-192,|16||0-0-0,0,0,0,0,0,0
 S
-12,34,0,616,261,12,14,3,135,0,12,-1,2,0,0,-1--1--1,255-128-192,|16||0-0-0,0,0,0,0,0,0
+12,34,0,315,-321,12,14,3,135,0,12,-1,2,0,0,-1--1--1,255-128-192,|16||0-0-0,0,0,0,0,0,0
 S
-12,35,0,-17,539,18,19,3,135,0,12,-1,2,0,0,-1--1--1,255-128-192,|20||0-0-0,0,0,0,0,0,0
+12,35,0,-318,-43,18,19,3,135,0,12,-1,2,0,0,-1--1--1,255-128-192,|20||0-0-0,0,0,0,0,0,0
 S
-12,36,0,154,581,151,61,8,135,0,12,-1,0,0,0,-1--1--1,255-255-128,|18||0-0-0,0,0,0,0,0,0
+12,36,0,-147,-1,151,61,8,135,0,12,-1,0,0,0,-1--1--1,255-255-128,|18||0-0-0,0,0,0,0,0,0
 = subscripted value (SyntheSim slider only changes first element; click on slider track or use .cin file)
-12,37,0,218,889,253,152,3,188,0,0,1,0,0,0,0,0,0,0,0,0
+12,37,3215022,-83,307,253,152,3,188,0,0,1,0,0,0,0,0,0,0,0,0
 Total_CO2e_Emissions_Comparison
-12,38,0,800,1258,253,152,3,188,0,0,1,0,0,0,0,0,0,0,0,0
+12,38,2034248,499,676,253,152,3,188,0,0,1,0,0,0,0,0,0,0,0,0
 Output_Financial_Cash_Flow_Change_by_Entity
-10,39,Fraction of New Bldg Components Shifted to Other Fuels,1191,-43,113,19,8,131,0,0,-1,0,0,0,0,0,0,0,0,0
-10,40,Fraction of Potential Additional CCS Achieved,474,-82,85,19,8,131,0,0,-1,0,0,0,0,0,0,0,0,0
-10,41,Nuclear Capacity Lifetime Extension,474,319,58,19,8,131,0,0,-1,0,0,0,0,0,0,0,0,0
-10,42,Boolean Use Non BAU Mandated Capacity Construction Schedule,825,319,111,20,8,131,0,0,-1,0,0,0,0,0,0,0,0,0
-10,43,Boolean Use Non BAU Guaranteed Dispatch Settings,825,431,98,22,8,131,0,0,-1,0,0,0,0,0,0,0,0,0
-10,44,Fraction of Additional Grid Battery Storage Potential Achieved,478,431,116,20,8,131,0,0,-1,0,0,0,0,0,0,0,0,0
-12,45,0,1964,899,253,152,3,188,0,0,1,0,0,0,0,0,0,0,0,0
+10,39,Fraction of New Bldg Components Shifted to Other Fuels,890,-625,113,19,8,131,0,0,-1,0,0,0,0,0,0,0,0,0
+10,40,Fraction of Potential Additional CCS Achieved,173,-664,85,19,8,131,0,0,-1,0,0,0,0,0,0,0,0,0
+10,41,Nuclear Capacity Lifetime Extension,173,-263,58,19,8,131,0,0,-1,0,0,0,0,0,0,0,0,0
+10,42,Boolean Use Non BAU Mandated Capacity Construction Schedule,524,-263,111,20,8,131,0,0,-1,0,0,0,0,0,0,0,0,0
+10,43,Boolean Use Non BAU Guaranteed Dispatch Settings,524,-151,98,22,8,131,0,0,-1,0,0,0,0,0,0,0,0,0
+10,44,Fraction of Additional Grid Battery Storage Potential Achieved,177,-151,116,20,8,131,0,0,-1,0,0,0,0,0,0,0,0,0
+12,45,4459082,1663,317,253,152,3,188,0,0,1,0,0,0,0,0,0,0,0,0
 Output_Electricity_Output_by_Source
-12,46,0,1964,1258,253,152,3,188,0,0,1,0,0,0,0,0,0,0,0,0
+12,46,2360544,1663,676,253,152,3,188,0,0,1,0,0,0,0,0,0,0,0,0
 Output_Electricity_Output_Change_due_to_Policies
-12,47,0,1964,1622,253,152,3,188,0,0,1,0,0,0,0,0,0,0,0,0
+12,47,2099184,1663,1040,253,152,3,188,0,0,1,0,0,0,0,0,0,0,0,0
 Output_Electricity_Generation_Capacity_by_Type
-12,48,0,1964,1987,253,152,3,188,0,0,1,0,0,0,0,0,0,0,0,0
+12,48,10228150,1663,1405,253,152,3,188,0,0,1,0,0,0,0,0,0,0,0,0
 Output_Electricity_Generation_Capacity_Change_due_to_Policies
-10,49,Fraction of Additional Demand Response Potential Achieved,478,375,113,20,8,131,0,0,-1,0,0,0,0,0,0,0,0,0
-12,50,0,252,-300,12,14,3,135,0,12,-1,2,0,0,-1--1--1,255-128-192,|16||0-0-0,0,0,0,0,0,0
+10,49,Fraction of Additional Demand Response Potential Achieved,177,-207,113,20,8,131,0,0,-1,0,0,0,0,0,0,0,0,0
+12,50,0,-49,-882,12,14,3,135,0,12,-1,2,0,0,-1--1--1,255-128-192,|16||0-0-0,0,0,0,0,0,0
 S
-10,51,Toggle Whether Policies Affect Energy Prices,825,-295,78,19,8,131,0,0,-1,0,0,0,0,0,0,0,0,0
-10,52,Fraction of Non CHP Heat Production Converted to CHP,1191,369,100,18,8,131,0,0,-1,0,0,0,0,0,0,0,0,0
-12,53,0,1687,316,12,14,3,135,0,12,-1,2,0,0,-1--1--1,255-128-192,|16||0-0-0,0,0,0,0,0,0
+10,51,Toggle Whether Policies Affect Energy Prices,524,-877,78,19,8,131,0,0,-1,0,0,0,0,0,0,0,0,0
+10,52,Fraction of Non CHP Heat Production Converted to CHP,890,-213,100,18,8,131,0,0,-1,0,0,0,0,0,0,0,0,0
+12,53,0,1386,-266,12,14,3,135,0,12,-1,2,0,0,-1--1--1,255-128-192,|16||0-0-0,0,0,0,0,0,0
 S
-12,54,0,800,894,253,152,3,188,0,0,1,0,0,0,0,0,0,0,0,0
+12,54,2032772,499,312,253,152,3,188,0,0,1,0,0,0,0,0,0,0,0,0
 Output_Financial_Total_Change_in_Capital_Fuel_and_OM_Expenditures
-12,55,0,1299,-243,12,14,3,135,0,12,-1,2,0,0,-1--1--1,255-128-192,|16||0-0-0,0,0,0,0,0,0
+12,55,0,998,-825,12,14,3,135,0,12,-1,2,0,0,-1--1--1,255-128-192,|16||0-0-0,0,0,0,0,0,0
 S
-12,56,0,2641,-364,158,26,3,135,0,12,-1,2,0,0,-1--1--1,192-255-255,|18||0-0-0,0,0,0,0,0,0
+12,56,0,2340,-946,158,26,3,135,0,12,-1,2,0,0,-1--1--1,192-255-255,|18||0-0-0,0,0,0,0,0,0
 R&D
-12,57,0,2641,-297,158,18,3,135,0,12,-1,2,0,0,-1--1--1,192-192-192,|14||0-0-0,0,0,0,0,0,0
+12,57,0,2340,-879,158,18,3,135,0,12,-1,2,0,0,-1--1--1,192-192-192,|14||0-0-0,0,0,0,0,0,0
 Capital Cost Reductions
-12,58,0,2641,116,158,18,3,135,0,12,-1,2,0,0,-1--1--1,192-192-192,|14||0-0-0,0,0,0,0,0,0
+12,58,0,2340,-466,158,18,3,135,0,12,-1,2,0,0,-1--1--1,192-192-192,|14||0-0-0,0,0,0,0,0,0
 Fuel Use Reductions
-10,59,RnD Transportation Capital Cost Perc Reduction,2641,-243,88,20,8,131,0,0,0,0,0,0,0,0,0,0,0,0
-10,60,RnD Electricity Capital Cost Perc Reduction,2641,-176,73,19,8,131,0,0,0,0,0,0,0,0,0,0,0,0
-10,61,RnD Building Capital Cost Perc Reduction,2641,-110,67,19,8,131,0,0,0,0,0,0,0,0,0,0,0,0
-10,62,RnD Industry Capital Cost Perc Reduction,2641,-42,68,19,8,131,0,0,0,0,0,0,0,0,0,0,0,0
-10,63,RnD CCS Capital Cost Perc Reduction,2641,25,67,19,8,131,0,0,0,0,0,0,0,0,0,0,0,0
-10,64,RnD Transportation Fuel Use Perc Reduction,2641,183,79,19,8,131,0,0,0,0,0,0,0,0,0,0,0,0
-10,65,RnD Electricity Fuel Use Perc Reduction,2641,254,64,19,8,131,0,0,0,0,0,0,0,0,0,0,0,0
-10,66,RnD Building Fuel Use Perc Reduction,2641,325,73,19,8,131,0,0,0,0,0,0,0,0,0,0,0,0
-10,67,RnD Industry Fuel Use Perc Reduction,2641,397,73,19,8,131,0,0,0,0,0,0,0,0,0,0,0,0
-10,68,RnD CCS Fuel Use Perc Reduction,2641,468,64,19,8,131,0,0,0,0,0,0,0,0,0,0,0,0
-12,69,0,2747,-243,12,14,3,135,0,12,-1,2,0,0,-1--1--1,255-128-192,|16||0-0-0,0,0,0,0,0,0
+10,59,RnD Transportation Capital Cost Perc Reduction,2340,-825,88,20,8,131,0,0,0,0,0,0,0,0,0,0,0,0
+10,60,RnD Electricity Capital Cost Perc Reduction,2340,-758,73,19,8,131,0,0,0,0,0,0,0,0,0,0,0,0
+10,61,RnD Building Capital Cost Perc Reduction,2340,-692,67,19,8,131,0,0,0,0,0,0,0,0,0,0,0,0
+10,62,RnD Industry Capital Cost Perc Reduction,2340,-624,68,19,8,131,0,0,0,0,0,0,0,0,0,0,0,0
+10,63,RnD CCS Capital Cost Perc Reduction,2340,-557,67,19,8,131,0,0,0,0,0,0,0,0,0,0,0,0
+10,64,RnD Transportation Fuel Use Perc Reduction,2340,-399,79,19,8,131,0,0,0,0,0,0,0,0,0,0,0,0
+10,65,RnD Electricity Fuel Use Perc Reduction,2340,-328,64,19,8,131,0,0,0,0,0,0,0,0,0,0,0,0
+10,66,RnD Building Fuel Use Perc Reduction,2340,-257,73,19,8,131,0,0,0,0,0,0,0,0,0,0,0,0
+10,67,RnD Industry Fuel Use Perc Reduction,2340,-185,73,19,8,131,0,0,0,0,0,0,0,0,0,0,0,0
+10,68,RnD CCS Fuel Use Perc Reduction,2340,-114,64,19,8,131,0,0,0,0,0,0,0,0,0,0,0,0
+12,69,0,2446,-825,12,14,3,135,0,12,-1,2,0,0,-1--1--1,255-128-192,|16||0-0-0,0,0,0,0,0,0
 S
-12,70,0,2738,-176,12,14,3,135,0,12,-1,2,0,0,-1--1--1,255-128-192,|16||0-0-0,0,0,0,0,0,0
+12,70,0,2437,-758,12,14,3,135,0,12,-1,2,0,0,-1--1--1,255-128-192,|16||0-0-0,0,0,0,0,0,0
 S
-12,71,0,2735,-110,12,14,3,135,0,12,-1,2,0,0,-1--1--1,255-128-192,|16||0-0-0,0,0,0,0,0,0
+12,71,0,2434,-692,12,14,3,135,0,12,-1,2,0,0,-1--1--1,255-128-192,|16||0-0-0,0,0,0,0,0,0
 S
-12,72,0,2733,-42,12,14,3,135,0,12,-1,2,0,0,-1--1--1,255-128-192,|16||0-0-0,0,0,0,0,0,0
+12,72,0,2432,-624,12,14,3,135,0,12,-1,2,0,0,-1--1--1,255-128-192,|16||0-0-0,0,0,0,0,0,0
 S
-12,73,0,2744,185,12,14,3,135,0,12,-1,2,0,0,-1--1--1,255-128-192,|16||0-0-0,0,0,0,0,0,0
+12,73,0,2443,-397,12,14,3,135,0,12,-1,2,0,0,-1--1--1,255-128-192,|16||0-0-0,0,0,0,0,0,0
 S
-12,74,0,2730,254,12,14,3,135,0,12,-1,2,0,0,-1--1--1,255-128-192,|16||0-0-0,0,0,0,0,0,0
+12,74,0,2429,-328,12,14,3,135,0,12,-1,2,0,0,-1--1--1,255-128-192,|16||0-0-0,0,0,0,0,0,0
 S
-12,75,0,2739,325,12,14,3,135,0,12,-1,2,0,0,-1--1--1,255-128-192,|16||0-0-0,0,0,0,0,0,0
+12,75,0,2438,-257,12,14,3,135,0,12,-1,2,0,0,-1--1--1,255-128-192,|16||0-0-0,0,0,0,0,0,0
 S
-12,76,0,2739,398,12,14,3,135,0,12,-1,2,0,0,-1--1--1,255-128-192,|16||0-0-0,0,0,0,0,0,0
+12,76,0,2438,-184,12,14,3,135,0,12,-1,2,0,0,-1--1--1,255-128-192,|16||0-0-0,0,0,0,0,0,0
 S
-12,77,0,1920,78,158,18,3,135,0,12,-1,2,0,0,-1--1--1,192-192-192,|14||0-0-0,0,0,0,0,0,0
+12,77,0,1619,-504,158,18,3,135,0,12,-1,2,0,0,-1--1--1,192-192-192,|14||0-0-0,0,0,0,0,0,0
 Fuel Type Shifting Policy
-10,78,Percentage Increase in Transmission Capacity vs BAU,474,487,100,20,8,131,0,0,0,0,0,0,0,0,0,0,0,0
-10,79,Fraction of Cropland and Rice Measures Achieved,1562,-65,81,19,8,131,0,0,0,0,0,0,0,0,0,0,0,0
-10,80,Fraction of Livestock Measures Achieved,1922,-65,68,19,8,131,0,0,0,0,0,0,0,0,0,0,0,0
-12,81,0,2277,-362,158,32,3,135,0,12,-1,2,0,0,-1--1--1,192-255-255,|18||0-0-0,0,0,0,0,0,0
+10,78,Percentage Increase in Transmission Capacity vs BAU,173,-95,100,20,8,131,0,0,0,0,0,0,0,0,0,0,0,0
+10,79,Fraction of Cropland and Rice Measures Achieved,1261,-647,81,19,8,131,0,0,0,0,0,0,0,0,0,0,0,0
+10,80,Fraction of Livestock Measures Achieved,1621,-647,68,19,8,131,0,0,0,0,0,0,0,0,0,0,0,0
+12,81,0,1976,-944,158,32,3,135,0,12,-1,2,0,0,-1--1--1,192-255-255,|18||0-0-0,0,0,0,0,0,0
 Land Use, Land Use Change, and Forestry
-10,82,Fraction of Forest Set Asides Achieved,2277,-291,70,19,8,131,0,0,0,0,0,0,0,0,0,0,0,0
-10,83,Fraction of Improved Forest Management Achieved,2277,-163,91,22,8,131,0,0,0,0,0,0,0,0,0,0,0,0
-10,84,Fraction of Afforestation and Reforestation Achieved,2277,-229,88,19,8,131,0,0,0,0,0,0,0,0,0,0,0,0
-12,85,0,559,-158,12,14,3,135,0,12,-1,2,0,0,-1--1--1,255-128-192,|16||0-0-0,0,0,0,0,0,0
+10,82,Fraction of Forest Set Asides Achieved,1976,-873,70,19,8,131,0,0,0,0,0,0,0,0,0,0,0,0
+10,83,Fraction of Improved Forest Management Achieved,1976,-745,91,22,8,131,0,0,0,0,0,0,0,0,0,0,0,0
+10,84,Fraction of Afforestation and Reforestation Achieved,1976,-811,88,19,8,131,0,0,0,0,0,0,0,0,0,0,0,0
+12,85,0,258,-740,12,14,3,135,0,12,-1,2,0,0,-1--1--1,255-128-192,|16||0-0-0,0,0,0,0,0,0
 S
-10,86,Percentage TnD Losses Avoided,825,87,52,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
-10,87,Percentage Reduction in Plant Downtime,825,142,70,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
-12,88,0,943,435,12,14,3,135,0,12,-1,2,0,0,-1--1--1,255-128-192,|16||0-0-0,0,0,0,0,0,0
+10,86,Percentage TnD Losses Avoided,524,-495,52,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,87,Percentage Reduction in Plant Downtime,524,-440,70,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+12,88,0,642,-147,12,14,3,135,0,12,-1,2,0,0,-1--1--1,255-128-192,|16||0-0-0,0,0,0,0,0,0
 S
-10,89,Fraction of Avoided Deforestation Achieved,2277,-97,75,19,8,131,0,0,0,0,0,0,0,0,0,0,0,0
-12,90,0,218,1622,253,152,3,188,0,0,1,0,0,0,0,0,0,0,0,0
+10,89,Fraction of Avoided Deforestation Achieved,1976,-679,75,19,8,131,0,0,0,0,0,0,0,0,0,0,0,0
+12,90,4524464,-83,1040,253,152,3,188,0,0,1,0,0,0,0,0,0,0,0,0
 Output_Avoided_Premature_Mortality
-10,91,Perc Subsidy for Distributed Solar PV Capacity,1191,113,94,21,8,131,0,0,0,0,0,0,0,0,0,0,0,0
-10,92,Min Fraction of Total Elec Demand to be Met by Distributed Solar PV,1191,185,115,23,8,131,0,0,0,0,0,0,0,0,0,0,0,0
-10,93,Percent Change in Electricity Imports,825,200,58,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
-10,94,Percent Change in Electricity Exports,825,261,58,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
-12,95,0,1319,-44,12,14,3,135,0,12,-1,2,0,0,-1--1--1,255-128-192,|16||0-0-0,0,0,0,0,0,0
+10,91,Perc Subsidy for Distributed Solar PV Capacity,890,-469,94,21,8,131,0,0,0,0,0,0,0,0,0,0,0,0
+10,92,Min Fraction of Total Elec Demand to be Met by Distributed Solar PV,890,-397,115,23,8,131,0,0,0,0,0,0,0,0,0,0,0,0
+10,93,Percent Change in Electricity Imports,524,-382,58,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,94,Percent Change in Electricity Exports,524,-321,58,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+12,95,0,1018,-626,12,14,3,135,0,12,-1,2,0,0,-1--1--1,255-128-192,|16||0-0-0,0,0,0,0,0,0
 S
-10,96,Boolean Ban New Power Plants,474,142,59,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
-12,97,0,549,142,12,14,3,135,0,12,-1,2,0,0,-1--1--1,255-128-192,|16||0-0-0,0,0,0,0,0,0
+10,96,Boolean Ban New Power Plants,173,-440,59,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+12,97,0,248,-440,12,14,3,135,0,12,-1,2,0,0,-1--1--1,255-128-192,|16||0-0-0,0,0,0,0,0,0
 S
-12,98,0,556,-225,12,14,3,135,0,12,-1,2,0,0,-1--1--1,255-128-192,|16||0-0-0,0,0,0,0,0,0
+12,98,0,255,-807,12,14,3,135,0,12,-1,2,0,0,-1--1--1,255-128-192,|16||0-0-0,0,0,0,0,0,0
 S
-10,99,Fraction of District Heat Fuel Use Shifted to Other Fuels,1191,431,96,21,8,131,0,0,0,0,0,0,0,0,0,0,0,0
-12,100,0,1191,296,158,26,3,135,0,12,-1,2,0,0,-1--1--1,192-255-255,|18||0-0-0,0,0,0,0,0,0
+10,99,Fraction of District Heat Fuel Use Shifted to Other Fuels,890,-151,96,21,8,131,0,0,0,0,0,0,0,0,0,0,0,0
+12,100,0,890,-286,158,26,3,135,0,12,-1,2,0,0,-1--1--1,192-255-255,|18||0-0-0,0,0,0,0,0,0
 District Heat & Hydrogen
-10,101,Boolean Use Non BAU RPS Qualifying Resource Definitions,825,375,109,21,8,131,0,0,0,0,0,0,0,0,0,0,0,0
-10,102,Fraction of Peatland Restoration Achieved,2277,-32,69,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
-10,103,Fraction of Forest Restoration Achieved,2277,27,69,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
-12,104,0,218,1258,253,152,3,188,0,0,1,0,0,0,0,0,0,0,0,0
+10,101,Boolean Use Non BAU RPS Qualifying Resource Definitions,524,-207,109,21,8,131,0,0,0,0,0,0,0,0,0,0,0,0
+10,102,Fraction of Peatland Restoration Achieved,1976,-614,69,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,103,Fraction of Forest Restoration Achieved,1976,-555,69,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+12,104,2557940,-83,676,253,152,3,188,0,0,1,0,0,0,0,0,0,0,0,0
 Output_CO2e_Emissions_by_Sector
-12,105,0,213,-177,12,14,3,135,0,12,-1,2,0,0,-1--1--1,255-128-192,|16||0-0-0,0,0,0,0,0,0
+12,105,0,-88,-759,12,14,3,135,0,12,-1,2,0,0,-1--1--1,255-128-192,|16||0-0-0,0,0,0,0,0,0
 S
-10,106,Additional LCFS Percentage,124,240,55,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
-10,107,Additional Minimum Required EV Sales Percentage,124,-40,101,18,8,131,0,0,0,0,0,0,0,0,0,0,0,0
-10,108,Additional EV Subsidy Percentage,124,-108,63,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
-12,109,0,240,-41,12,14,3,135,0,12,-1,2,0,0,-1--1--1,255-128-192,|16||0-0-0,0,0,0,0,0,0
+10,106,Additional LCFS Percentage,-177,-342,55,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,107,Additional Minimum Required EV Sales Percentage,-177,-622,101,18,8,131,0,0,0,0,0,0,0,0,0,0,0,0
+10,108,Additional EV Subsidy Percentage,-177,-690,63,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+12,109,0,-61,-623,12,14,3,135,0,12,-1,2,0,0,-1--1--1,255-128-192,|16||0-0-0,0,0,0,0,0,0
 S
-12,110,0,205,-109,12,14,3,135,0,12,-1,2,0,0,-1--1--1,255-128-192,|16||0-0-0,0,0,0,0,0,0
+12,110,0,-96,-691,12,14,3,135,0,12,-1,2,0,0,-1--1--1,255-128-192,|16||0-0-0,0,0,0,0,0,0
 S
-10,111,Policy Implementation Schedule Selector,1580,497,70,19,8,3,0,0,-1,0,0,0,0,0,0,0,0,0
-12,112,0,1580,424,176,25,3,135,0,12,-1,2,0,0,-1--1--1,128-192-0,|18||0-0-0,0,0,0,0,0,0
+10,111,Policy Implementation Schedule Selector,1279,-85,70,19,8,3,0,0,-1,0,0,0,0,0,0,0,0,0
+12,112,0,1279,-158,176,25,3,135,0,12,-1,2,0,0,-1--1--1,128-192-0,|18||0-0-0,0,0,0,0,0,0
 Implementation Schedule Selector
-10,113,Percent Reduction in Soft Costs of Capacity Construction,825,487,99,19,8,131,0,0,0,0,0,0,0,0,0,0,0,0
-10,114,Percentage Reduction of Separately Regulated Pollutants,124,305,106,23,8,131,0,0,0,0,0,0,0,0,0,0,0,0
-12,115,0,239,306,12,14,3,135,0,12,-1,2,0,0,-1--1--1,255-128-192,|16||0-0-0,0,0,0,0,0,0
+10,113,Percent Reduction in Soft Costs of Capacity Construction,524,-95,99,19,8,131,0,0,0,0,0,0,0,0,0,0,0,0
+10,114,Percentage Reduction of Separately Regulated Pollutants,-177,-277,106,23,8,131,0,0,0,0,0,0,0,0,0,0,0,0
+12,115,0,-62,-276,12,14,3,135,0,12,-1,2,0,0,-1--1--1,255-128-192,|16||0-0-0,0,0,0,0,0,0
 S
-12,116,0,2029,131,12,14,3,135,0,12,-1,2,0,0,-1--1--1,255-128-192,|16||0-0-0,0,0,0,0,0,0
+12,116,0,1728,-451,12,14,3,135,0,12,-1,2,0,0,-1--1--1,255-128-192,|16||0-0-0,0,0,0,0,0,0
 S
-12,117,0,953,267,12,14,3,135,0,12,-1,2,0,0,-1--1--1,255-128-192,|16||0-0-0,0,0,0,0,0,0
+12,117,0,652,-315,12,14,3,135,0,12,-1,2,0,0,-1--1--1,255-128-192,|16||0-0-0,0,0,0,0,0,0
 S
-12,118,0,1922,214,158,18,3,135,0,12,-1,2,0,0,-1--1--1,192-192-192,|14||0-0-0,0,0,0,0,0,0
+12,118,0,1621,-368,158,18,3,135,0,12,-1,2,0,0,-1--1--1,192-192-192,|14||0-0-0,0,0,0,0,0,0
 Industrial Demand Policies
-10,119,Percent Reduction in Nonenergy Nonagriculture Industry Product Demand,1922,282,86,34,8,131,0,0,0,0,0,0,0,0,0,0,0,0
-12,120,0,2026,282,12,14,3,135,0,12,-1,2,0,0,-1--1--1,255-128-192,|16||0-0-0,0,0,0,0,0,0
+10,119,Percent Reduction in Nonenergy Nonagriculture Industry Product Demand,1621,-300,86,34,8,131,0,0,0,0,0,0,0,0,0,0,0,0
+12,120,0,1725,-300,12,14,3,135,0,12,-1,2,0,0,-1--1--1,255-128-192,|16||0-0-0,0,0,0,0,0,0
 S
-10,121,Percent Animal Products Shifted to Nonanimal Products,1922,359,101,21,8,131,0,0,0,0,0,0,0,0,0,0,0,0
-10,122,Toggle Whether Carbon Tax Affects Process Emissions,825,-226,100,19,8,131,0,0,0,0,0,0,0,0,0,0,0,0
-10,123,Toggle Whether Carbon Tax Affects Non CO2 Emissions,825,-153,104,22,8,131,0,0,0,0,0,0,0,0,0,0,0,0
-10,124,Reduce EV Range Anxiety and Charging Time,124,105,93,21,8,131,0,0,0,0,0,0,0,0,0,0,0,0
-10,125,EV Charger Deployment,124,172,39,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
-10,126,Share of Preexisting Buildings Subject to Retrofitting,1191,29,94,22,8,131,0,0,0,0,0,0,0,0,0,0,0,0
-12,127,0,1305,30,12,14,3,135,0,12,-1,2,0,0,-1--1--1,255-128-192,|16||0-0-0,0,0,0,0,0,0
+10,121,Percent Animal Products Shifted to Nonanimal Products,1621,-223,101,21,8,131,0,0,0,0,0,0,0,0,0,0,0,0
+10,122,Toggle Whether Carbon Tax Affects Process Emissions,524,-808,100,19,8,131,0,0,0,0,0,0,0,0,0,0,0,0
+10,123,Toggle Whether Carbon Tax Affects Non CO2 Emissions,524,-735,104,22,8,131,0,0,0,0,0,0,0,0,0,0,0,0
+10,124,Reduce EV Range Anxiety and Charging Time,-177,-477,93,21,8,131,0,0,0,0,0,0,0,0,0,0,0,0
+10,125,EV Charger Deployment,-177,-410,39,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+10,126,Share of Preexisting Buildings Subject to Retrofitting,890,-553,94,22,8,131,0,0,0,0,0,0,0,0,0,0,0,0
+12,127,0,1004,-552,12,14,3,135,0,12,-1,2,0,0,-1--1--1,255-128-192,|16||0-0-0,0,0,0,0,0,0
 S
-10,128,Fraction of Hydrogen Production Pathways Shifted,1191,497,97,21,8,131,0,0,0,0,0,0,0,0,0,0,0,0
-12,129,0,912,90,12,14,3,135,0,12,-1,2,0,0,-1--1--1,255-128-192,|16||0-0-0,0,0,0,0,0,0
+10,128,Fraction of Hydrogen Production Pathways Shifted,890,-85,97,21,8,131,0,0,0,0,0,0,0,0,0,0,0,0
+12,129,0,611,-492,12,14,3,135,0,12,-1,2,0,0,-1--1--1,255-128-192,|16||0-0-0,0,0,0,0,0,0
 S
-10,130,Percent Reduction in Fossil Fuel Exports,1922,426,66,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
-12,131,0,2015,426,12,14,3,135,0,12,-1,2,0,0,-1--1--1,255-128-192,|16||0-0-0,0,0,0,0,0,0
+10,130,Percent Reduction in Fossil Fuel Exports,1621,-156,66,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+12,131,0,1714,-156,12,14,3,135,0,12,-1,2,0,0,-1--1--1,255-128-192,|16||0-0-0,0,0,0,0,0,0
 S
-10,132,Minimum Required Hydrogen Vehicle Sales Percentage,124,31,97,18,8,131,0,0,0,0,0,0,0,0,0,0,0,0
-12,133,0,240,32,12,14,3,135,0,12,-1,2,0,0,-1--1--1,255-128-192,|16||0-0-0,0,0,0,0,0,0
+10,132,Minimum Required Hydrogen Vehicle Sales Percentage,-177,-551,97,18,8,131,0,0,0,0,0,0,0,0,0,0,0,0
+12,133,0,-61,-550,12,14,3,135,0,12,-1,2,0,0,-1--1--1,255-128-192,|16||0-0-0,0,0,0,0,0,0
 S
-12,134,0,923,-295,12,14,3,135,0,12,-1,2,0,0,-1--1--1,255-128-192,|16||0-0-0,0,0,0,0,0,0
+12,134,0,622,-877,12,14,3,135,0,12,-1,2,0,0,-1--1--1,255-128-192,|16||0-0-0,0,0,0,0,0,0
 S
-12,135,0,2548,901,253,152,3,188,0,0,1,0,0,0,0,0,0,0,0,0
+12,135,2427080,2247,319,253,152,3,188,0,0,1,0,0,0,0,0,0,0,0,0
 Transportation_Passenger_LDVs_by_Technology
-12,136,0,2548,1258,253,152,3,188,0,0,1,0,0,0,0,0,0,0,0,0
+12,136,4457844,2247,676,253,152,3,188,0,0,1,0,0,0,0,0,0,0,0,0
 Transportation_Freight_HDVs_by_Technology
-12,137,0,218,684,253,26,3,135,0,12,-1,2,0,0,-1--1--1,255-192-128,|18||0-0-0,0,0,0,0,0,0
+12,137,0,-83,102,253,26,3,135,0,12,-1,2,0,0,-1--1--1,255-192-128,|18||0-0-0,0,0,0,0,0,0
 Emissions
-12,138,0,1091,684,544,26,3,135,0,12,-1,2,0,0,-1--1--1,255-192-128,|18||0-0-0,0,0,0,0,0,0
+12,138,0,790,102,544,26,3,135,0,12,-1,2,0,0,-1--1--1,255-192-128,|18||0-0-0,0,0,0,0,0,0
 Financial
-12,139,0,1964,691,253,26,3,135,0,12,-1,2,0,0,-1--1--1,255-192-128,|18||0-0-0,0,0,0,0,0,0
+12,139,0,1663,109,253,26,3,135,0,12,-1,2,0,0,-1--1--1,255-192-128,|18||0-0-0,0,0,0,0,0,0
 Electricity
-12,140,0,2548,691,253,26,3,135,0,12,-1,2,0,0,-1--1--1,255-192-128,|18||0-0-0,0,0,0,0,0,0
+12,140,0,2247,109,253,26,3,135,0,12,-1,2,0,0,-1--1--1,255-192-128,|18||0-0-0,0,0,0,0,0,0
 Vehicle Technologies
-12,141,0,800,1622,253,152,3,188,0,0,1,0,0,0,0,0,0,0,0,0
+12,141,5115578,499,1040,253,152,3,188,0,0,1,0,0,0,0,0,0,0,0,0
 Output_Change_in_Energy_Export_Revenue
-12,142,0,800,1987,253,152,3,188,0,0,1,0,0,0,0,0,0,0,0,0
+12,142,6820244,499,1405,253,152,3,188,0,0,1,0,0,0,0,0,0,0,0,0
 Output_Change_in_Energy_Import_Expenditures
-10,143,Fuel Price Deregulation,825,-82,41,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
-12,144,0,887,-84,12,14,3,135,0,12,-1,2,0,0,-1--1--1,255-128-192,|16||0-0-0,0,0,0,0,0,0
+10,143,Fuel Price Deregulation,524,-664,41,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+12,144,0,586,-666,12,14,3,135,0,12,-1,2,0,0,-1--1--1,255-128-192,|16||0-0-0,0,0,0,0,0,0
 S
-10,145,Fraction of F Gas Destruction Achieved,1922,-189,69,19,8,131,0,0,-1,0,0,0,0,0,0,0,0,0
-10,146,Fraction of F Gas Recovery Achieved,1562,-129,63,19,8,131,0,0,-1,0,0,0,0,0,0,0,0,0
-10,147,Fraction of F Gas Inspct Maint Retrofit Achieved,1922,-126,78,19,8,131,0,0,-1,0,0,0,0,0,0,0,0,0
-12,148,0,1672,-253,12,14,3,135,0,12,-1,2,0,0,-1--1--1,255-128-192,|16||0-0-0,0,0,0,0,0,0
+10,145,Fraction of F Gas Destruction Achieved,1621,-771,69,19,8,131,0,0,-1,0,0,0,0,0,0,0,0,0
+10,146,Fraction of F Gas Recovery Achieved,1261,-711,63,19,8,131,0,0,-1,0,0,0,0,0,0,0,0,0
+10,147,Fraction of F Gas Inspct Maint Retrofit Achieved,1621,-708,78,19,8,131,0,0,-1,0,0,0,0,0,0,0,0,0
+12,148,0,1371,-835,12,14,3,135,0,12,-1,2,0,0,-1--1--1,255-128-192,|16||0-0-0,0,0,0,0,0,0
 S
-12,149,0,2045,-253,12,14,3,135,0,12,-1,2,0,0,-1--1--1,255-128-192,|16||0-0-0,0,0,0,0,0,0
+12,149,0,1744,-835,12,14,3,135,0,12,-1,2,0,0,-1--1--1,255-128-192,|16||0-0-0,0,0,0,0,0,0
 S
-10,150,Perc Subsidy for Elec Capacity Construction,474,550,71,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
-12,151,0,562,550,12,14,3,135,0,12,-1,2,0,0,-1--1--1,255-128-192,|16||0-0-0,0,0,0,0,0,0
+10,150,Perc Subsidy for Elec Capacity Construction,173,-32,71,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+12,151,0,261,-32,12,14,3,135,0,12,-1,2,0,0,-1--1--1,255-128-192,|16||0-0-0,0,0,0,0,0,0
 S
-10,152,Fraction of Direct Air Capture Potential Achieved,124,460,87,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
-12,153,0,124,392,158,26,3,135,0,12,-1,2,0,0,-1--1--1,192-255-255,|18||0-0-0,0,0,0,0,0,0
+10,152,Fraction of Direct Air Capture Potential Achieved,-177,-122,87,19,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+12,153,0,-177,-190,158,26,3,135,0,12,-1,2,0,0,-1--1--1,192-255-255,|18||0-0-0,0,0,0,0,0,0
 Geoengineering
-12,154,0,903,200,12,14,3,135,0,12,-1,2,0,0,-1--1--1,255-128-192,|16||0-0-0,0,0,0,0,0,0
+12,154,0,602,-382,12,14,3,135,0,12,-1,2,0,0,-1--1--1,255-128-192,|16||0-0-0,0,0,0,0,0,0
 S
-12,155,0,571,-82,12,14,3,135,0,12,-1,2,0,0,-1--1--1,255-128-192,|16||0-0-0,0,0,0,0,0,0
+12,155,0,270,-664,12,14,3,135,0,12,-1,2,0,0,-1--1--1,255-128-192,|16||0-0-0,0,0,0,0,0,0
 S
-12,156,0,1382,898,253,152,3,188,0,0,1,0,0,0,0,0,0,0,0,0
+12,156,2623968,1081,316,253,152,3,188,0,0,1,0,0,0,0,0,0,0,0,0
 Output_Change_in_Domestic_Jobs
-12,157,0,1382,1622,253,152,3,188,0,0,1,0,0,0,0,0,0,0,0,0
+12,157,12847368,1081,1040,253,152,3,188,0,0,1,0,0,0,0,0,0,0,0,0
 Output_Government_Cash_Flow_Accounting
-12,158,0,1382,1258,253,152,3,188,0,0,1,0,0,0,0,0,0,0,0,0
+12,158,2623370,1081,676,253,152,3,188,0,0,1,0,0,0,0,0,0,0,0,0
 Output_Change_in_GDP
 \\\---/// Sketch information - do not modify anything except names
 V300  Do not put anything below this section - it will be ignored
@@ -32658,7 +32658,7 @@ We exclude energy industries because fuel prices are already adjusted by carbon 
 1,291,290,198,0,0,0,0,0,128,0,-1--1--1,,1|(902,1462)|
 10,292,Percent of Other Industries Category Energy Spending by ISIC Code,2572,1530,95,30,8,130,0,19,-1,0,0,0,128-128-128,0-0-0,|12|I|128-128-128,0,0,0,0,0,0
 1,293,292,186,0,0,0,0,0,128,0,-1--1--1,,1|(2572,1477)|
-10,294,Percent of Other Industries Category Energy Spending by ISIC Code,962,444,94,28,8,130,0,19,-1,0,0,0,128-128-128,0-0-0,|0|I|128-128-128,0,0,0,0,0,0
+10,294,Percent of Other Industries Category Energy Spending by ISIC Code,962,444,94,28,8,130,0,19,-1,0,0,0,128-128-128,0-0-0,|12|I|128-128-128,0,0,0,0,0,0
 1,295,294,279,0,0,0,0,0,128,0,-1--1--1,,1|(1085,444)|
 \\\---/// Sketch information - do not modify anything except names
 V300  Do not put anything below this section - it will be ignored
@@ -37710,9 +37710,2856 @@ Macro Effects involve partitioning the total change in output (calculated from t
 12,247,0,1195,127,126,44,3,135,0,4,-1,0,0,0,-1--1--1,192-255-255,|12||0-0-0,0,0,0,0,0,0
 Revenue changes for fuel-supplying cash flow entities should be the same after allocating them to ISIC codes.
 ///---\\\
+:GRAPH Output_CO2e_Emissions_(Total)
+:TITLE CO2e Emissions (Total)
+:NO-LEGEND 5
+:SCALE
+:VAR Output Total CO2e Emissions
+:LINE-WIDTH 2
+
+:GRAPH Output_CO2e_Emissions_(Total_Excluding_LULUCF)
+:TITLE CO2e Emissions (Total, Excluding LULUCF)
+:NO-LEGEND 5
+:SCALE
+:VAR Output Total CO2e Emissions Excluding LULUCF
+:LINE-WIDTH 2
+
+:GRAPH Output_CO2e_Emissions_by_Sector
+:TITLE CO2e Emissions by Sector
+:NO-LEGEND 4
+:SCALE
+:VAR Output Total CO2e Emissions by Sector[LULUCF sector]|Land Use
+:LINE-COLOR 0-176-80
+:LINE-WIDTH 2
+:VAR Output Total CO2e Emissions by Sector[geoengineering sector]|Geoengineering
+:LINE-COLOR 173-102-0
+:LINE-WIDTH 2
+:VAR Output Industry Sector Excluding Ag and Waste CO2e Emissions|Industry
+:LINE-COLOR 150-150-150
+:LINE-WIDTH 2
+:VAR Output Total CO2e Emissions by Sector[electricity sector]|Electricity
+:LINE-COLOR 241-187-24
+:LINE-WIDTH 2
+:VAR Output Total CO2e Emissions by Sector[transportation sector]|Transportation
+:LINE-COLOR 192-27-0
+:LINE-WIDTH 2
+:VAR Output Buildings Sector CO2e Emissions|Buildings
+:LINE-COLOR 8-123-241
+:LINE-WIDTH 2
+:VAR Output Total CO2e Emissions by Sector[district heat and hydrogen sector]|District Heat & Hydrogen
+:LINE-COLOR 98-14-122
+:LINE-WIDTH 2
+:VAR Output Agriculture CO2e Emissions|Agriculture
+:LINE-COLOR 4-255-175
+:LINE-WIDTH 2
+:VAR Output Waste Management CO2e Emissions|Water & Waste
+:LINE-COLOR 245-147-224
+:LINE-WIDTH 2
+
+:GRAPH Output_CO2e_Emissions_by_Source_Type
+:TITLE CO2e Emissions by Source Type
+:NO-LEGEND 4
+:SCALE
+:VAR Output Total CO2e Emissions by Sector[LULUCF sector]|Land Use
+:LINE-COLOR 0-176-80
+:LINE-WIDTH 2
+:VAR Output Total CO2e Emissions by Sector[geoengineering sector]|Geoengineering
+:LINE-COLOR 173-102-0
+:LINE-WIDTH 2
+:VAR Output Energy Related CO2e Emissions|Energy
+:LINE-COLOR 192-27-0
+:LINE-WIDTH 2
+:VAR Output Process Emissions in CO2e|Process Emissions
+:LINE-COLOR 8-123-241
+:LINE-WIDTH 2
+
+:GRAPH Output_CO2e_Emissions_by_Pollutant
+:TITLE CO2e Emissions by Pollutant
+:STACK-FILL 0
+:NO-LEGEND 4
+:SCALE
+:VAR Output Total CO2e Emissions by Pollutant[CO2]|CO2
+:Y-MIN 0
+:LINE-COLOR 150-150-150
+:VAR Output Total CO2e Emissions by Pollutant[CH4]|CH4
+:Y-MIN 0
+:LINE-COLOR 192-27-0
+:VAR Output Total CO2e Emissions by Pollutant[F gases]|F-gases
+:Y-MIN 0
+:LINE-COLOR 0-0-0
+:VAR Output Total CO2e Emissions by Pollutant[N2O]|N2O
+:Y-MIN 0
+:LINE-COLOR 0-176-80
+
+:GRAPH Output_CO2e_Emissions_from_Agriculture
+:TITLE CO2e Emissions from Agriculture
+:NO-LEGEND 5
+:SCALE
+:VAR Output Agriculture CO2e Emissions
+:LINE-WIDTH 2
+
+:GRAPH Output_CO2e_Emissions_from_Buildings
+:TITLE CO2e Emissions from Buildings
+:NO-LEGEND 5
+:SCALE
+:VAR Output Buildings Sector CO2e Emissions
+:LINE-WIDTH 2
+
+:GRAPH Output_CO2e_Emissions_from_Electricity
+:TITLE CO2e Emissions from Electricity
+:NO-LEGEND 5
+:SCALE
+:VAR Output Total CO2e Emissions by Sector[electricity sector]
+:LINE-WIDTH 2
+
+:GRAPH Output_CO2e_Emissions_from_Industry
+:TITLE CO2e Emissions from Industry
+:NO-LEGEND 5
+:SCALE
+:VAR Output Industry Sector Excluding Ag and Waste CO2e Emissions
+:LINE-WIDTH 2
+
+:GRAPH Output_CO2e_Emissions_from_Land_Use
+:TITLE CO2e Emissions from Land Use
+:NO-LEGEND 5
+:SCALE
+:VAR Output Total CO2e Emissions by Sector[LULUCF sector]
+:LINE-WIDTH 2
+
+:GRAPH Output_CO2e_Emissions_from_Transportation
+:TITLE CO2e Emissions from Transportation
+:NO-LEGEND 5
+:SCALE
+:VAR Output Total CO2e Emissions by Sector[transportation sector]
+:LINE-WIDTH 2
+
+:GRAPH Output_CO2e_Emissions_from_Waste_Management
+:TITLE CO2e Emissions from Water & Waste
+:NO-LEGEND 5
+:SCALE
+:VAR Output Waste Management CO2e Emissions
+:LINE-WIDTH 2
+
+:GRAPH Output_CO2e_Emissions_from_District_Heating
+:TITLE CO2e Emissions from District Heat & Hydrogen
+:NO-LEGEND 5
+:SCALE
+:VAR Output Total CO2e Emissions by Sector[district heat and hydrogen sector]
+:LINE-WIDTH 2
+
+:GRAPH Output_CO2e_per_Unit_GDP
+:TITLE CO2e per Unit GDP
+:NO-LEGEND 5
+:SCALE
+:VAR Output Total CO2e Emissions per Unit GDP
+:LINE-WIDTH 2
+
+:GRAPH Output_Pollutant_CO2_Emissions
+:TITLE Pollutant: CO2 Emissions
+:NO-LEGEND 5
+:SCALE
+:VAR Output Total CO2 Emissions
+:LINE-WIDTH 2
+
+:GRAPH Output_Pollutant_CH4_Emissions
+:TITLE Pollutant: CH4 Emissions
+:NO-LEGEND 5
+:SCALE
+:VAR Output Total CH4 Emissions
+:LINE-WIDTH 2
+
+:GRAPH Output_Pollutant_N2O_Emissions
+:TITLE Pollutant: N2O Emissions
+:NO-LEGEND 5
+:SCALE
+:VAR Output Total N2O Emissions
+:LINE-WIDTH 2
+
+:GRAPH Output_Pollutant_F_Gas_Emissions
+:TITLE Pollutant: F Gas Emissions
+:NO-LEGEND 5
+:SCALE
+:VAR Output Total F Gas Emissions in CO2e
+:LINE-WIDTH 2
+
+:GRAPH Output_Pollutant_PM25_Emissions
+:TITLE Pollutant: PM2.5 Emissions
+:NO-LEGEND 5
+:SCALE
+:VAR Output Total PM25 Emissions
+:LINE-WIDTH 2
+
+:GRAPH Output_Pollutant_PM10_Emissions
+:TITLE Pollutant: PM10 Emissions
+:NO-LEGEND 5
+:SCALE
+:VAR Output Total PM10 Emissions
+:LINE-WIDTH 2
+
+:GRAPH Output_Pollutant_BC_Emissions
+:TITLE Pollutant: BC Emissions
+:NO-LEGEND 5
+:SCALE
+:VAR Output Total BC Emissions
+:LINE-WIDTH 2
+
+:GRAPH Output_Pollutant_OC_Emissions
+:TITLE Pollutant: OC Emissions
+:NO-LEGEND 5
+:SCALE
+:VAR Output Total OC Emissions
+:LINE-WIDTH 2
+
+:GRAPH Output_Pollutant_NOx_Emissions
+:TITLE Pollutant: NOx Emissions
+:NO-LEGEND 5
+:SCALE
+:VAR Output Total NOx Emissions
+:LINE-WIDTH 2
+
+:GRAPH Output_Pollutant_VOC_Emissions
+:TITLE Pollutant: VOC Emissions
+:NO-LEGEND 5
+:SCALE
+:VAR Output Total VOC Emissions
+:LINE-WIDTH 2
+
+:GRAPH Output_Pollutant_SOx_Emissions
+:TITLE Pollutant: SOx Emissions
+:NO-LEGEND 5
+:SCALE
+:VAR Output Total SOx Emissions
+:LINE-WIDTH 2
+
+:GRAPH Output_Pollutant_CO_Emissions
+:TITLE Pollutant: CO Emissions
+:NO-LEGEND 5
+:SCALE
+:VAR Output Total CO Emissions
+:LINE-WIDTH 2
+
+:GRAPH Output_Energy_Related_CO2_by_Sector
+:TITLE Energy Related CO2 Emissions by Sector
+:STACK-FILL 0
+:NO-LEGEND 4
+:SCALE
+:VAR Output Energy Related CO2 Emissions by Sector[industry sector]|Industry
+:LINE-COLOR 150-150-150
+:VAR Output Energy Related CO2 Emissions by Sector[electricity sector]|Electricity
+:LINE-COLOR 241-187-24
+:VAR Output Energy Related CO2 Emissions by Sector[transportation sector]|Transportation
+:LINE-COLOR 192-27-0
+:VAR Output Energy Related CO2 Emissions from Buildings Sector|Buildings
+:LINE-COLOR 8-123-241
+:VAR Output Energy Related CO2 Emissions by Sector[district heat and hydrogen sector]|District Heat & Hydrogen
+:LINE-COLOR 98-14-122
+:VAR Output Energy Related CO2 Emissions from Agriculture|Agriculture
+:LINE-COLOR 4-255-175
+:VAR Output Energy Related CO2 Emissions from Waste Management|Water & Waste
+:LINE-COLOR 245-147-224
+:VAR Output Energy Related CO2 Emissions by Sector[geoengineering sector]|Geoengineering
+:LINE-COLOR 173-102-0
+
+:GRAPH Output_Energy_Related_CO2_by_Sector_with_Reallocated_Energy_Carrier_Emissions
+:TITLE Energy Related CO2 Emissions by Sector with Reallocated Energy Carrier Emissions
+:STACK-FILL 0
+:NO-LEGEND 4
+:SCALE
+:VAR Output Energy Related CO2 Emissions with Reallocated Energy Carrier Emissions by Industry Sector|Industry
+:LINE-COLOR 150-150-150
+:VAR Output Energy Related CO2 Emissions with Reallocated Energy Carrier Emissions by Transportation Sector|Transportation
+:LINE-COLOR 192-27-0
+:VAR Output Energy Related CO2 Emissions with Reallocated Energy Carrier Emissions by Buildings Sector|Buildings
+:LINE-COLOR 8-123-241
+:VAR Output Energy Related CO2 Emissions with Reallocated Energy Carrier Emissions by Agriculture|Agriculture
+:LINE-COLOR 4-255-175
+:VAR Output Energy Related CO2 Emissions with Reallocated Energy Carrier Emissions by Waste Management|Water & Waste
+:LINE-COLOR 245-147-224
+:VAR Output Energy Related CO2 Emissions with Reallocated Energy Carrier Emissions by Geoengineering Sector|Geoengineering
+:LINE-COLOR 173-102-0
+
+:GRAPH Output_Energy_Related_CO2_by_Fuel
+:TITLE Energy Related CO2 Emissions by Fuel
+:STACK-FILL 0
+:NO-LEGEND 4
+:SCALE
+:VAR Output Energy Related CO2 Emissions from Hard Coal and Lignite|Hard Coal & Lignite
+:Y-MIN 0
+:LINE-COLOR 150-150-150
+:VAR Output Energy Related CO2 Emissions by Fuel[natural gas]|Natural Gas
+:Y-MIN 0
+:LINE-COLOR 192-27-0
+:VAR Output Energy Related CO2 Emissions by Fuel[crude oil]|Crude Oil
+:Y-MIN 0
+:LINE-COLOR 116-0-0
+:VAR Output Energy Related CO2 Emissions from Refined Petroleum Fuels|Refined Petroleum Fuels
+:Y-MIN 0
+:LINE-COLOR 0-0-0
+:VAR Output Energy Related CO2 Emissions from Biomass Biofuels and MSW|Biomass Biofuels & MSW (net)
+:Y-MIN 0
+:LINE-COLOR 0-176-80
+:VAR Output CO2 Captured via DAC|Direct Air Capture (Geoengineering)
+:Y-MIN 0
+:LINE-COLOR 173-102-0
+
+:GRAPH Output_Energy_Related_CO2_per_Unit_GDP
+:TITLE Energy-Related CO2 per Unit GDP
+:NO-LEGEND 5
+:SCALE
+:VAR Output Energy Related CO2 per Unit GDP
+:LINE-WIDTH 2
+
+:GRAPH Output_Financial_Total_Change_in_Capital_Fuel_and_OM_Expenditures
+:TITLE Financial: Total Change in Capital and Operational Expenditures
+:NO-LEGEND 4
+:SCALE
+:VAR Output Total Change in Fuel and OM Expenditures|Fuel + O&M
+:LINE-COLOR 192-27-0
+:LINE-WIDTH 2
+:VAR Output Total Change in Capital Expenditures|Capital Eqpt
+:LINE-COLOR 8-123-241
+:LINE-WIDTH 2
+:VAR Output Carbon Tax on Process Emissions|Carbon Tax on Process Emissions
+:LINE-COLOR 241-187-24
+:LINE-WIDTH 2
+:VAR Output Rebate of Taxes Less Subsidies|Tax Rebate (Net)
+:LINE-COLOR 0-176-80
+:LINE-WIDTH 2
+:VAR Output Total Change in CapEx and OpEx|Total
+:LINE-COLOR 0-0-0
+:LINE-WIDTH 2
+
+:GRAPH Output_Government_Cash_Flow_Accounting
+:TITLE Government Cash Flow Accounting
+:NO-LEGEND 4
+:SCALE
+:VAR Output Government Revenue Change Allocated by Mechanism[regular spending]|Change in Government Spending
+:LINE-COLOR 8-123-241
+:LINE-WIDTH 2
+:VAR Output Government Revenue Change Allocated by Mechanism[deficit spending]|Change in Budget Deficit
+:LINE-COLOR 192-27-0
+:LINE-WIDTH 2
+:VAR Output Government Revenue Change Allocated by Mechanism[household taxes]|Change in Household Taxes
+:LINE-COLOR 98-14-122
+:LINE-WIDTH 2
+:VAR Output Government Revenue Change Allocated by Mechanism[payroll taxes]|Change in Payroll Taxes
+:LINE-COLOR 175-100-255
+:LINE-WIDTH 2
+:VAR Output Government Revenue Change Allocated by Mechanism[corporate taxes]|Change in Corporate Income Taxes
+:LINE-COLOR 245-147-224
+:LINE-WIDTH 2
+
+:GRAPH Output_Cumulative_Change_in_National_Debt
+:TITLE Cumulative Change in National Debt
+:NO-LEGEND 5
+:SCALE
+:VAR Output Cumulative Change in National Debt
+:LINE-WIDTH 2
+
+:GRAPH Output_Change_in_Interest_Paid_on_National_Debt
+:TITLE Change in Interest Paid on National Debt
+:NO-LEGEND 5
+:SCALE
+:VAR Output Change in Interest Paid on National Debt
+:LINE-WIDTH 2
+
+:GRAPH Output_Change_in_Domestic_Jobs
+:TITLE Change in Domestic Jobs
+:NO-LEGEND 4
+:SCALE
+:VAR Output Change in Fossil and Utility Domestic Jobs|Fossil Fuel and Utility Jobs
+:LINE-COLOR 192-27-0
+:LINE-WIDTH 2
+:VAR Output Change in Manufacturing and Construction Domestic Jobs|Manufacturing and Construction Jobs
+:LINE-COLOR 8-123-241
+:LINE-WIDTH 2
+:VAR Output Change in Other Domestic Jobs|Other Jobs
+:LINE-COLOR 241-187-24
+:LINE-WIDTH 2
+:VAR Output Change in Domestic Jobs|Total
+:LINE-COLOR 0-0-0
+:LINE-WIDTH 2
+
+:GRAPH Output_Change_in_Domestic_Union_and_Nonunion_Jobs
+:TITLE Change in Domestic Union and Non-Union Jobs
+:NO-LEGEND 4
+:SCALE
+:VAR Output Change in Domestic Union Represented Jobs|Union Jobs
+:LINE-COLOR 8-123-241
+:LINE-WIDTH 2
+:VAR Output Change in Domestic Non Union Jobs|Non-Union Jobs
+:LINE-COLOR 0-176-80
+:LINE-WIDTH 2
+:VAR Output Change in Domestic Jobs|Total
+:LINE-COLOR 0-0-0
+:LINE-WIDTH 2
+
+:GRAPH Output_Direct_Indirect_Induced_Change_in_Jobs
+:TITLE Direct, Indirect, and Induced Change in Jobs
+:NO-LEGEND 4
+:SCALE
+:VAR Output Direct Change in Jobs|Direct
+:LINE-COLOR 192-27-0
+:LINE-WIDTH 2
+:VAR Output Indirect Change in Jobs|Indirect
+:LINE-COLOR 175-100-255
+:LINE-WIDTH 2
+:VAR Output Induced Change in Jobs|Induced
+:LINE-COLOR 245-147-224
+:LINE-WIDTH 2
+:VAR Output Change in Domestic Jobs|Total
+:LINE-COLOR 0-0-0
+:LINE-WIDTH 2
+
+:GRAPH Output_Change_in_Direct_Plus_Indirect_Jobs
+:TITLE Change in Direct Plus Indirect Jobs
+:NO-LEGEND 4
+:SCALE
+:VAR Output Change in Fossil and Utility Direct and Indirect Jobs|Fossil Fuel and Utility Jobs
+:LINE-COLOR 192-27-0
+:LINE-WIDTH 2
+:VAR Output Change in Manufacturing and Construction Direct and Indirect Jobs|Manufacturing and Construction Jobs
+:LINE-COLOR 8-123-241
+:LINE-WIDTH 2
+:VAR Output Change in Other Direct and Indirect Jobs|Other Jobs
+:LINE-COLOR 241-187-24
+:LINE-WIDTH 2
+:VAR Output Change in Direct and Indirect Jobs|Total
+:LINE-COLOR 0-0-0
+:LINE-WIDTH 2
+
+:GRAPH Output_Change_in_GDP
+:TITLE Change in GDP
+:NO-LEGEND 4
+:SCALE
+:VAR Output Change in Fossil and Utility GDP Contribution|Fossil Fuels and Utilities
+:LINE-COLOR 192-27-0
+:LINE-WIDTH 2
+:VAR Output Change in Manufacturing and Construction GDP Contribution|Manufacturing and Construction
+:LINE-COLOR 8-123-241
+:LINE-WIDTH 2
+:VAR Output Change in Other GDP Contribution|Other Contributors
+:LINE-COLOR 241-187-24
+:LINE-WIDTH 2
+:VAR Output Change in GDP|Total
+:LINE-COLOR 0-0-0
+:LINE-WIDTH 2
+
+:GRAPH Output_Percent_Change_in_GDP
+:TITLE Percent Change in GDP
+:NO-LEGEND 4
+:SCALE
+:VAR Output Fossil and Utility Contribution to Perc Change in GDP|Fossil Fuels and Utilities
+:LINE-COLOR 192-27-0
+:LINE-WIDTH 2
+:VAR Output Manufacturing and Construction Contribution to Perc Change in GDP|Manufacturing and Construction
+:LINE-COLOR 8-123-241
+:LINE-WIDTH 2
+:VAR Output Other Contribution to Perc Change in GDP|Other Contributors
+:LINE-COLOR 241-187-24
+:LINE-WIDTH 2
+:VAR Output Perc Change in GDP|Total
+:LINE-COLOR 0-0-0
+:LINE-WIDTH 2
+
+:GRAPH Output_Direct_Indirect_Induced_Change_in_GDP
+:TITLE Direct, Indirect, and Induced Change in GDP
+:NO-LEGEND 4
+:SCALE
+:VAR Output Direct Change in GDP|Direct
+:LINE-COLOR 192-27-0
+:LINE-WIDTH 2
+:VAR Output Indirect Change in GDP|Indirect
+:LINE-COLOR 175-100-255
+:LINE-WIDTH 2
+:VAR Output Induced Change in GDP|Induced
+:LINE-COLOR 245-147-224
+:LINE-WIDTH 2
+:VAR Output Change in GDP|Total
+:LINE-COLOR 0-0-0
+:LINE-WIDTH 2
+
+:GRAPH Output_Change_in_Domestic_Employee_Compensation
+:TITLE Change in Domestic Employee Compensation
+:NO-LEGEND 4
+:SCALE
+:VAR Output Change in Fossil and Utility Domestic Employee Compensation|Fossil Fuels and Utilities
+:LINE-COLOR 192-27-0
+:LINE-WIDTH 2
+:VAR Output Change in Manufacturing and Construction Domestic Employee Compensation|Manufacturing and Construction
+:LINE-COLOR 8-123-241
+:LINE-WIDTH 2
+:VAR Output Change in Other Domestic Employee Compensation|Others
+:LINE-COLOR 241-187-24
+:LINE-WIDTH 2
+:VAR Output Change in Domestic Employee Compensation|Total
+:LINE-COLOR 0-0-0
+:LINE-WIDTH 2
+
+:GRAPH Output_Change_in_Compensation_per_Domestic_Employee
+:TITLE Change in Compensation per Domestic Employee
+:NO-LEGEND 5
+:SCALE
+:VAR Output Change in Compensation per Domestic Employee
+:LINE-WIDTH 2
+
+:GRAPH Output_Direct_Indirect_Induced_Change_in_Compensation
+:TITLE Direct, Indirect, and Induced Change in Compensation
+:NO-LEGEND 4
+:SCALE
+:VAR Output Direct Change in Compensation|Direct
+:LINE-COLOR 192-27-0
+:LINE-WIDTH 2
+:VAR Output Indirect Change in Compensation|Indirect
+:LINE-COLOR 175-100-255
+:LINE-WIDTH 2
+:VAR Output Induced Change in Compensation|Induced
+:LINE-COLOR 245-147-224
+:LINE-WIDTH 2
+:VAR Output Change in Domestic Employee Compensation|Total
+:LINE-COLOR 0-0-0
+:LINE-WIDTH 2
+
+:GRAPH Output_Financial_Cash_Flow_Change_by_Entity
+:TITLE Financial: Direct Cash Flow Change by Entity
+:NO-LEGEND 4
+:SCALE
+:VAR Output Change in Cash Flow by Entity[government]|Government
+:LINE-COLOR 0-0-0
+:LINE-WIDTH 2
+:VAR Output Change in Cash Flow by Entity[nonenergy industries]|Non-Energy Industries
+:LINE-COLOR 8-123-241
+:LINE-WIDTH 2
+:VAR Output Change in Cash Flow by Entity[labor and consumers]|Labor and Consumers
+:LINE-COLOR 245-147-224
+:LINE-WIDTH 2
+:VAR Output Change in Cash Flow by Entity[foreign entities]|Foreign Entities
+:LINE-COLOR 4-255-175
+:LINE-WIDTH 2
+:VAR Output Change in Cash Flow by Entity[electricity suppliers]|Electricity Suppliers
+:LINE-COLOR 241-187-24
+:LINE-WIDTH 2
+:VAR Output Change in Cash Flow by Entity[coal suppliers]|Coal Suppliers
+:LINE-COLOR 150-150-150
+:LINE-WIDTH 2
+:VAR Output Change in Cash Flow by Entity[natural gas and petroleum suppliers]|Petroleum and Natural Gas Suppliers
+:LINE-COLOR 192-27-0
+:LINE-WIDTH 2
+:VAR Output Change in Cash Flow by Entity[biomass and biofuel suppliers]|Biomass and Biofuel Suppliers
+:LINE-COLOR 0-176-80
+:LINE-WIDTH 2
+:VAR Output Change in Cash Flow by Entity[other energy suppliers]|Other Energy Suppliers
+:LINE-COLOR 98-14-122
+:LINE-WIDTH 2
+
+:GRAPH Output_Financial_Government_Cash_Flow_Components
+:TITLE Financial: Government Cash Flow Components
+:NO-LEGEND 4
+:SCALE
+:VAR Output Change in Revenue by Entity[government]|Change in Revenue
+:LINE-COLOR 0-176-80
+:LINE-WIDTH 2
+:VAR Output Change in Energy Expenditures by Entity Inverted[government]|Change in Energy Expenditures (inverted)
+:LINE-COLOR 192-27-0
+:LINE-WIDTH 2
+:VAR Output Change in Nonenergy Expenditures by Entity Inverted[government]|Change in Non-Energy Expenditures (inverted)
+:LINE-COLOR 8-123-241
+:LINE-WIDTH 2
+:VAR Output Change in Cash Flow by Entity[government]|Total
+:LINE-COLOR 0-0-0
+:LINE-WIDTH 2
+
+:GRAPH Output_Financial_Nonenergy_Industries_Cash_Flow_Components
+:TITLE Financial: Non-Energy Industries Cash Flow Components
+:NO-LEGEND 4
+:SCALE
+:VAR Output Change in Domestic Revenue by Entity[nonenergy industries]|Change in Domestic Revenue
+:LINE-COLOR 0-176-80
+:LINE-WIDTH 2
+:VAR Output Change in Export Revenue by Entity[nonenergy industries]|Change in Export Revenue
+:LINE-COLOR 241-187-24
+:LINE-WIDTH 2
+:VAR Output Change in Energy Expenditures by Entity Inverted[nonenergy industries]|Change in Energy Expenditures (inverted)
+:LINE-COLOR 192-27-0
+:LINE-WIDTH 2
+:VAR Output Change in Nonenergy Expenditures by Entity Inverted[nonenergy industries]|Change in Non-Energy Expenditures (inverted)
+:LINE-COLOR 8-123-241
+:LINE-WIDTH 2
+:VAR Output Change in Cash Flow by Entity[nonenergy industries]|Total
+:LINE-COLOR 0-0-0
+:LINE-WIDTH 2
+
+:GRAPH Output_Financial_Labor_and_Consumers_Cash_Flow_Components
+:TITLE Financial: Labor and Consumers Cash Flow Components
+:NO-LEGEND 4
+:SCALE
+:VAR Output Change in Revenue by Entity[labor and consumers]|Change in Revenue
+:LINE-COLOR 0-176-80
+:LINE-WIDTH 2
+:VAR Output Change in Energy Expenditures by Entity Inverted[labor and consumers]|Change in Energy Expenditures (inverted)
+:LINE-COLOR 192-27-0
+:LINE-WIDTH 2
+:VAR Output Change in Nonenergy Expenditures by Entity Inverted[labor and consumers]|Change in Non-Energy Expenditures (inverted)
+:LINE-COLOR 8-123-241
+:LINE-WIDTH 2
+:VAR Output Change in Cash Flow by Entity[labor and consumers]|Total
+:LINE-COLOR 0-0-0
+:LINE-WIDTH 2
+
+:GRAPH Output_Financial_Foreign_Entities_Cash_Flow_Components
+:TITLE Financial: Foreign Entities Cash Flow Components
+:NO-LEGEND 4
+:SCALE
+:VAR Output Change in Revenue by Entity[foreign entities]|Change in Revenue
+:LINE-COLOR 0-176-80
+:LINE-WIDTH 2
+:VAR Output Change in Energy Expenditures by Entity Inverted[foreign entities]|Change in Energy Expenditures (inverted)
+:LINE-COLOR 192-27-0
+:LINE-WIDTH 2
+:VAR Output Change in Nonenergy Expenditures by Entity Inverted[foreign entities]|Change in Non-Energy Expenditures (inverted)
+:LINE-COLOR 8-123-241
+:LINE-WIDTH 2
+:VAR Output Change in Cash Flow by Entity[foreign entities]|Total
+:LINE-COLOR 0-0-0
+:LINE-WIDTH 2
+
+:GRAPH Output_Financial_Electricity_Suppliers_Cash_Flow_Components
+:TITLE Financial: Electricity Suppliers Cash Flow Components
+:NO-LEGEND 4
+:SCALE
+:VAR Output Change in Domestic Revenue by Entity[electricity suppliers]|Change in Domestic Revenue
+:LINE-COLOR 0-176-80
+:LINE-WIDTH 2
+:VAR Output Change in Export Revenue by Entity[electricity suppliers]|Change in Export Revenue
+:LINE-COLOR 241-187-24
+:LINE-WIDTH 2
+:VAR Output Change in Energy Expenditures by Entity Inverted[electricity suppliers]|Change in Energy Expenditures (inverted)
+:LINE-COLOR 192-27-0
+:LINE-WIDTH 2
+:VAR Output Change in Nonenergy Expenditures by Entity Inverted[electricity suppliers]|Change in Non-Energy Expenditures (inverted)
+:LINE-COLOR 8-123-241
+:LINE-WIDTH 2
+:VAR Output Change in Cash Flow by Entity[electricity suppliers]|Total
+:LINE-COLOR 0-0-0
+:LINE-WIDTH 2
+
+:GRAPH Output_Financial_Coal_Suppliers_Cash_Flow_Components
+:TITLE Financial: Coal Suppliers Cash Flow Components
+:NO-LEGEND 4
+:SCALE
+:VAR Output Change in Domestic Revenue by Entity[coal suppliers]|Change in Domestic Revenue
+:LINE-COLOR 0-176-80
+:LINE-WIDTH 2
+:VAR Output Change in Export Revenue by Entity[coal suppliers]|Change in Export Revenue
+:LINE-COLOR 241-187-24
+:LINE-WIDTH 2
+:VAR Output Change in Energy Expenditures by Entity Inverted[coal suppliers]|Change in Energy Expenditures (inverted)
+:LINE-COLOR 192-27-0
+:LINE-WIDTH 2
+:VAR Output Change in Nonenergy Expenditures by Entity Inverted[coal suppliers]|Change in Non-Energy Expenditures (inverted)
+:LINE-COLOR 8-123-241
+:LINE-WIDTH 2
+:VAR Output Change in Cash Flow by Entity[coal suppliers]|Total
+:LINE-COLOR 0-0-0
+:LINE-WIDTH 2
+
+:GRAPH Output_Financial_NGPS_Cash_Flow_Components
+:TITLE Financial: Natural Gas and Petroleum Suppliers Cash Flow Components
+:NO-LEGEND 4
+:SCALE
+:VAR Output Change in Domestic Revenue by Entity[natural gas and petroleum suppliers]|Change in Domestic Revenue
+:LINE-COLOR 0-176-80
+:LINE-WIDTH 2
+:VAR Output Change in Export Revenue by Entity[natural gas and petroleum suppliers]|Change in Export Revenue
+:LINE-COLOR 241-187-24
+:LINE-WIDTH 2
+:VAR Output Change in Energy Expenditures by Entity Inverted[natural gas and petroleum suppliers]|Change in Energy Expenditures (inverted)
+:LINE-COLOR 192-27-0
+:LINE-WIDTH 2
+:VAR Output Change in Nonenergy Expenditures by Entity Inverted[natural gas and petroleum suppliers]|Change in Non-Energy Expenditures (inverted)
+:LINE-COLOR 8-123-241
+:LINE-WIDTH 2
+:VAR Output Change in Cash Flow by Entity[natural gas and petroleum suppliers]|Total
+:LINE-COLOR 0-0-0
+:LINE-WIDTH 2
+
+:GRAPH Output_Financial_Biomass_and_Biofuel_Suppliers_Cash_Flow_Components
+:TITLE Financial: Biomass and Biofuel Suppliers Cash Flow Components
+:NO-LEGEND 4
+:SCALE
+:VAR Output Change in Domestic Revenue by Entity[biomass and biofuel suppliers]|Change in Domestic Revenue
+:LINE-COLOR 0-176-80
+:LINE-WIDTH 2
+:VAR Output Change in Export Revenue by Entity[biomass and biofuel suppliers]|Change in Export Revenue
+:LINE-COLOR 241-187-24
+:LINE-WIDTH 2
+:VAR Output Change in Energy Expenditures by Entity Inverted[biomass and biofuel suppliers]|Change in Energy Expenditures (inverted)
+:LINE-COLOR 192-27-0
+:LINE-WIDTH 2
+:VAR Output Change in Nonenergy Expenditures by Entity Inverted[biomass and biofuel suppliers]|Change in Non-Energy Expenditures (inverted)
+:LINE-COLOR 8-123-241
+:LINE-WIDTH 2
+:VAR Output Change in Cash Flow by Entity[biomass and biofuel suppliers]|Total
+:LINE-COLOR 0-0-0
+:LINE-WIDTH 2
+
+:GRAPH Output_Financial_Other_Energy_Suppliers_Cash_Flow_Components
+:TITLE Financial: Other Energy Suppliers Cash Flow Components
+:NO-LEGEND 4
+:SCALE
+:VAR Output Change in Domestic Revenue by Entity[other energy suppliers]|Change in Domestic Revenue
+:LINE-COLOR 0-176-80
+:LINE-WIDTH 2
+:VAR Output Change in Export Revenue by Entity[other energy suppliers]|Change in Export Revenue
+:LINE-COLOR 241-187-24
+:LINE-WIDTH 2
+:VAR Output Change in Energy Expenditures by Entity Inverted[other energy suppliers]|Change in Energy Expenditures (inverted)
+:LINE-COLOR 192-27-0
+:LINE-WIDTH 2
+:VAR Output Change in Nonenergy Expenditures by Entity Inverted[other energy suppliers]|Change in Non-Energy Expenditures (inverted)
+:LINE-COLOR 8-123-241
+:LINE-WIDTH 2
+:VAR Output Change in Cash Flow by Entity[other energy suppliers]|Total
+:LINE-COLOR 0-0-0
+:LINE-WIDTH 2
+
+:GRAPH Output_Avoided_Premature_Mortality
+:TITLE Avoided Premature Mortality
+:NO-LEGEND 5
+:SCALE
+:VAR Output Avoided Premature Mortality|Avoided Premature Mortality
+:LINE-WIDTH 2
+
+:GRAPH Output_Financial_Monetary_Value_of_Avoided_Deaths_and_Climate_Benefits
+:TITLE Financial: Monetary Value of Avoided Deaths and Climate Benefits
+:NO-LEGEND 5
+:SCALE
+:VAR Output Social Benefits from Emissions Reduction
+:LINE-WIDTH 2
+
+:GRAPH Output_Avoided_Lost_Workdays
+:TITLE Avoided Lost Workdays
+:NO-LEGEND 5
+:SCALE
+:VAR Output Avoided Lost Workdays|Avoided Lost Workdays
+:LINE-WIDTH 2
+
+:GRAPH Output_Avoided_Respiratory_Symptoms_and_Bronchitis
+:TITLE Avoided Respiratory Symptoms and Bronchitis
+:NO-LEGEND 5
+:SCALE
+:VAR Output Avoided Respiratory Symptoms and Bronchitis|Respiratory Symptoms and Bronchitis
+:LINE-WIDTH 2
+
+:GRAPH Output_Avoided_Asthma_Attacks
+:TITLE Avoided Asthma Attacks
+:NO-LEGEND 5
+:SCALE
+:VAR Output Avoided Asthma Attacks|Asthma Attacks
+:LINE-WIDTH 2
+
+:GRAPH Output_Avoided_Nonfatal_Heart_Attacks
+:TITLE Avoided Nonfatal Heart Attacks
+:NO-LEGEND 5
+:SCALE
+:VAR Output Avoided Nonfatal Heart Attacks|Nonfatal Heart Attacks
+:LINE-WIDTH 2
+
+:GRAPH Output_Avoided_Hospital_Admissions
+:TITLE Avoided Hospital Admissions
+:NO-LEGEND 5
+:SCALE
+:VAR Output Avoided Hospital Admissions|Hospital Admissions
+:LINE-WIDTH 2
+
+:GRAPH Output_Avoided_Respiratory_ER_Visits
+:TITLE Avoided Respiratory ER Visits
+:NO-LEGEND 5
+:SCALE
+:VAR Output Avoided Respiratory ER Visits|Respiratory ER Visits
+:LINE-WIDTH 2
+
+:GRAPH Output_Avoided_Minor_Restricted_Activity_Days
+:TITLE Avoided Minor Restricted Activity Days
+:NO-LEGEND 5
+:SCALE
+:VAR Output Avoided Minor Restricted Activity Days|Minor Restricted Activity Days
+:LINE-WIDTH 2
+
+:GRAPH Output_Electricity_Output_by_Source
+:TITLE Electricity Output by Source
+:STACK-FILL 0
+:NO-LEGEND 4
+:SCALE
+:VAR Output Net Imports of Electricity|Imported Electricity
+:Y-MIN 0
+:LINE-COLOR 175-100-255
+:VAR Output Electricity Generation by Type[hard coal es]|Hard Coal
+:Y-MIN 0
+:LINE-COLOR 150-150-150
+:VAR Output Electricity Generation by Type[lignite es]|Lignite
+:Y-MIN 0
+:LINE-COLOR 0-77-16
+:VAR Output Electricity Generation by Type[natural gas nonpeaker es]|Natural Gas Nonpeaker
+:Y-MIN 0
+:LINE-COLOR 192-27-0
+:VAR Output Electricity Generation by Type[natural gas peaker es]|Natural Gas Peaker
+:Y-MIN 0
+:LINE-COLOR 245-147-224
+:VAR Output Electricity Generation by Type[crude oil es]|Crude Oil
+:Y-MIN 0
+:LINE-COLOR 116-0-0
+:VAR Output Electricity Generation by Type[heavy or residual fuel oil es]|Heavy or Residual Fuel Oil
+:Y-MIN 0
+:LINE-COLOR 173-102-0
+:VAR Output Electricity Generation by Type[petroleum es]|Other Petroleum
+:Y-MIN 0
+:LINE-COLOR 0-0-0
+:VAR Output Electricity Generation by Type[municipal solid waste es]|Municipal Solid Waste
+:Y-MIN 0
+:LINE-COLOR 255-0-255
+:VAR Output Non Solar Distributed Output|Distributed Non-Solar
+:Y-MIN 0
+:LINE-COLOR 191-176-136
+:VAR Output Electricity Generation by Type[nuclear es]|Nuclear
+:Y-MIN 0
+:LINE-COLOR 4-255-175
+:VAR Output Electricity Generation by Type[hydro es]|Hydro
+:Y-MIN 0
+:LINE-COLOR 0-65-133
+:VAR Output Electricity Generation by Type[offshore wind es]|Offshore Wind
+:Y-MIN 0
+:LINE-COLOR 8-123-241
+:VAR Output Electricity Generation by Type[onshore wind es]|Onshore Wind
+:Y-MIN 0
+:LINE-COLOR 194-223-253
+:VAR Output Electricity Generation by Type[solar PV es]|Utility Solar PV
+:Y-MIN 0
+:LINE-COLOR 255-255-0
+:VAR Output Distributed Solar PV Output|Distributed Solar PV
+:Y-MIN 0
+:LINE-COLOR 241-187-24
+:VAR Output Electricity Generation by Type[solar thermal es]|Solar Thermal
+:Y-MIN 0
+:LINE-COLOR 255-100-0
+:VAR Output Electricity Generation by Type[biomass es]|Biomass
+:Y-MIN 0
+:LINE-COLOR 0-176-80
+:VAR Output Electricity Generation by Type[geothermal es]|Geothermal
+:Y-MIN 0
+:LINE-COLOR 98-14-122
+
+:GRAPH Output_Electricity_Output_Change_due_to_Policies
+:TITLE Electricity Output, Change due to Policies
+:NO-LEGEND 4
+:SCALE
+:VAR Output Change in Net Imports of Electricity|Imported Electricity
+:LINE-COLOR 175-100-255
+:LINE-WIDTH 2
+:VAR Output Change in Electricity Generation by Type[hard coal es]|Hard Coal
+:LINE-COLOR 150-150-150
+:LINE-WIDTH 2
+:VAR Output Change in Electricity Generation by Type[lignite es]|Lignite
+:LINE-COLOR 0-77-16
+:LINE-WIDTH 2
+:VAR Output Change in Electricity Generation by Type[natural gas nonpeaker es]|Natural Gas Nonpeaker
+:LINE-COLOR 192-27-0
+:LINE-WIDTH 2
+:VAR Output Change in Electricity Generation by Type[natural gas peaker es]|Natural Gas Peaker
+:LINE-COLOR 245-147-224
+:LINE-WIDTH 2
+:VAR Output Change in Electricity Generation by Type[crude oil es]|Crude Oil
+:LINE-COLOR 116-0-0
+:LINE-WIDTH 2
+:VAR Output Change in Electricity Generation by Type[heavy or residual fuel oil es]|Heavy or Residual Fuel Oil
+:LINE-COLOR 173-102-0
+:LINE-WIDTH 2
+:VAR Output Change in Electricity Generation by Type[petroleum es]|Other Petroleum
+:LINE-COLOR 0-0-0
+:LINE-WIDTH 2
+:VAR Output Change in Electricity Generation by Type[municipal solid waste es]|Municipal Solid Waste
+:LINE-COLOR 255-0-255
+:LINE-WIDTH 2
+:VAR Output Change in Electricity Generation by Type[nuclear es]|Nuclear
+:LINE-COLOR 4-255-175
+:LINE-WIDTH 2
+:VAR Output Change in Electricity Generation by Type[hydro es]|Hydro
+:LINE-COLOR 0-65-133
+:LINE-WIDTH 2
+:VAR Output Change in Electricity Generation by Type[offshore wind es]|Offshore Wind
+:LINE-COLOR 8-123-241
+:LINE-WIDTH 2
+:VAR Output Change in Electricity Generation by Type[onshore wind es]|Onshore Wind
+:LINE-COLOR 194-223-253
+:LINE-WIDTH 2
+:VAR Output Change in Electricity Generation by Type[solar PV es]|Utility Solar PV
+:LINE-COLOR 255-255-0
+:LINE-WIDTH 2
+:VAR Output Change in Distributed Solar PV Output|Distributed Solar PV
+:LINE-COLOR 241-187-24
+:LINE-WIDTH 2
+:VAR Output Change in Electricity Generation by Type[solar thermal es]|Solar Thermal
+:LINE-COLOR 255-100-0
+:LINE-WIDTH 2
+:VAR Output Change in Electricity Generation by Type[biomass es]|Biomass
+:LINE-COLOR 0-176-80
+:LINE-WIDTH 2
+:VAR Output Change in Electricity Generation by Type[geothermal es]|Geothermal
+:LINE-COLOR 98-14-122
+:LINE-WIDTH 2
+
+:GRAPH Output_Electricity_Generation_Capacity_by_Type
+:TITLE Electricity Generation Capacity by Type
+:STACK-FILL 0
+:NO-LEGEND 4
+:SCALE
+:VAR Output Electricity Generation Capacity[hard coal es]|Hard Coal
+:Y-MIN 0
+:LINE-COLOR 150-150-150
+:VAR Output Electricity Generation Capacity[lignite es]|Lignite
+:Y-MIN 0
+:LINE-COLOR 0-77-16
+:VAR Output Electricity Generation Capacity[natural gas nonpeaker es]|Natural Gas Nonpeaker
+:Y-MIN 0
+:LINE-COLOR 192-27-0
+:VAR Output Electricity Generation Capacity[natural gas peaker es]|Natural Gas Peaker
+:Y-MIN 0
+:LINE-COLOR 245-147-224
+:VAR Output Electricity Generation Capacity[crude oil es]|Crude Oil
+:Y-MIN 0
+:LINE-COLOR 116-0-0
+:VAR Output Electricity Generation Capacity[heavy or residual fuel oil es]|Heavy or Residual Fuel Oil
+:Y-MIN 0
+:LINE-COLOR 173-102-0
+:VAR Output Electricity Generation Capacity[petroleum es]|Other Petroleum
+:Y-MIN 0
+:LINE-COLOR 0-0-0
+:VAR Output Electricity Generation Capacity[municipal solid waste es]|Municipal Solid Waste
+:Y-MIN 0
+:LINE-COLOR 255-0-255
+:VAR Output Non Solar Distributed Capacity|Distributed Non-Solar
+:Y-MIN 0
+:LINE-COLOR 191-176-136
+:VAR Output Electricity Generation Capacity[nuclear es]|Nuclear
+:Y-MIN 0
+:LINE-COLOR 4-255-175
+:VAR Output Electricity Generation Capacity[hydro es]|Hydro
+:Y-MIN 0
+:LINE-COLOR 0-65-133
+:VAR Output Electricity Generation Capacity[offshore wind es]|Offshore Wind
+:Y-MIN 0
+:LINE-COLOR 8-123-241
+:VAR Output Electricity Generation Capacity[onshore wind es]|Onshore Wind
+:Y-MIN 0
+:LINE-COLOR 194-223-253
+:VAR Output Electricity Generation Capacity[solar PV es]|Utility Solar PV
+:Y-MIN 0
+:LINE-COLOR 255-255-0
+:VAR Output Distributed Solar PV Capacity|Distributed Solar PV
+:Y-MIN 0
+:LINE-COLOR 241-187-24
+:VAR Output Electricity Generation Capacity[solar thermal es]|Solar Thermal
+:Y-MIN 0
+:LINE-COLOR 255-100-0
+:VAR Output Electricity Generation Capacity[biomass es]|Biomass
+:Y-MIN 0
+:LINE-COLOR 0-176-80
+:VAR Output Electricity Generation Capacity[geothermal es]|Geothermal
+:Y-MIN 0
+:LINE-COLOR 98-14-122
+
+:GRAPH Output_Electricity_Generation_Capacity_Change_due_to_Policies
+:TITLE Electricity Generation Capacity, Change due to Policies
+:NO-LEGEND 4
+:SCALE
+:VAR Output Change in Electricity Generation Capacity[hard coal es]|Hard Coal
+:LINE-COLOR 150-150-150
+:LINE-WIDTH 2
+:VAR Output Change in Electricity Generation Capacity[lignite es]|Lignite
+:LINE-COLOR 0-77-16
+:LINE-WIDTH 2
+:VAR Output Change in Electricity Generation Capacity[natural gas nonpeaker es]|Natural Gas Nonpeaker
+:LINE-COLOR 192-27-0
+:LINE-WIDTH 2
+:VAR Output Change in Electricity Generation Capacity[natural gas peaker es]|Natural Gas Peaker
+:LINE-COLOR 245-147-224
+:LINE-WIDTH 2
+:VAR Output Change in Electricity Generation Capacity[crude oil es]|Crude Oil
+:LINE-COLOR 116-0-0
+:LINE-WIDTH 2
+:VAR Output Change in Electricity Generation Capacity[heavy or residual fuel oil es]|Heavy or Residual Fuel Oil
+:LINE-COLOR 173-102-0
+:LINE-WIDTH 2
+:VAR Output Change in Electricity Generation Capacity[petroleum es]|Other Petroleum
+:LINE-COLOR 0-0-0
+:LINE-WIDTH 2
+:VAR Output Change in Electricity Generation Capacity[municipal solid waste es]|Municipal Solid Waste
+:LINE-COLOR 255-0-255
+:LINE-WIDTH 2
+:VAR Output Change in Electricity Generation Capacity[nuclear es]|Nuclear
+:LINE-COLOR 4-255-175
+:LINE-WIDTH 2
+:VAR Output Change in Electricity Generation Capacity[hydro es]|Hydro
+:LINE-COLOR 0-65-133
+:LINE-WIDTH 2
+:VAR Output Change in Electricity Generation Capacity[offshore wind es]|Offshore Wind
+:LINE-COLOR 8-123-241
+:LINE-WIDTH 2
+:VAR Output Change in Electricity Generation Capacity[onshore wind es]|Onshore Wind
+:LINE-COLOR 194-223-253
+:LINE-WIDTH 2
+:VAR Output Change in Electricity Generation Capacity[solar PV es]|Utility Solar PV
+:LINE-COLOR 255-255-0
+:LINE-WIDTH 2
+:VAR Output Change in Distributed Solar Capacity|Distributed Solar PV
+:LINE-COLOR 241-187-24
+:LINE-WIDTH 2
+:VAR Output Change in Electricity Generation Capacity[solar thermal es]|Solar Thermal
+:LINE-COLOR 255-100-0
+:LINE-WIDTH 2
+:VAR Output Change in Electricity Generation Capacity[biomass es]|Biomass
+:LINE-COLOR 0-176-80
+:LINE-WIDTH 2
+:VAR Output Change in Electricity Generation Capacity[geothermal es]|Geothermal
+:LINE-COLOR 98-14-122
+:LINE-WIDTH 2
+
+:GRAPH Output_Electricity_Demand_by_Sector
+:TITLE Electricity Demand by Sector
+:STACK-FILL 0
+:NO-LEGEND 156
+:SCALE
+:VAR Output Buildings Sector Electricity Use|Buildings
+:Y-MIN 0
+:LINE-COLOR 8-123-241
+:VAR Output Industry Sector Electricity Use|Industry
+:Y-MIN 0
+:LINE-COLOR 150-150-150
+:VAR Output Transportation Sector Electricity Use|Transportation
+:Y-MIN 0
+:LINE-COLOR 192-27-0
+:VAR Output Agriculture Electricity Use|Agriculture
+:Y-MIN 0
+:LINE-COLOR 4-255-175
+:VAR Output Waste Management Electricity Use|Water & Waste
+:Y-MIN 0
+:LINE-COLOR 245-147-224
+:VAR Output District Heat and Hydrogen Electricity Use|District Heat & Hydrogen
+:Y-MIN 0
+:LINE-COLOR 98-14-122
+
+:GRAPH Output_Levelized_Cost_of_Electricity_after_subsidies
+:TITLE Levelized Cost of Electricity (after subsidies)
+:NO-LEGEND 4
+:SCALE
+:VAR Output Cost per Unit New Elec Output[hard coal es]|Hard Coal
+:LINE-COLOR 150-150-150
+:LINE-WIDTH 2
+:VAR Output Cost per Unit New Elec Output[lignite es]|Lignite
+:LINE-COLOR 0-77-16
+:LINE-WIDTH 2
+:VAR Output Cost per Unit New Elec Output[natural gas nonpeaker es]|Natural Gas Nonpeaker
+:LINE-COLOR 192-27-0
+:LINE-WIDTH 2
+:VAR Output Cost per Unit New Elec Output[natural gas peaker es]|Natural Gas Peaker
+:LINE-COLOR 245-147-224
+:LINE-WIDTH 2
+:VAR Output Cost per Unit New Elec Output[crude oil es]|Crude Oil
+:LINE-COLOR 116-0-0
+:LINE-WIDTH 2
+:VAR Output Cost per Unit New Elec Output[heavy or residual fuel oil es]|Heavy or Residual Fuel Oil
+:LINE-COLOR 173-102-0
+:LINE-WIDTH 2
+:VAR Output Cost per Unit New Elec Output[petroleum es]|Other Petroleum
+:LINE-COLOR 0-0-0
+:LINE-WIDTH 2
+:VAR Output Cost per Unit New Elec Output[municipal solid waste es]|Municipal Solid Waste
+:LINE-COLOR 255-0-255
+:LINE-WIDTH 2
+:VAR Output Cost per Unit New Elec Output[nuclear es]|Nuclear
+:LINE-COLOR 4-255-175
+:LINE-WIDTH 2
+:VAR Output Cost per Unit New Elec Output[hydro es]|Hydro
+:LINE-COLOR 0-65-133
+:LINE-WIDTH 2
+:VAR Output Cost per Unit New Elec Output[offshore wind es]|Offshore Wind
+:LINE-COLOR 8-123-241
+:LINE-WIDTH 2
+:VAR Output Cost per Unit New Elec Output[onshore wind es]|Onshore Wind
+:LINE-COLOR 194-223-253
+:LINE-WIDTH 2
+:VAR Output Cost per Unit New Elec Output[solar PV es]|Utility Solar PV
+:LINE-COLOR 255-255-0
+:LINE-WIDTH 2
+:VAR Output Cost per Unit New Elec Output[solar thermal es]|Solar Thermal
+:LINE-COLOR 255-100-0
+:LINE-WIDTH 2
+:VAR Output Cost per Unit New Elec Output[biomass es]|Biomass
+:LINE-COLOR 0-176-80
+:LINE-WIDTH 2
+:VAR Output Cost per Unit New Elec Output[geothermal es]|Geothermal
+:LINE-COLOR 98-14-122
+:LINE-WIDTH 2
+
+:GRAPH Output_Curtailed_Electricity_from_Renewables
+:TITLE Curtailed Electricity from Renewables
+:NO-LEGEND 4
+:SCALE
+:VAR Output Curtailed Electricity Output[offshore wind es]|Offshore Wind
+:LINE-COLOR 8-123-241
+:LINE-WIDTH 2
+:VAR Output Curtailed Electricity Output[onshore wind es]|Onshore Wind
+:LINE-COLOR 194-223-253
+:LINE-WIDTH 2
+:VAR Output Curtailed Electricity Output[solar PV es]|Utility Solar PV
+:LINE-COLOR 255-255-0
+:LINE-WIDTH 2
+
+:GRAPH Output_Water_Withdrawals_by_Power_Plants
+:TITLE Water Withdrawals by Power Plants
+:STACK-FILL 0
+:NO-LEGEND 4
+:SCALE
+:VAR Output Water Withdrawn by Power Plants[hard coal es]|Hard Coal
+:Y-MIN 0
+:LINE-COLOR 150-150-150
+:VAR Output Water Withdrawn by Power Plants[lignite es]|Lignite
+:Y-MIN 0
+:LINE-COLOR 0-77-16
+:VAR Output Water Withdrawn by Power Plants[natural gas nonpeaker es]|Natural Gas Nonpeaker
+:Y-MIN 0
+:LINE-COLOR 192-27-0
+:VAR Output Water Withdrawn by Power Plants[natural gas peaker es]|Natural Gas Peaker
+:Y-MIN 0
+:LINE-COLOR 245-147-224
+:VAR Output Water Withdrawn by Power Plants[crude oil es]|Crude Oil
+:Y-MIN 0
+:LINE-COLOR 116-0-0
+:VAR Output Water Withdrawn by Power Plants[heavy or residual fuel oil es]|Heavy or Residual Fuel Oil
+:Y-MIN 0
+:LINE-COLOR 173-102-0
+:VAR Output Water Withdrawn by Power Plants[petroleum es]|Other Petroleum
+:Y-MIN 0
+:LINE-COLOR 0-0-0
+:VAR Output Water Withdrawn by Power Plants[municipal solid waste es]|Municipal Solid Waste
+:Y-MIN 0
+:LINE-COLOR 255-0-255
+:VAR Output Water Withdrawn by Power Plants[nuclear es]|Nuclear
+:Y-MIN 0
+:LINE-COLOR 4-255-175
+:VAR Output Water Withdrawn by Power Plants[solar PV es]|Utility Solar PV
+:Y-MIN 0
+:LINE-COLOR 255-255-0
+:VAR Output Water Withdrawn by Power Plants[solar thermal es]|Solar Thermal
+:Y-MIN 0
+:LINE-COLOR 255-100-0
+:VAR Output Water Withdrawn by Power Plants[biomass es]|Biomass
+:Y-MIN 0
+:LINE-COLOR 0-176-80
+:VAR Output Water Withdrawn by Power Plants[geothermal es]|Geothermal
+:Y-MIN 0
+:LINE-COLOR 98-14-122
+
+:GRAPH Output_Water_Consumption_by_Power_Plants
+:TITLE Water Consumption by Power Plants
+:STACK-FILL 0
+:NO-LEGEND 4
+:SCALE
+:VAR Output Water Consumed by Power Plants[hard coal es]|Hard Coal
+:Y-MIN 0
+:LINE-COLOR 150-150-150
+:VAR Output Water Consumed by Power Plants[lignite es]|Lignite
+:Y-MIN 0
+:LINE-COLOR 0-77-16
+:VAR Output Water Consumed by Power Plants[natural gas nonpeaker es]|Natural Gas Nonpeaker
+:Y-MIN 0
+:LINE-COLOR 192-27-0
+:VAR Output Water Consumed by Power Plants[natural gas peaker es]|Natural Gas Peaker
+:Y-MIN 0
+:LINE-COLOR 245-147-224
+:VAR Output Water Consumed by Power Plants[crude oil es]|Crude Oil
+:Y-MIN 0
+:LINE-COLOR 116-0-0
+:VAR Output Water Consumed by Power Plants[heavy or residual fuel oil es]|Heavy or Residual Fuel Oil
+:Y-MIN 0
+:LINE-COLOR 173-102-0
+:VAR Output Water Consumed by Power Plants[petroleum es]|Other Petroleum
+:Y-MIN 0
+:LINE-COLOR 0-0-0
+:VAR Output Water Consumed by Power Plants[municipal solid waste es]|Municipal Solid Waste
+:Y-MIN 0
+:LINE-COLOR 255-0-255
+:VAR Output Water Consumed by Power Plants[nuclear es]|Nuclear
+:Y-MIN 0
+:LINE-COLOR 4-255-175
+:VAR Output Water Consumed by Power Plants[hydro es]|Hydro
+:Y-MIN 0
+:LINE-COLOR 0-65-133
+:VAR Output Water Consumed by Power Plants[solar PV es]|Utility Solar PV
+:Y-MIN 0
+:LINE-COLOR 255-255-0
+:VAR Output Water Consumed by Power Plants[solar thermal es]|Solar Thermal
+:Y-MIN 0
+:LINE-COLOR 255-100-0
+:VAR Output Water Consumed by Power Plants[biomass es]|Biomass
+:Y-MIN 0
+:LINE-COLOR 0-176-80
+:VAR Output Water Consumed by Power Plants[geothermal es]|Geothermal
+:Y-MIN 0
+:LINE-COLOR 98-14-122
+
+:GRAPH Transportation_Passenger_LDV_Sales_by_Technology
+:TITLE Passenger LDV Sales by Technology
+:STACK-FILL 0
+:NO-LEGEND 4
+:SCALE
+:VAR Output New Vehicles in Millions[LDVs,passenger,gasoline vehicle]|Gasoline Vehicle
+:Y-MIN 0
+:LINE-COLOR 150-150-150
+:VAR Output New Vehicles in Millions[LDVs,passenger,diesel vehicle]|Diesel Vehicle
+:Y-MIN 0
+:LINE-COLOR 0-0-0
+:VAR Output New Vehicles in Millions[LDVs,passenger,LPG vehicle]|LPG Vehicle
+:Y-MIN 0
+:LINE-COLOR 8-123-241
+:VAR Output New Vehicles in Millions[LDVs,passenger,natural gas vehicle]|Natural Gas Vehicle
+:Y-MIN 0
+:LINE-COLOR 192-27-0
+:VAR Output New Vehicles in Millions[LDVs,passenger,plugin hybrid vehicle]|Plug-in Hybrid Vehicle
+:Y-MIN 0
+:LINE-COLOR 0-176-80
+:VAR Output New Vehicles in Millions[LDVs,passenger,battery electric vehicle]|Battery Electric Vehicle
+:Y-MIN 0
+:LINE-COLOR 241-187-24
+:VAR Output New Vehicles in Millions[LDVs,passenger,hydrogen vehicle]|Hydrogen Vehicle
+:Y-MIN 0
+:LINE-COLOR 98-14-122
+
+:GRAPH Transportation_Passenger_HDV_Sales_by_Technology
+:TITLE Passenger HDV Sales by Technology
+:STACK-FILL 0
+:NO-LEGEND 4
+:SCALE
+:VAR Output New Vehicles in Thousands[HDVs,passenger,diesel vehicle]|Diesel Vehicle
+:Y-MIN 0
+:LINE-COLOR 0-0-0
+:VAR Output New Vehicles in Thousands[HDVs,passenger,gasoline vehicle]|Gasoline Vehicle
+:Y-MIN 0
+:LINE-COLOR 150-150-150
+:VAR Output New Vehicles in Thousands[HDVs,passenger,LPG vehicle]|LPG Vehicle
+:Y-MIN 0
+:LINE-COLOR 8-123-241
+:VAR Output New Vehicles in Thousands[HDVs,passenger,natural gas vehicle]|Natural Gas Vehicle
+:Y-MIN 0
+:LINE-COLOR 192-27-0
+:VAR Output New Vehicles in Thousands[HDVs,passenger,plugin hybrid vehicle]|Plug-in Hybrid Vehicle
+:Y-MIN 0
+:LINE-COLOR 0-176-80
+:VAR Output New Vehicles in Thousands[HDVs,passenger,battery electric vehicle]|Battery Electric Vehicle
+:Y-MIN 0
+:LINE-COLOR 241-187-24
+:VAR Output New Vehicles in Thousands[HDVs,passenger,hydrogen vehicle]|Hydrogen Vehicle
+:Y-MIN 0
+:LINE-COLOR 98-14-122
+
+:GRAPH Transportation_Freight_LDV_Sales_by_Technology
+:TITLE Freight LDV Sales by Technology
+:STACK-FILL 0
+:NO-LEGEND 4
+:SCALE
+:VAR Output New Vehicles in Thousands[LDVs,freight,gasoline vehicle]|Gasoline Vehicle
+:Y-MIN 0
+:LINE-COLOR 150-150-150
+:VAR Output New Vehicles in Thousands[LDVs,freight,diesel vehicle]|Diesel Vehicle
+:Y-MIN 0
+:LINE-COLOR 0-0-0
+:VAR Output New Vehicles in Thousands[LDVs,freight,LPG vehicle]|LPG Vehicle
+:Y-MIN 0
+:LINE-COLOR 8-123-241
+:VAR Output New Vehicles in Thousands[LDVs,freight,natural gas vehicle]|Natural Gas Vehicle
+:Y-MIN 0
+:LINE-COLOR 192-27-0
+:VAR Output New Vehicles in Thousands[LDVs,freight,plugin hybrid vehicle]|Plug-in Hybrid Vehicle
+:Y-MIN 0
+:LINE-COLOR 0-176-80
+:VAR Output New Vehicles in Thousands[LDVs,freight,battery electric vehicle]|Battery Electric Vehicle
+:Y-MIN 0
+:LINE-COLOR 241-187-24
+:VAR Output New Vehicles in Thousands[LDVs,freight,hydrogen vehicle]|Hydrogen Vehicle
+:Y-MIN 0
+:LINE-COLOR 98-14-122
+
+:GRAPH Transportation_Freight_HDV_Sales_by_Technology
+:TITLE Freight HDV Sales by Technology
+:STACK-FILL 0
+:NO-LEGEND 4
+:SCALE
+:VAR Output New Vehicles in Thousands[HDVs,freight,diesel vehicle]|Diesel Vehicle
+:Y-MIN 0
+:LINE-COLOR 0-0-0
+:VAR Output New Vehicles in Thousands[HDVs,freight,gasoline vehicle]|Gasoline Vehicle
+:Y-MIN 0
+:LINE-COLOR 150-150-150
+:VAR Output New Vehicles in Thousands[HDVs,freight,LPG vehicle]|LPG Vehicle
+:Y-MIN 0
+:LINE-COLOR 8-123-241
+:VAR Output New Vehicles in Thousands[HDVs,freight,natural gas vehicle]|Natural Gas Vehicle
+:Y-MIN 0
+:LINE-COLOR 192-27-0
+:VAR Output New Vehicles in Thousands[HDVs,freight,plugin hybrid vehicle]|Plug-in Hybrid Vehicle
+:Y-MIN 0
+:LINE-COLOR 0-176-80
+:VAR Output New Vehicles in Thousands[HDVs,freight,battery electric vehicle]|Battery Electric Vehicle
+:Y-MIN 0
+:LINE-COLOR 241-187-24
+:VAR Output New Vehicles in Thousands[HDVs,freight,hydrogen vehicle]|Hydrogen Vehicle
+:Y-MIN 0
+:LINE-COLOR 98-14-122
+
+:GRAPH Transportation_Motorbike_Sales_by_Technology
+:TITLE Motorbike Sales by Technology
+:STACK-FILL 0
+:NO-LEGEND 4
+:SCALE
+:VAR Output New Vehicles in Thousands[motorbikes,passenger,gasoline vehicle]|Gasoline Vehicle
+:Y-MIN 0
+:LINE-COLOR 150-150-150
+:VAR Output New Vehicles in Thousands[motorbikes,passenger,battery electric vehicle]|Battery Electric Vehicle
+:Y-MIN 0
+:LINE-COLOR 241-187-24
+
+:GRAPH Transportation_Passenger_LDVs_by_Technology
+:TITLE Light Duty Passenger Vehicles by Technology
+:STACK-FILL 0
+:NO-LEGEND 4
+:SCALE
+:VAR Output Vehicles in Millions[LDVs,passenger,gasoline vehicle]|Gasoline Vehicle
+:Y-MIN 0
+:LINE-COLOR 150-150-150
+:VAR Output Vehicles in Millions[LDVs,passenger,diesel vehicle]|Diesel Vehicle
+:Y-MIN 0
+:LINE-COLOR 0-0-0
+:VAR Output Vehicles in Millions[LDVs,passenger,LPG vehicle]|LPG Vehicle
+:Y-MIN 0
+:LINE-COLOR 8-123-241
+:VAR Output Vehicles in Millions[LDVs,passenger,natural gas vehicle]|Natural Gas Vehicle
+:Y-MIN 0
+:LINE-COLOR 192-27-0
+:VAR Output Vehicles in Millions[LDVs,passenger,plugin hybrid vehicle]|Plug-in Hybrid Vehicle
+:Y-MIN 0
+:LINE-COLOR 0-176-80
+:VAR Output Vehicles in Millions[LDVs,passenger,battery electric vehicle]|Battery Electric Vehicle
+:Y-MIN 0
+:LINE-COLOR 241-187-24
+:VAR Output Vehicles in Millions[LDVs,passenger,hydrogen vehicle]|Hydrogen Vehicle
+:Y-MIN 0
+:LINE-COLOR 98-14-122
+
+:GRAPH Transportation_Passenger_HDVs_by_Technology
+:TITLE Heavy Duty Passenger Vehicles by Technology
+:STACK-FILL 0
+:NO-LEGEND 4
+:SCALE
+:VAR Output Vehicles in Thousands[HDVs,passenger,diesel vehicle]|Diesel Vehicle
+:Y-MIN 0
+:LINE-COLOR 0-0-0
+:VAR Output Vehicles in Thousands[HDVs,passenger,gasoline vehicle]|Gasoline Vehicle
+:Y-MIN 0
+:LINE-COLOR 150-150-150
+:VAR Output Vehicles in Thousands[HDVs,passenger,LPG vehicle]|LPG Vehicle
+:Y-MIN 0
+:LINE-COLOR 8-123-241
+:VAR Output Vehicles in Thousands[HDVs,passenger,natural gas vehicle]|Natural Gas Vehicle
+:Y-MIN 0
+:LINE-COLOR 192-27-0
+:VAR Output Vehicles in Thousands[HDVs,passenger,plugin hybrid vehicle]|Plug-in Hybrid Vehicle
+:Y-MIN 0
+:LINE-COLOR 0-176-80
+:VAR Output Vehicles in Thousands[HDVs,passenger,battery electric vehicle]|Battery Electric Vehicle
+:Y-MIN 0
+:LINE-COLOR 241-187-24
+:VAR Output Vehicles in Thousands[HDVs,passenger,hydrogen vehicle]|Hydrogen Vehicle
+:Y-MIN 0
+:LINE-COLOR 98-14-122
+
+:GRAPH Transportation_Freight_LDVs_by_Technology
+:TITLE Light Duty Freight Vehicles by Technology
+:STACK-FILL 0
+:NO-LEGEND 4
+:SCALE
+:VAR Output Vehicles in Millions[LDVs,freight,gasoline vehicle]|Gasoline Vehicle
+:Y-MIN 0
+:LINE-COLOR 150-150-150
+:VAR Output Vehicles in Millions[LDVs,freight,diesel vehicle]|Diesel Vehicle
+:Y-MIN 0
+:LINE-COLOR 0-0-0
+:VAR Output Vehicles in Millions[LDVs,freight,LPG vehicle]|LPG Vehicle
+:Y-MIN 0
+:LINE-COLOR 8-123-241
+:VAR Output Vehicles in Millions[LDVs,freight,natural gas vehicle]|Natural Gas Vehicle
+:Y-MIN 0
+:LINE-COLOR 192-27-0
+:VAR Output Vehicles in Millions[LDVs,freight,plugin hybrid vehicle]|Plug-in Hybrid Vehicle
+:Y-MIN 0
+:LINE-COLOR 0-176-80
+:VAR Output Vehicles in Millions[LDVs,freight,battery electric vehicle]|Battery Electric Vehicle
+:Y-MIN 0
+:LINE-COLOR 241-187-24
+:VAR Output Vehicles in Millions[LDVs,freight,hydrogen vehicle]|Hydrogen Vehicle
+:Y-MIN 0
+:LINE-COLOR 98-14-122
+
+:GRAPH Transportation_Freight_HDVs_by_Technology
+:TITLE Heavy Duty Freight Vehicles by Technology
+:STACK-FILL 0
+:NO-LEGEND 4
+:SCALE
+:VAR Output Vehicles in Millions[HDVs,freight,diesel vehicle]|Diesel Vehicle
+:Y-MIN 0
+:LINE-COLOR 0-0-0
+:VAR Output Vehicles in Millions[HDVs,freight,gasoline vehicle]|Gasoline Vehicle
+:Y-MIN 0
+:LINE-COLOR 150-150-150
+:VAR Output Vehicles in Millions[HDVs,freight,LPG vehicle]|LPG Vehicle
+:Y-MIN 0
+:LINE-COLOR 8-123-241
+:VAR Output Vehicles in Millions[HDVs,freight,natural gas vehicle]|Natural Gas Vehicle
+:Y-MIN 0
+:LINE-COLOR 192-27-0
+:VAR Output Vehicles in Millions[HDVs,freight,plugin hybrid vehicle]|Plug-in Hybrid Vehicle
+:Y-MIN 0
+:LINE-COLOR 0-176-80
+:VAR Output Vehicles in Millions[HDVs,freight,battery electric vehicle]|Battery Electric Vehicle
+:Y-MIN 0
+:LINE-COLOR 241-187-24
+:VAR Output Vehicles in Millions[HDVs,freight,hydrogen vehicle]|Hydrogen Vehicle
+:Y-MIN 0
+:LINE-COLOR 98-14-122
+
+:GRAPH Transportation_Motorbikes_by_Technology
+:TITLE Motorbikes by Technology
+:STACK-FILL 0
+:NO-LEGEND 4
+:SCALE
+:VAR Output Vehicles in Millions[motorbikes,passenger,gasoline vehicle]|Gasoline Vehicle
+:Y-MIN 0
+:LINE-COLOR 150-150-150
+:VAR Output Vehicles in Millions[motorbikes,passenger,battery electric vehicle]|Battery Electric Vehicle
+:Y-MIN 0
+:LINE-COLOR 241-187-24
+
+:GRAPH Transportation_CO2_Emissions_by_Vehicle_Type
+:TITLE CO2 Emissions by Vehicle Type
+:STACK-FILL 0
+:NO-LEGEND 4
+:SCALE
+:VAR Output Transportation Pollutant Emissions by Vehicle Type[LDVs,passenger,CO2]|Cars & SUVs
+:Y-MIN 0
+:LINE-COLOR 150-150-150
+:VAR Output Transportation Pollutant Emissions by Vehicle Type[HDVs,freight,CO2]|Med & Heavy Trucks
+:Y-MIN 0
+:LINE-COLOR 0-0-0
+:VAR Output Transportation Pollutant Emissions by Vehicle Type[aircraft,passenger,CO2]|Passenger aircraft
+:Y-MIN 0
+:LINE-COLOR 194-223-253
+:VAR Output Transportation Pollutant Emissions by Vehicle Type[LDVs,freight,CO2]|Light Freight Trucks
+:Y-MIN 0
+:LINE-COLOR 245-147-224
+:VAR Output Transportation Pollutant Emissions by Vehicle Type[HDVs,passenger,CO2]|Buses
+:Y-MIN 0
+:LINE-COLOR 241-187-24
+:VAR Output Transportation Pollutant Emissions by Vehicle Type[aircraft,freight,CO2]|Freight aircraft
+:Y-MIN 0
+:LINE-COLOR 8-123-241
+:VAR Output Transportation Pollutant Emissions by Vehicle Type[rail,passenger,CO2]|Passenger rail
+:Y-MIN 0
+:LINE-COLOR 4-255-175
+:VAR Output Transportation Pollutant Emissions by Vehicle Type[rail,freight,CO2]|Freight rail
+:Y-MIN 0
+:LINE-COLOR 0-176-80
+:VAR Output Transportation Pollutant Emissions by Vehicle Type[ships,passenger,CO2]|Passenger ships
+:Y-MIN 0
+:LINE-COLOR 175-100-255
+:VAR Output Transportation Pollutant Emissions by Vehicle Type[ships,freight,CO2]|Freight ships
+:Y-MIN 0
+:LINE-COLOR 0-65-133
+:VAR Output Transportation Pollutant Emissions by Vehicle Type[motorbikes,passenger,CO2]|Passenger motorbikes
+:Y-MIN 0
+:LINE-COLOR 192-27-0
+
+:GRAPH Transportation_Sector_Fuel_Used_by_Fuel
+:TITLE Transportation Sector Fuel Used by Fuel
+:STACK-FILL 0
+:NO-LEGEND 4
+:SCALE
+:VAR Output Transportation Sector Fuel Used by Fuel[petroleum gasoline tf]|Petroleum Gasoline
+:Y-MIN 0
+:LINE-COLOR 150-150-150
+:VAR Output Transportation Sector Fuel Used by Fuel[petroleum diesel tf]|Petroleum Diesel
+:Y-MIN 0
+:LINE-COLOR 0-0-0
+:VAR Output Transportation Sector Fuel Used by Fuel[biofuel gasoline tf]|Biofuel Gasoline
+:Y-MIN 0
+:LINE-COLOR 4-255-175
+:VAR Output Transportation Sector Fuel Used by Fuel[biofuel diesel tf]|Biofuel Diesel
+:Y-MIN 0
+:LINE-COLOR 0-176-80
+:VAR Output Transportation Sector Fuel Used by Fuel[LPG propane or butane tf]|LPG
+:Y-MIN 0
+:LINE-COLOR 8-123-241
+:VAR Output Transportation Sector Fuel Used by Fuel[jet fuel tf]|Jet Fuel
+:Y-MIN 0
+:LINE-COLOR 194-223-253
+:VAR Output Transportation Sector Fuel Used by Fuel[natural gas tf]|Natural Gas
+:Y-MIN 0
+:LINE-COLOR 192-27-0
+:VAR Output Transportation Sector Fuel Used by Fuel[electricity tf]|Electricity
+:Y-MIN 0
+:LINE-COLOR 241-187-24
+:VAR Output Transportation Sector Fuel Used by Fuel[hydrogen tf]|Hydrogen
+:Y-MIN 0
+:LINE-COLOR 98-14-122
+
+:GRAPH Transportation_Fuel_Used_by_Vehicle_Type
+:TITLE Fuel Used by Vehicle Type
+:STACK-FILL 0
+:NO-LEGEND 4
+:SCALE
+:VAR Output Transportation Sector Fuel Used by Vehicle Type[LDVs,passenger]|Cars & SUVs
+:Y-MIN 0
+:LINE-COLOR 150-150-150
+:VAR Output Transportation Sector Fuel Used by Vehicle Type[HDVs,freight]|Med & Heavy Trucks
+:Y-MIN 0
+:LINE-COLOR 0-0-0
+:VAR Output Transportation Sector Fuel Used by Vehicle Type[aircraft,passenger]|Passenger Aircraft
+:Y-MIN 0
+:LINE-COLOR 194-223-253
+:VAR Output Transportation Sector Fuel Used by Vehicle Type[LDVs,freight]|Light Freight Trucks
+:Y-MIN 0
+:LINE-COLOR 245-147-224
+:VAR Output Transportation Sector Fuel Used by Vehicle Type[HDVs,passenger]|Buses
+:Y-MIN 0
+:LINE-COLOR 241-187-24
+:VAR Output Transportation Sector Fuel Used by Vehicle Type[aircraft,freight]|Freight Aircraft
+:Y-MIN 0
+:LINE-COLOR 8-123-241
+:VAR Output Transportation Sector Fuel Used by Vehicle Type[rail,passenger]|Passenger Rail
+:Y-MIN 0
+:LINE-COLOR 4-255-175
+:VAR Output Transportation Sector Fuel Used by Vehicle Type[rail,freight]|Freight Rail
+:Y-MIN 0
+:LINE-COLOR 0-176-80
+:VAR Output Transportation Sector Fuel Used by Vehicle Type[ships,passenger]|Passenger Ships
+:Y-MIN 0
+:LINE-COLOR 175-100-255
+:VAR Output Transportation Sector Fuel Used by Vehicle Type[ships,freight]|Freight Ships
+:Y-MIN 0
+:LINE-COLOR 0-65-133
+:VAR Output Transportation Sector Fuel Used by Vehicle Type[motorbikes,passenger]|Passenger Motorbikes
+:Y-MIN 0
+:LINE-COLOR 192-27-0
+
+:GRAPH Transportation_Passenger_Distance_by_Mode
+:TITLE Transportation Passenger Distance by Mode
+:STACK-FILL 0
+:NO-LEGEND 4
+:SCALE
+:VAR Output Passenger Dist Transported[LDVs,passenger]|Cars & SUVs
+:Y-MIN 0
+:LINE-COLOR 150-150-150
+:VAR Output Passenger Dist Transported[HDVs,passenger]|Buses
+:Y-MIN 0
+:LINE-COLOR 241-187-24
+:VAR Output Passenger Dist Transported[aircraft,passenger]|Passenger Aircraft
+:Y-MIN 0
+:LINE-COLOR 194-223-253
+:VAR Output Passenger Dist Transported[rail,passenger]|Passenger Rail
+:Y-MIN 0
+:LINE-COLOR 4-255-175
+:VAR Output Passenger Dist Transported[motorbikes,passenger]|Motorbikes
+:Y-MIN 0
+:LINE-COLOR 192-27-0
+:VAR Output Passenger Dist Transported[ships,passenger]|Passenger Ships
+:Y-MIN 0
+:LINE-COLOR 175-100-255
+
+:GRAPH Transportation_Freight_Distance_by_Mode
+:TITLE Transportation Freight Distance by Mode
+:STACK-FILL 0
+:NO-LEGEND 4
+:SCALE
+:VAR Output Freight Dist Transported[HDVs,freight]|Med & Heavy Trucks
+:Y-MIN 0
+:LINE-COLOR 0-0-0
+:VAR Output Freight Dist Transported[rail,freight]|Freight Rail
+:Y-MIN 0
+:LINE-COLOR 0-176-80
+:VAR Output Freight Dist Transported[ships,freight]|Freight Ships
+:Y-MIN 0
+:LINE-COLOR 0-65-133
+:VAR Output Freight Dist Transported[LDVs,freight]|Light Freight Trucks
+:Y-MIN 0
+:LINE-COLOR 245-147-224
+:VAR Output Freight Dist Transported[aircraft,freight]|Freight Aircraft
+:Y-MIN 0
+:LINE-COLOR 8-123-241
+
+:GRAPH Industry_Fuel_Use_Including_Feedstocks_by_Industry
+:TITLE Industry: Fuel Use Including Feedstocks by Industry
+:STACK-FILL 0
+:NO-LEGEND 4
+:SCALE
+:VAR Output Industrial Fuel Use by Industry[other industries]|Other Industries
+:Y-MIN 0
+:LINE-COLOR 0-0-0
+:VAR Output Industrial Fuel Use by Industry[natural gas and petroleum systems]|Natural Gas and Petroleum Systems
+:Y-MIN 0
+:LINE-COLOR 192-27-0
+:VAR Output Industrial Fuel Use by Industry[chemicals]|Chemicals
+:Y-MIN 0
+:LINE-COLOR 241-187-24
+:VAR Output Industrial Fuel Use by Industry[iron and steel]|Iron and Steel
+:Y-MIN 0
+:LINE-COLOR 8-123-241
+:VAR Output Industrial Fuel Use by Industry[coal mining]|Coal Mining
+:Y-MIN 0
+:LINE-COLOR 150-150-150
+:VAR Output Industrial Fuel Use by Industry[cement and other carbonates]|Cement and Other Carbonates
+:Y-MIN 0
+:LINE-COLOR 0-176-80
+
+:GRAPH Industry_Fuel_Use_Including_Feedstocks_by_Fuel
+:TITLE Industry: Fuel Use Including Feedstocks by Fuel
+:STACK-FILL 0
+:NO-LEGEND 4
+:SCALE
+:VAR Output Industrial Fuel Use by Fuel[petroleum diesel if]|Other Petroleum
+:Y-MIN 0
+:LINE-COLOR 0-0-0
+:VAR Output Industrial Fuel Use by Fuel[crude oil if]|Crude Oil
+:Y-MIN 0
+:LINE-COLOR 116-0-0
+:VAR Output Industrial Fuel Use by Fuel[heavy or residual fuel oil if]|Heavy or Residual Fuel Oil
+:Y-MIN 0
+:LINE-COLOR 173-102-0
+:VAR Output Industrial Fuel Use by Fuel[hard coal if]|Hard Coal
+:Y-MIN 0
+:LINE-COLOR 150-150-150
+:VAR Output Industrial Fuel Use by Fuel[LPG propane or butane if]|LPG Propane and Butane
+:Y-MIN 0
+:LINE-COLOR 8-123-241
+:VAR Output Industrial Fuel Use by Fuel[natural gas if]|Natural Gas
+:Y-MIN 0
+:LINE-COLOR 192-27-0
+:VAR Output Industrial Fuel Use by Fuel[electricity if]|Electricity
+:Y-MIN 0
+:LINE-COLOR 241-187-24
+:VAR Output Industrial Fuel Use by Fuel[biomass if]|Biomass
+:Y-MIN 0
+:LINE-COLOR 0-176-80
+:VAR Output Industrial Fuel Use by Fuel[heat if]|District Heat
+:Y-MIN 0
+:LINE-COLOR 245-147-224
+:VAR Output Industrial Fuel Use by Fuel[hydrogen if]|Hydrogen
+:Y-MIN 0
+:LINE-COLOR 98-14-122
+
+:GRAPH Industry_Fuel_Use_Excluding_Feedstocks_by_Industry
+:TITLE Industry: Fuel Use Excluding Feedstocks by Industry
+:STACK-FILL 0
+:NO-LEGEND 4
+:SCALE
+:VAR Output Industrial Fuel Use for Energy Purposes by Industry[other industries]|Other Industries
+:Y-MIN 0
+:LINE-COLOR 0-0-0
+:VAR Output Industrial Fuel Use for Energy Purposes by Industry[natural gas and petroleum systems]|Natural Gas and Petroleum Systems
+:Y-MIN 0
+:LINE-COLOR 192-27-0
+:VAR Output Industrial Fuel Use for Energy Purposes by Industry[chemicals]|Chemicals
+:Y-MIN 0
+:LINE-COLOR 241-187-24
+:VAR Output Industrial Fuel Use for Energy Purposes by Industry[iron and steel]|Iron and Steel
+:Y-MIN 0
+:LINE-COLOR 8-123-241
+:VAR Output Industrial Fuel Use for Energy Purposes by Industry[coal mining]|Coal Mining
+:Y-MIN 0
+:LINE-COLOR 150-150-150
+:VAR Output Industrial Fuel Use for Energy Purposes by Industry[cement and other carbonates]|Cement and Other Carbonates
+:Y-MIN 0
+:LINE-COLOR 0-176-80
+
+:GRAPH Industry_Fuel_Use_Excluding_Feedstocks_by_Fuel
+:TITLE Industry: Fuel Use Excluding Feedstocks by Fuel
+:STACK-FILL 0
+:NO-LEGEND 4
+:SCALE
+:VAR Output Industrial Fuel Use for Energy Purposes by Fuel[petroleum diesel if]|Other Petroleum
+:Y-MIN 0
+:LINE-COLOR 0-0-0
+:VAR Output Industrial Fuel Use for Energy Purposes by Fuel[crude oil if]|Crude Oil
+:Y-MIN 0
+:LINE-COLOR 116-0-0
+:VAR Output Industrial Fuel Use for Energy Purposes by Fuel[heavy or residual fuel oil if]|Heavy or Residual Fuel Oil
+:Y-MIN 0
+:LINE-COLOR 173-102-0
+:VAR Output Industrial Fuel Use for Energy Purposes by Fuel[hard coal if]|Hard Coal
+:Y-MIN 0
+:LINE-COLOR 150-150-150
+:VAR Output Industrial Fuel Use for Energy Purposes by Fuel[LPG propane or butane if]|LPG Propane and Butane
+:Y-MIN 0
+:LINE-COLOR 8-123-241
+:VAR Output Industrial Fuel Use for Energy Purposes by Fuel[natural gas if]|Natural Gas
+:Y-MIN 0
+:LINE-COLOR 192-27-0
+:VAR Output Industrial Fuel Use for Energy Purposes by Fuel[electricity if]|Electricity
+:Y-MIN 0
+:LINE-COLOR 241-187-24
+:VAR Output Industrial Fuel Use for Energy Purposes by Fuel[biomass if]|Biomass
+:Y-MIN 0
+:LINE-COLOR 0-176-80
+:VAR Output Industrial Fuel Use for Energy Purposes by Fuel[heat if]|District Heat
+:Y-MIN 0
+:LINE-COLOR 245-147-224
+:VAR Output Industrial Fuel Use for Energy Purposes by Fuel[hydrogen if]|Hydrogen
+:Y-MIN 0
+:LINE-COLOR 98-14-122
+
+:GRAPH Industry_Total_Emissions_by_Industry
+:TITLE Industry: Total Emissions by Industry
+:STACK-FILL 0
+:NO-LEGEND 4
+:SCALE
+:VAR Output Industry Sector CO2e Emissions by Industry[other industries]|Other Industries
+:Y-MIN 0
+:LINE-COLOR 0-0-0
+:VAR Output Industry Sector CO2e Emissions by Industry[natural gas and petroleum systems]|Natural Gas and Petroleum Systems
+:Y-MIN 0
+:LINE-COLOR 192-27-0
+:VAR Output Industry Sector CO2e Emissions by Industry[chemicals]|Chemicals
+:Y-MIN 0
+:LINE-COLOR 241-187-24
+:VAR Output Industry Sector CO2e Emissions by Industry[iron and steel]|Iron and Steel
+:Y-MIN 0
+:LINE-COLOR 8-123-241
+:VAR Output Industry Sector CO2e Emissions by Industry[coal mining]|Coal Mining
+:Y-MIN 0
+:LINE-COLOR 150-150-150
+:VAR Output Industry Sector CO2e Emissions by Industry[cement and other carbonates]|Cement and Other Carbonates
+:Y-MIN 0
+:LINE-COLOR 0-176-80
+
+:GRAPH Industry_Total_Emissions_by_Pollutant
+:TITLE Industry: Total Emissions by Pollutant
+:STACK-FILL 0
+:NO-LEGEND 4
+:SCALE
+:VAR Output Industry Sector CO2e Emissions by Pollutant[CO2]|CO2
+:Y-MIN 0
+:LINE-COLOR 150-150-150
+:VAR Output Industry Sector CO2e Emissions by Pollutant[CH4]|CH4
+:Y-MIN 0
+:LINE-COLOR 192-27-0
+:VAR Output Industry Sector CO2e Emissions by Pollutant[F gases]|F-gases
+:Y-MIN 0
+:LINE-COLOR 0-0-0
+:VAR Output Industry Sector CO2e Emissions by Pollutant[N2O]|N2O
+:Y-MIN 0
+:LINE-COLOR 0-176-80
+
+:GRAPH Industry_Process_Emissions_by_Industry
+:TITLE Industry: Process Emissions by Industry
+:STACK-FILL 0
+:NO-LEGEND 4
+:SCALE
+:VAR Output Process Emissions in CO2e by Industry[other industries]|Other Industries
+:Y-MIN 0
+:LINE-COLOR 0-0-0
+:VAR Output Process Emissions in CO2e by Industry[natural gas and petroleum systems]|Natural Gas and Petroleum Systems
+:Y-MIN 0
+:LINE-COLOR 192-27-0
+:VAR Output Process Emissions in CO2e by Industry[chemicals]|Chemicals
+:Y-MIN 0
+:LINE-COLOR 241-187-24
+:VAR Output Process Emissions in CO2e by Industry[iron and steel]|Iron and Steel
+:Y-MIN 0
+:LINE-COLOR 8-123-241
+:VAR Output Process Emissions in CO2e by Industry[coal mining]|Coal Mining
+:Y-MIN 0
+:LINE-COLOR 150-150-150
+:VAR Output Process Emissions in CO2e by Industry[cement and other carbonates]|Cement and Other Carbonates
+:Y-MIN 0
+:LINE-COLOR 0-176-80
+
+:GRAPH Industry_Process_Emissions_by_Pollutant
+:TITLE Industry: Process Emissions by Pollutant
+:STACK-FILL 0
+:NO-LEGEND 4
+:SCALE
+:VAR Output Process Emissions in CO2e by Pollutant[CO2]|CO2
+:Y-MIN 0
+:LINE-COLOR 150-150-150
+:VAR Output Process Emissions in CO2e by Pollutant[CH4]|CH4
+:Y-MIN 0
+:LINE-COLOR 192-27-0
+:VAR Output Process Emissions in CO2e by Pollutant[F gases]|F-gases
+:Y-MIN 0
+:LINE-COLOR 0-0-0
+:VAR Output Process Emissions in CO2e by Pollutant[N2O]|N2O
+:Y-MIN 0
+:LINE-COLOR 0-176-80
+
+:GRAPH Industry_Energy_Related_Emissions_by_Industry
+:TITLE Industry: Energy-Related Emissions by Industry
+:STACK-FILL 0
+:NO-LEGEND 4
+:SCALE
+:VAR Output Industry Sector Energy Related CO2e Emissions by Industry[other industries]|Other Industries
+:Y-MIN 0
+:LINE-COLOR 0-0-0
+:VAR Output Industry Sector Energy Related CO2e Emissions by Industry[natural gas and petroleum systems]|Natural Gas and Petroleum Systems
+:Y-MIN 0
+:LINE-COLOR 192-27-0
+:VAR Output Industry Sector Energy Related CO2e Emissions by Industry[chemicals]|Chemicals
+:Y-MIN 0
+:LINE-COLOR 241-187-24
+:VAR Output Industry Sector Energy Related CO2e Emissions by Industry[iron and steel]|Iron and Steel
+:Y-MIN 0
+:LINE-COLOR 8-123-241
+:VAR Output Industry Sector Energy Related CO2e Emissions by Industry[coal mining]|Coal Mining
+:Y-MIN 0
+:LINE-COLOR 150-150-150
+:VAR Output Industry Sector Energy Related CO2e Emissions by Industry[cement and other carbonates]|Cement and Other Carbonates
+:Y-MIN 0
+:LINE-COLOR 0-176-80
+
+:GRAPH Industry_Energy_Related_Emissions_by_Pollutant
+:TITLE Industry: Energy-Related Emissions by Pollutant
+:STACK-FILL 0
+:NO-LEGEND 4
+:SCALE
+:VAR Output Industry Sector Energy Related CO2e Emissions by Pollutant[CO2]|CO2
+:Y-MIN 0
+:LINE-COLOR 150-150-150
+:VAR Output Industry Sector Energy Related CO2e Emissions by Pollutant[CH4]|CH4
+:Y-MIN 0
+:LINE-COLOR 192-27-0
+:VAR Output Industry Sector Energy Related CO2e Emissions by Pollutant[N2O]|N2O
+:Y-MIN 0
+:LINE-COLOR 0-176-80
+
+:GRAPH Buildings_Energy_Use_by_Building_Component
+:TITLE Buildings: Energy Use by Building Component
+:STACK-FILL 0
+:NO-LEGEND 4
+:SCALE
+:VAR Output Components Energy Use by Component[heating]|Heating
+:Y-MIN 0
+:LINE-COLOR 192-27-0
+:VAR Output Components Energy Use by Component[cooling and ventilation]|Cooling and Ventilation
+:Y-MIN 0
+:LINE-COLOR 8-123-241
+:VAR Output Components Energy Use by Component[lighting]|Lighting
+:Y-MIN 0
+:LINE-COLOR 241-187-24
+:VAR Output Components Energy Use by Component[appliances]|Appliances
+:Y-MIN 0
+:LINE-COLOR 0-176-80
+:VAR Output Components Energy Use by Component[other component]|Other Components
+:Y-MIN 0
+:LINE-COLOR 0-0-0
+
+:GRAPH Buildings_Energy_Use_by_Building_Type
+:TITLE Buildings: Energy Use by Building Type
+:STACK-FILL 0
+:NO-LEGEND 4
+:SCALE
+:VAR Output Components Energy Use by Building Type[urban residential]|Urban Residential
+:Y-MIN 0
+:LINE-COLOR 150-150-150
+:VAR Output Components Energy Use by Building Type[rural residential]|Rural Residential
+:Y-MIN 0
+:LINE-COLOR 0-176-80
+:VAR Output Components Energy Use by Building Type[commercial]|Commercial
+:Y-MIN 0
+:LINE-COLOR 0-65-133
+
+:GRAPH Buildings_Energy_Use_by_Energy_Source
+:TITLE Buildings: Energy Use by Energy Source
+:STACK-FILL 0
+:NO-LEGEND 4
+:SCALE
+:VAR Output Components Energy Use by Energy Source[electricity bf]|Electricity
+:Y-MIN 0
+:LINE-COLOR 241-187-24
+:VAR Output Components Energy Use by Energy Source[natural gas bf]|Natural Gas
+:Y-MIN 0
+:LINE-COLOR 192-27-0
+:VAR Output Components Energy Use by Energy Source[LPG propane or butane bf]|LPG Propane and Butane
+:Y-MIN 0
+:LINE-COLOR 8-123-241
+:VAR Output Components Energy Use by Energy Source[petroleum diesel bf]|Other Petroleum
+:Y-MIN 0
+:LINE-COLOR 0-0-0
+:VAR Output Components Energy Use by Energy Source[heavy or residual fuel oil bf]|Heavy or Residual Fuel Oil
+:Y-MIN 0
+:LINE-COLOR 173-102-0
+:VAR Output Components Energy Use by Energy Source[kerosene bf]|Kerosene
+:Y-MIN 0
+:LINE-COLOR 194-223-253
+:VAR Output Components Energy Use by Energy Source[biomass bf]|Biomass
+:Y-MIN 0
+:LINE-COLOR 0-176-80
+:VAR Output Components Energy Use by Energy Source[heat bf]|District Heat
+:Y-MIN 0
+:LINE-COLOR 245-147-224
+:VAR Output Components Energy Use by Energy Source[hard coal bf]|Hard Coal
+:Y-MIN 0
+:LINE-COLOR 150-150-150
+:VAR Output Components Energy Use by Energy Source[hydrogen bf]|Hydrogen
+:Y-MIN 0
+:LINE-COLOR 98-14-122
+
+:GRAPH Output_TPE_by_Energy_Source
+:TITLE Total Primary Energy Use by Energy Source
+:STACK-FILL 0
+:NO-LEGEND 4
+:SCALE
+:VAR Output Total Primary Energy Use by Type[hard coal]|Hard Coal
+:Y-MIN 0
+:LINE-COLOR 150-150-150
+:VAR Output Total Primary Energy Use by Type[lignite]|Lignite
+:Y-MIN 0
+:LINE-COLOR 0-77-16
+:VAR Output Total Primary Energy Use by Type[natural gas]|Natural Gas
+:Y-MIN 0
+:LINE-COLOR 192-27-0
+:VAR Output Total Primary Energy Use by Type[crude oil]|Crude Oil
+:Y-MIN 0
+:LINE-COLOR 116-0-0
+:VAR Output Refined Petroleum Fuels Primary Energy Use|Refined Petroleum Fuels
+:Y-MIN 0
+:LINE-COLOR 0-0-0
+:VAR Output Total Primary Energy Use by Type[nuclear]|Nuclear
+:Y-MIN 0
+:LINE-COLOR 4-255-175
+:VAR Output Total Primary Energy Use by Type[hydro]|Hydro
+:Y-MIN 0
+:LINE-COLOR 0-65-133
+:VAR Output Total Primary Energy Use by Type[wind]|Wind
+:Y-MIN 0
+:LINE-COLOR 194-223-253
+:VAR Output Total Primary Energy Use by Type[solar]|Solar
+:Y-MIN 0
+:LINE-COLOR 241-187-24
+:VAR Output Total Primary Energy Use by Type[biomass]|Biomass
+:Y-MIN 0
+:LINE-COLOR 0-176-80
+:VAR Output Total Primary Energy Use by Type[municipal solid waste]|Municipal Solid Waste
+:Y-MIN 0
+:LINE-COLOR 255-0-255
+:VAR Output Liquid Biofuels Primary Energy Use|Liquid Biofuels
+:Y-MIN 0
+:LINE-COLOR 175-100-255
+:VAR Output Total Primary Energy Use by Type[geothermal]|Geothermal
+:Y-MIN 0
+:LINE-COLOR 98-14-122
+
+:GRAPH Output_TPE_by_Sector
+:TITLE Total Primary Energy Use by Sector
+:STACK-FILL 0
+:NO-LEGEND 4
+:SCALE
+:VAR Output Primary Energy Use by Industry Sector|Industry
+:LINE-COLOR 150-150-150
+:VAR Output Primary Energy Use by Electricity Sector|Electricity
+:LINE-COLOR 241-187-24
+:VAR Output Primary Energy Use by Transportation Sector|Transportation
+:LINE-COLOR 192-27-0
+:VAR Output Primary Energy Use by Water and Waste Sector|Water & Waste
+:LINE-COLOR 245-147-224
+:VAR Output Primary Energy Use by Buildings Sector|Buildings
+:LINE-COLOR 8-123-241
+:VAR Output Primary Energy Use by Agriculture Sector|Agriculture
+:LINE-COLOR 4-255-175
+:VAR Output Primary Energy Use by District Heat Sector|District Heat & Hydrogen
+:LINE-COLOR 98-14-122
+
+:GRAPH Output_Electricity_Consumption_(Total)
+:TITLE Electricity Consumption (Total)
+:NO-LEGEND 5
+:SCALE
+:VAR Output Total Electricity Demand
+:LINE-WIDTH 2
+
+:GRAPH Output_Hard_Coal_Consumption_(Total)
+:TITLE Hard Coal Consumption (Total)
+:NO-LEGEND 5
+:SCALE
+:VAR Output Total Hard Coal Consumption
+:LINE-WIDTH 2
+
+:GRAPH Output_Lignite_Consumption_(Total)
+:TITLE Lignite Consumption (Total)
+:NO-LEGEND 5
+:SCALE
+:VAR Output Total Lignite Consumption
+:LINE-WIDTH 2
+
+:GRAPH Output_Natural_Gas_Consumption_(Total)
+:TITLE Natural Gas Consumption (Total)
+:NO-LEGEND 5
+:SCALE
+:VAR Output Total Natural Gas Consumption
+:LINE-WIDTH 2
+
+:GRAPH Output_Petroleum_Fuels_Consumption
+:TITLE Petroleum Fuels Consumption
+:NO-LEGEND 5
+:SCALE
+:VAR Output Total Petroleum Fuels Consumption
+:LINE-WIDTH 2
+
+:GRAPH Output_Liquid_Biofuels_Consumption
+:TITLE Liquid Biofuels Consumption
+:NO-LEGEND 5
+:SCALE
+:VAR Output Total Liquid Biofuels Consumption
+:LINE-WIDTH 2
+
+:GRAPH Output_Biomass_Consumption
+:TITLE Biomass Consumption
+:NO-LEGEND 5
+:SCALE
+:VAR Output Total Biomass Consumption
+:LINE-WIDTH 2
+
+:GRAPH Output_LPG_Consumption
+:TITLE LPG Propane and Butane Consumption
+:NO-LEGEND 5
+:SCALE
+:VAR Output Total LPG Propane and Butane Consumption
+:LINE-WIDTH 2
+
+:GRAPH Output_MSW_Consumption
+:TITLE Municipal Solid Waste Consumption
+:NO-LEGEND 5
+:SCALE
+:VAR Output Total Municipal Solid Waste Consumption
+:LINE-WIDTH 2
+
+:GRAPH Output_Hydrogen_Consumption
+:TITLE Hydrogen Consumption
+:NO-LEGEND 5
+:SCALE
+:VAR Output Total Hydrogen Consumption
+:LINE-WIDTH 2
+
+:GRAPH Output_Primary_Energy_Use_per_Unit_GDP
+:TITLE Primary Energy Use per Unit GDP
+:NO-LEGEND 5
+:SCALE
+:VAR Output Total Primary Energy Use per Unit GDP
+:LINE-WIDTH 2
+
+:GRAPH Output_Energy_Exports
+:TITLE Energy Exports
+:STACK-FILL 0
+:NO-LEGEND 4
+:SCALE
+:VAR Output Energy Exports including Electricity[crude oil]|Crude Oil
+:Y-MIN 0
+:LINE-COLOR 116-0-0
+:VAR Output Refined Petroleum Fuels Exports|Refined Petroleum Fuels
+:Y-MIN 0
+:LINE-COLOR 0-0-0
+:VAR Output Energy Exports including Electricity[natural gas]|Natural Gas
+:Y-MIN 0
+:LINE-COLOR 192-27-0
+:VAR Output Coal and Lignite Exports|Coal
+:Y-MIN 0
+:LINE-COLOR 150-150-150
+:VAR Output Energy Exports including Electricity[nuclear]|Uranium
+:Y-MIN 0
+:LINE-COLOR 4-255-175
+:VAR Output Energy Exports including Electricity[biomass]|Biomass
+:Y-MIN 0
+:LINE-COLOR 0-176-8
+:VAR Output Liquid Biofuels Exports|Liquid Biofuels
+:Y-MIN 0
+:LINE-COLOR 175-100-255
+:VAR Output Energy Exports including Electricity[municipal solid waste]|Municipal Solid Waste
+:Y-MIN 0
+:LINE-COLOR 255-0-255
+:VAR Output Energy Exports including Electricity[electricity]|Electricity
+:Y-MIN 0
+:LINE-COLOR 241-187-24
+:VAR Output Energy Exports including Electricity[hydrogen]|Hydrogen
+:Y-MIN 0
+:LINE-COLOR 98-14-122
+
+:GRAPH Output_Change_in_Energy_Exports
+:TITLE Change in Energy Exports
+:NO-LEGEND 4
+:SCALE
+:VAR Output Change in Energy Exports including Electricity[crude oil]|Crude Oil
+:LINE-COLOR 116-0-0
+:LINE-WIDTH 2
+:VAR Output Change in Refined Petroleum Fuels Exports|Refined Petroleum Fuels
+:LINE-COLOR 0-0-0
+:LINE-WIDTH 2
+:VAR Output Change in Energy Exports including Electricity[natural gas]|Natural Gas
+:LINE-COLOR 192-27-0
+:LINE-WIDTH 2
+:VAR Output Change in Coal and Lignite Exports|Coal
+:LINE-COLOR 150-150-150
+:LINE-WIDTH 2
+:VAR Output Change in Energy Exports including Electricity[nuclear]|Uranium
+:LINE-COLOR 4-255-175
+:LINE-WIDTH 2
+:VAR Output Change in Energy Exports including Electricity[biomass]|Biomass
+:LINE-COLOR 0-176-80
+:LINE-WIDTH 2
+:VAR Output Change in Liquid Biofuels Exports|Liquid Biofuels
+:LINE-COLOR 175-100-255
+:LINE-WIDTH 2
+:VAR Output Change in Energy Exports including Electricity[municipal solid waste]|Municipal Solid Waste
+:LINE-COLOR 255-0-255
+:LINE-WIDTH 2
+:VAR Output Change in Energy Exports including Electricity[electricity]|Electricity
+:LINE-COLOR 241-187-24
+:LINE-WIDTH 2
+:VAR Output Change in Energy Exports including Electricity[hydrogen]|Hydrogen
+:LINE-COLOR 98-14-122
+:LINE-WIDTH 2
+
+:GRAPH Output_Energy_Export_Revenue
+:TITLE Energy Export Revenue
+:STACK-FILL 0
+:NO-LEGEND 4
+:SCALE
+:VAR Output Energy Export Revenue including Electricity[crude oil]|Crude Oil
+:Y-MIN 0
+:LINE-COLOR 116-0-0
+:VAR Output Refined Petroleum Fuels Export Revenue|Refined Petroleum Fuels
+:Y-MIN 0
+:LINE-COLOR 0-0-0
+:VAR Output Energy Export Revenue including Electricity[natural gas]|Natural Gas
+:Y-MIN 0
+:LINE-COLOR 192-27-0
+:VAR Output Coal and Lignite Export Revenue|Coal
+:Y-MIN 0
+:LINE-COLOR 150-150-150
+:VAR Output Energy Export Revenue including Electricity[nuclear]|Uranium
+:Y-MIN 0
+:LINE-COLOR 4-255-175
+:VAR Output Energy Export Revenue including Electricity[biomass]|Biomass
+:Y-MIN 0
+:LINE-COLOR 0-176-8
+:VAR Output Liquid Biofuels Export Revenue|Liquid Biofuels
+:Y-MIN 0
+:LINE-COLOR 175-100-255
+:VAR Output Energy Export Revenue including Electricity[municipal solid waste]|Municipal Solid Waste
+:Y-MIN 0
+:LINE-COLOR 255-0-255
+:VAR Output Energy Export Revenue including Electricity[electricity]|Electricity
+:Y-MIN 0
+:LINE-COLOR 241-187-24
+:VAR Output Energy Export Revenue including Electricity[hydrogen]|Hydrogen
+:Y-MIN 0
+:LINE-COLOR 98-14-122
+
+:GRAPH Output_Change_in_Energy_Export_Revenue
+:TITLE Change in Energy Export Revenue
+:NO-LEGEND 4
+:SCALE
+:VAR Output Change in Energy Export Revenue including Electricity[crude oil]|Crude Oil
+:LINE-COLOR 116-0-0
+:LINE-WIDTH 2
+:VAR Output Change in Refined Petroleum Fuels Export Revenue|Refined Petroleum Fuels
+:LINE-COLOR 0-0-0
+:LINE-WIDTH 2
+:VAR Output Change in Energy Export Revenue including Electricity[natural gas]|Natural Gas
+:LINE-COLOR 192-27-0
+:LINE-WIDTH 2
+:VAR Output Change in Coal and Lignite Export Revenue|Coal
+:LINE-COLOR 150-150-150
+:LINE-WIDTH 2
+:VAR Output Change in Energy Export Revenue including Electricity[nuclear]|Uranium
+:LINE-COLOR 4-255-175
+:LINE-WIDTH 2
+:VAR Output Change in Energy Export Revenue including Electricity[biomass]|Biomass
+:LINE-COLOR 0-176-80
+:LINE-WIDTH 2
+:VAR Output Change in Liquid Biofuels Export Revenue|Liquid Biofuels
+:LINE-COLOR 175-100-255
+:LINE-WIDTH 2
+:VAR Output Change in Energy Export Revenue including Electricity[municipal solid waste]|Municipal Solid Waste
+:LINE-COLOR 255-0-255
+:LINE-WIDTH 2
+:VAR Output Change in Energy Export Revenue including Electricity[electricity]|Electricity
+:LINE-COLOR 241-187-24
+:LINE-WIDTH 2
+:VAR Output Change in Energy Export Revenue including Electricity[hydrogen]|Hydrogen
+:LINE-COLOR 98-14-122
+:LINE-WIDTH 2
+
+:GRAPH Output_Embedded_CO2_in_Exported_Fuels
+:TITLE Embedded CO2 in Exported Fuels
+:STACK-FILL 0
+:NO-LEGEND 4
+:SCALE
+:VAR Output Embedded CO2 in Exported Fuels[crude oil]|Crude Oil
+:Y-MIN 0
+:LINE-COLOR 116-0-0
+:VAR Output Embedded CO2 in Exported Refined Petroleum Fuels|Refined Petroleum Fuels
+:Y-MIN 0
+:LINE-COLOR 0-0-0
+:VAR Output Embedded CO2 in Exported Fuels[natural gas]|Natural Gas
+:Y-MIN 0
+:LINE-COLOR 192-27-0
+:VAR Output Embedded CO2 in Exported Coal and Lignite|Coal
+:Y-MIN 0
+:LINE-COLOR 150-150-150
+:VAR Output Embedded CO2 in Exported Fuels[biomass]|Biomass
+:Y-MIN 0
+:LINE-COLOR 0-176-8
+:VAR Output Embedded CO2 in Exported Liquid Biofuels|Liquid Biofuels
+:Y-MIN 0
+:LINE-COLOR 175-100-255
+:VAR Output Embedded CO2 in Exported Fuels[municipal solid waste]|Municipal Solid Waste
+:Y-MIN 0
+:LINE-COLOR 255-0-255
+
+:GRAPH Output_Change_in_Embedded_CO2_in_Exported_Fuels
+:TITLE Change in Embedded CO2 in Exported Fuels
+:NO-LEGEND 4
+:SCALE
+:VAR Output Change in Embedded CO2 in Exported Fuels[crude oil]|Crude Oil
+:LINE-COLOR 116-0-0
+:LINE-WIDTH 2
+:VAR Output Change in Embedded CO2 in Exported Refined Petroleum Fuels|Refined Petroleum Fuels
+:LINE-COLOR 0-0-0
+:LINE-WIDTH 2
+:VAR Output Change in Embedded CO2 in Exported Fuels[natural gas]|Natural Gas
+:LINE-COLOR 192-27-0
+:LINE-WIDTH 2
+:VAR Output Change in Embedded CO2 in Exported Coal and Lignite|Coal
+:LINE-COLOR 150-150-150
+:LINE-WIDTH 2
+:VAR Output Change in Embedded CO2 in Exported Fuels[biomass]|Biomass
+:LINE-COLOR 0-176-8
+:LINE-WIDTH 2
+:VAR Output Change in Embedded CO2 in Exported Liquid Biofuels|Liquid Biofuels
+:LINE-COLOR 175-100-255
+:LINE-WIDTH 2
+:VAR Output Change in Embedded CO2 in Exported Fuels[municipal solid waste]|Municipal Solid Waste
+:LINE-COLOR 255-0-255
+:LINE-WIDTH 2
+
+:GRAPH Output_Energy_Imports
+:TITLE Energy Imports
+:STACK-FILL 0
+:NO-LEGEND 4
+:SCALE
+:VAR Output Energy Imports including Electricity[crude oil]|Crude Oil
+:Y-MIN 0
+:LINE-COLOR 116-0-0
+:VAR Output Refined Petroleum Fuels Imports|Refined Petroleum Fuels
+:Y-MIN 0
+:LINE-COLOR 0-0-0
+:VAR Output Energy Imports including Electricity[natural gas]|Natural Gas
+:Y-MIN 0
+:LINE-COLOR 192-27-0
+:VAR Output Coal and Lignite Imports|Coal
+:Y-MIN 0
+:LINE-COLOR 150-150-150
+:VAR Output Energy Imports including Electricity[nuclear]|Uranium
+:Y-MIN 0
+:LINE-COLOR 4-255-175
+:VAR Output Energy Imports including Electricity[biomass]|Biomass
+:Y-MIN 0
+:LINE-COLOR 0-176-8
+:VAR Output Liquid Biofuels Imports|Liquid Biofuels
+:Y-MIN 0
+:LINE-COLOR 175-100-255
+:VAR Output Energy Imports including Electricity[municipal solid waste]|Municipal Solid Waste
+:Y-MIN 0
+:LINE-COLOR 255-0-255
+:VAR Output Energy Imports including Electricity[electricity]|Electricity
+:Y-MIN 0
+:LINE-COLOR 241-187-24
+:VAR Output Energy Imports including Electricity[hydrogen]|Hydrogen
+:Y-MIN 0
+:LINE-COLOR 98-14-122
+
+:GRAPH Output_Change_in_Energy_Imports
+:TITLE Change in Energy Imports
+:NO-LEGEND 4
+:SCALE
+:VAR Output Change in Energy Imports including Electricity[crude oil]|Crude Oil
+:LINE-COLOR 116-0-0
+:LINE-WIDTH 2
+:VAR Output Change in Refined Petroleum Fuels Imports|Refined Petroleum Fuels
+:LINE-COLOR 0-0-0
+:LINE-WIDTH 2
+:VAR Output Change in Energy Imports including Electricity[natural gas]|Natural Gas
+:LINE-COLOR 192-27-0
+:LINE-WIDTH 2
+:VAR Output Change in Coal and Lignite Imports|Coal
+:LINE-COLOR 150-150-150
+:LINE-WIDTH 2
+:VAR Output Change in Energy Imports including Electricity[nuclear]|Uranium
+:LINE-COLOR 4-255-175
+:LINE-WIDTH 2
+:VAR Output Change in Energy Imports including Electricity[biomass]|Biomass
+:LINE-COLOR 0-176-80
+:LINE-WIDTH 2
+:VAR Output Change in Liquid Biofuels Imports|Liquid Biofuels
+:LINE-COLOR 175-100-255
+:LINE-WIDTH 2
+:VAR Output Change in Energy Imports including Electricity[municipal solid waste]|Municipal Solid Waste
+:LINE-COLOR 255-0-255
+:LINE-WIDTH 2
+:VAR Output Change in Energy Imports including Electricity[electricity]|Electricity
+:LINE-COLOR 241-187-24
+:LINE-WIDTH 2
+:VAR Output Change in Energy Imports including Electricity[hydrogen]|Hydrogen
+:LINE-COLOR 98-14-122
+:LINE-WIDTH 2
+
+:GRAPH Output_Energy_Import_Expenditures
+:TITLE Energy Import Expenditures
+:STACK-FILL 0
+:NO-LEGEND 4
+:SCALE
+:VAR Output Energy Import Expenditures including Electricity[crude oil]|Crude Oil
+:Y-MIN 0
+:LINE-COLOR 116-0-0
+:VAR Output Refined Petroleum Fuels Import Expenditures|Refined Petroleum Fuels
+:Y-MIN 0
+:LINE-COLOR 0-0-0
+:VAR Output Energy Import Expenditures including Electricity[natural gas]|Natural Gas
+:Y-MIN 0
+:LINE-COLOR 192-27-0
+:VAR Output Coal and Lignite Import Expenditures|Coal
+:Y-MIN 0
+:LINE-COLOR 150-150-150
+:VAR Output Energy Import Expenditures including Electricity[nuclear]|Uranium
+:Y-MIN 0
+:LINE-COLOR 4-255-175
+:VAR Output Energy Import Expenditures including Electricity[biomass]|Biomass
+:Y-MIN 0
+:LINE-COLOR 0-176-8
+:VAR Output Liquid Biofuels Import Expenditures|Liquid Biofuels
+:Y-MIN 0
+:LINE-COLOR 175-100-255
+:VAR Output Energy Import Expenditures including Electricity[municipal solid waste]|Municipal Solid Waste
+:Y-MIN 0
+:LINE-COLOR 255-0-255
+:VAR Output Energy Import Expenditures including Electricity[electricity]|Electricity
+:Y-MIN 0
+:LINE-COLOR 241-187-24
+:VAR Output Energy Import Expenditures including Electricity[hydrogen]|Hydrogen
+:Y-MIN 0
+:LINE-COLOR 98-14-122
+
+:GRAPH Output_Change_in_Energy_Import_Expenditures
+:TITLE Change in Energy Import Expenditures
+:NO-LEGEND 4
+:SCALE
+:VAR Output Change in Energy Import Expenditures including Electricity[crude oil]|Crude Oil
+:LINE-COLOR 116-0-0
+:LINE-WIDTH 2
+:VAR Output Change in Refined Petroleum Fuels Import Expenditures|Refined Petroleum Fuels
+:LINE-COLOR 0-0-0
+:LINE-WIDTH 2
+:VAR Output Change in Energy Import Expenditures including Electricity[natural gas]|Natural Gas
+:LINE-COLOR 192-27-0
+:LINE-WIDTH 2
+:VAR Output Change in Coal and Lignite Import Expenditures|Coal
+:LINE-COLOR 150-150-150
+:LINE-WIDTH 2
+:VAR Output Change in Energy Import Expenditures including Electricity[nuclear]|Uranium
+:LINE-COLOR 4-255-175
+:LINE-WIDTH 2
+:VAR Output Change in Energy Import Expenditures including Electricity[biomass]|Biomass
+:LINE-COLOR 0-176-80
+:LINE-WIDTH 2
+:VAR Output Change in Liquid Biofuels Import Expenditures|Liquid Biofuels
+:LINE-COLOR 175-100-255
+:LINE-WIDTH 2
+:VAR Output Change in Energy Import Expenditures including Electricity[municipal solid waste]|Municipal Solid Waste
+:LINE-COLOR 255-0-255
+:LINE-WIDTH 2
+:VAR Output Change in Energy Import Expenditures including Electricity[electricity]|Electricity
+:LINE-COLOR 241-187-24
+:LINE-WIDTH 2
+:VAR Output Change in Energy Import Expenditures including Electricity[hydrogen]|Hydrogen
+:LINE-COLOR 98-14-122
+:LINE-WIDTH 2
+
+:GRAPH Output_Energy_Production
+:TITLE Energy Production
+:STACK-FILL 0
+:NO-LEGEND 4
+:SCALE
+:VAR Output Energy Production including Electricity and Heat[crude oil]|Crude Oil
+:Y-MIN 0
+:LINE-COLOR 116-0-0
+:VAR Output Refined Petroleum Fuels Production|Refined Petroleum Fuels
+:Y-MIN 0
+:LINE-COLOR 0-0-0
+:VAR Output Energy Production including Electricity and Heat[natural gas]|Natural Gas
+:Y-MIN 0
+:LINE-COLOR 192-27-0
+:VAR Output Coal and Lignite Production|Coal
+:Y-MIN 0
+:LINE-COLOR 150-150-150
+:VAR Output Energy Production including Electricity and Heat[nuclear]|Uranium
+:Y-MIN 0
+:LINE-COLOR 4-255-175
+:VAR Output Energy Production including Electricity and Heat[biomass]|Biomass
+:Y-MIN 0
+:LINE-COLOR 0-176-8
+:VAR Output Liquid Biofuels Production|Liquid Biofuels
+:Y-MIN 0
+:LINE-COLOR 175-100-255
+:VAR Output Energy Production including Electricity and Heat[municipal solid waste]|Municipal Solid Waste
+:Y-MIN 0
+:LINE-COLOR 255-0-255
+:VAR Output Energy Production including Electricity and Heat[heat]|District Heat
+:Y-MIN 0
+:LINE-COLOR 245-147-224
+:VAR Output Energy Production including Electricity and Heat[electricity]|Electricity
+:Y-MIN 0
+:LINE-COLOR 241-187-24
+:VAR Output Energy Production including Electricity and Heat[hydrogen]|Hydrogen
+:Y-MIN 0
+:LINE-COLOR 98-14-122
+
+:GRAPH Output_Change_in_Energy_Production
+:TITLE Change in Energy Production
+:NO-LEGEND 4
+:SCALE
+:VAR Output Change in Energy Production including Electricity and Heat[crude oil]|Crude Oil
+:LINE-COLOR 116-0-0
+:LINE-WIDTH 2
+:VAR Output Change in Refined Petroleum Fuels Production|Refined Petroleum Fuels
+:LINE-COLOR 0-0-0
+:LINE-WIDTH 2
+:VAR Output Change in Energy Production including Electricity and Heat[natural gas]|Natural Gas
+:LINE-COLOR 192-27-0
+:LINE-WIDTH 2
+:VAR Output Change in Coal and Lignite Production|Coal
+:LINE-COLOR 150-150-150
+:LINE-WIDTH 2
+:VAR Output Change in Energy Production including Electricity and Heat[nuclear]|Uranium
+:LINE-COLOR 4-255-175
+:LINE-WIDTH 2
+:VAR Output Change in Energy Production including Electricity and Heat[biomass]|Biomass
+:LINE-COLOR 0-176-80
+:LINE-WIDTH 2
+:VAR Output Change in Liquid Biofuels Production|Liquid Biofuels
+:LINE-COLOR 175-100-255
+:LINE-WIDTH 2
+:VAR Output Change in Energy Production including Electricity and Heat[municipal solid waste]|Municipal Solid Waste
+:LINE-COLOR 255-0-255
+:LINE-WIDTH 2
+:VAR Output Change in Energy Production including Electricity and Heat[heat]|District Heat
+:LINE-COLOR 245-147-224
+:LINE-WIDTH 2
+:VAR Output Change in Energy Production including Electricity and Heat[electricity]|Electricity
+:LINE-COLOR 241-187-24
+:LINE-WIDTH 2
+:VAR Output Change in Energy Production including Electricity and Heat[hydrogen]|Hydrogen
+:LINE-COLOR 98-14-122
+:LINE-WIDTH 2
+
+:GRAPH Fuel_Cost_by_Sector_Electricity
+:TITLE Fuel Cost by Sector: Electricity
+:NO-LEGEND 4
+:SCALE
+:VAR Output Fuel Costs per Unit Energy by Sector[electricity,industry sector]|Industry Sector
+:Y-MIN 0
+:LINE-COLOR 150-150-150
+:LINE-WIDTH 2
+:VAR Output Fuel Costs per Unit Energy by Sector[electricity,transportation sector]|Transportation Sector
+:Y-MIN 0
+:LINE-COLOR 192-27-0
+:LINE-WIDTH 2
+:VAR Output Fuel Costs per Unit Energy by Sector[electricity,residential buildings sector]|Residential Buildings Sector
+:Y-MIN 0
+:LINE-COLOR 8-123-241
+:LINE-WIDTH 2
+:VAR Output Fuel Costs per Unit Energy by Sector[electricity,commercial buildings sector]|Commercial Buildings Sector
+:Y-MIN 0
+:LINE-COLOR 0-65-133
+:LINE-WIDTH 2
+:VAR Output Fuel Costs per Unit Energy by Sector[electricity,district heat and hydrogen sector]|District Heat & Hydrogen Sectors
+:Y-MIN 0
+:LINE-COLOR 98-14-122
+:LINE-WIDTH 2
+
+:GRAPH Fuel_Cost_by_Sector_Hard_Coal
+:TITLE Fuel Cost by Sector: Hard Coal
+:NO-LEGEND 4
+:SCALE
+:VAR Output Fuel Costs per Unit Energy by Sector[hard coal,district heat and hydrogen sector]|District Heat & Hydrogen Sectors
+:Y-MIN 0
+:LINE-COLOR 98-14-122
+:LINE-WIDTH 2
+:VAR Output Fuel Costs per Unit Energy by Sector[hard coal,industry sector]|Industry Sector
+:Y-MIN 0
+:LINE-COLOR 150-150-150
+:LINE-WIDTH 2
+:VAR Output Fuel Costs per Unit Energy by Sector[hard coal,electricity sector]|Electricity Sector
+:Y-MIN 0
+:LINE-COLOR 241-187-24
+:LINE-WIDTH 2
+:VAR Output Fuel Costs per Unit Energy by Sector[hard coal,residential buildings sector]|Residential Buildings Sector
+:Y-MIN 0
+:LINE-COLOR 8-123-241
+:LINE-WIDTH 2
+:VAR Output Fuel Costs per Unit Energy by Sector[hard coal,commercial buildings sector]|Commercial Buildings Sector
+:Y-MIN 0
+:LINE-COLOR 0-65-133
+:LINE-WIDTH 2
+
+:GRAPH Fuel_Cost_by_Sector_Lignite
+:TITLE Fuel Cost by Sector: Lignite
+:NO-LEGEND 4
+:SCALE
+:VAR Output Fuel Costs per Unit Energy by Sector[lignite,electricity sector]|Electricity Sector
+:Y-MIN 0
+:LINE-WIDTH 2
+
+:GRAPH Fuel_Cost_by_Sector_Natural_Gas
+:TITLE Fuel Cost by Sector: Natural Gas
+:NO-LEGEND 4
+:SCALE
+:VAR Output Fuel Costs per Unit Energy by Sector[natural gas,district heat and hydrogen sector]|District Heat & Hydrogen Sectors
+:Y-MIN 0
+:LINE-COLOR 98-14-122
+:LINE-WIDTH 2
+:VAR Output Fuel Costs per Unit Energy by Sector[natural gas,industry sector]|Industry Sector
+:Y-MIN 0
+:LINE-COLOR 150-150-150
+:LINE-WIDTH 2
+:VAR Output Fuel Costs per Unit Energy by Sector[natural gas,transportation sector]|Transportation Sector
+:Y-MIN 0
+:LINE-COLOR 192-27-0
+:LINE-WIDTH 2
+:VAR Output Fuel Costs per Unit Energy by Sector[natural gas,electricity sector]|Electricity Sector
+:Y-MIN 0
+:LINE-COLOR 241-187-24
+:LINE-WIDTH 2
+:VAR Output Fuel Costs per Unit Energy by Sector[natural gas,residential buildings sector]|Residential Buildings Sector
+:Y-MIN 0
+:LINE-COLOR 8-123-241
+:LINE-WIDTH 2
+:VAR Output Fuel Costs per Unit Energy by Sector[natural gas,commercial buildings sector]|Commercial Buildings Sector
+:Y-MIN 0
+:LINE-COLOR 0-65-133
+:LINE-WIDTH 2
+
+:GRAPH Fuel_Cost_by_Sector_Petroleum_Gasoline
+:TITLE Fuel Cost by Sector: Petroleum Gasoline
+:NO-LEGEND 4
+:SCALE
+:VAR Output Fuel Costs per Unit Energy by Sector[petroleum gasoline,transportation sector]|Transportation Sector
+:Y-MIN 0
+:LINE-WIDTH 2
+
+:GRAPH Fuel_Cost_by_Sector_Petroleum_Diesel
+:TITLE Fuel Cost by Sector: Petroleum Diesel
+:NO-LEGEND 4
+:SCALE
+:VAR Output Fuel Costs per Unit Energy by Sector[petroleum diesel,district heat and hydrogen sector]|District Heat & Hydrogen Sectors
+:Y-MIN 0
+:LINE-COLOR 98-14-122
+:LINE-WIDTH 2
+:VAR Output Fuel Costs per Unit Energy by Sector[petroleum diesel,industry sector]|Industry Sector
+:Y-MIN 0
+:LINE-COLOR 150-150-150
+:LINE-WIDTH 2
+:VAR Output Fuel Costs per Unit Energy by Sector[petroleum diesel,transportation sector]|Transportation Sector
+:Y-MIN 0
+:LINE-COLOR 192-27-0
+:LINE-WIDTH 2
+:VAR Output Fuel Costs per Unit Energy by Sector[petroleum diesel,electricity sector]|Electricity Sector
+:Y-MIN 0
+:LINE-COLOR 241-187-24
+:LINE-WIDTH 2
+:VAR Output Fuel Costs per Unit Energy by Sector[petroleum diesel,residential buildings sector]|Residential Buildings Sector
+:Y-MIN 0
+:LINE-COLOR 8-123-241
+:LINE-WIDTH 2
+:VAR Output Fuel Costs per Unit Energy by Sector[petroleum diesel,commercial buildings sector]|Commercial Buildings Sector
+:Y-MIN 0
+:LINE-COLOR 0-65-133
+:LINE-WIDTH 2
+
+:GRAPH Fuel_Cost_by_Sector_Biomass
+:TITLE Fuel Cost by Sector: Biomass
+:NO-LEGEND 4
+:SCALE
+:VAR Output Fuel Costs per Unit Energy by Sector[biomass,district heat and hydrogen sector]|District Heat & Hydrogen Sectors
+:Y-MIN 0
+:LINE-COLOR 98-14-122
+:LINE-WIDTH 2
+:VAR Output Fuel Costs per Unit Energy by Sector[biomass,industry sector]|Industry Sector
+:Y-MIN 0
+:LINE-COLOR 150-150-150
+:LINE-WIDTH 2
+:VAR Output Fuel Costs per Unit Energy by Sector[biomass,electricity sector]|Electricity Sector
+:Y-MIN 0
+:LINE-COLOR 241-187-24
+:LINE-WIDTH 2
+:VAR Output Fuel Costs per Unit Energy by Sector[biomass,residential buildings sector]|Residential Buildings Sector
+:Y-MIN 0
+:LINE-COLOR 8-123-241
+:LINE-WIDTH 2
+:VAR Output Fuel Costs per Unit Energy by Sector[biomass,commercial buildings sector]|Commercial Buildings Sector
+:Y-MIN 0
+:LINE-COLOR 0-65-133
+:LINE-WIDTH 2
+
+:GRAPH Fuel_Cost_by_Sector_Crude_Oil
+:TITLE Fuel Cost by Sector: Crude Oil
+:NO-LEGEND 4
+:SCALE
+:VAR Output Fuel Costs per Unit Energy by Sector[crude oil,industry sector]|Industry Sector
+:Y-MIN 0
+:LINE-COLOR 150-150-150
+:LINE-WIDTH 2
+:VAR Output Fuel Costs per Unit Energy by Sector[crude oil,electricity sector]|Electricity Sector
+:Y-MIN 0
+:LINE-COLOR 241-187-24
+:LINE-WIDTH 2
+
+:GRAPH Fuel_Cost_by_Sector_Heavy_or_Residual_Fuel_Oil
+:TITLE Fuel Cost by Sector: Heavy or Residual Fuel Oil
+:NO-LEGEND 4
+:SCALE
+:VAR Output Fuel Costs per Unit Energy by Sector[heavy or residual fuel oil,industry sector]|Industry Sector
+:Y-MIN 0
+:LINE-COLOR 150-150-150
+:LINE-WIDTH 2
+:VAR Output Fuel Costs per Unit Energy by Sector[heavy or residual fuel oil,transportation sector]|Transportation Sector
+:Y-MIN 0
+:LINE-COLOR 192-27-0
+:LINE-WIDTH 2
+:VAR Output Fuel Costs per Unit Energy by Sector[heavy or residual fuel oil,electricity sector]|Electricity Sector
+:Y-MIN 0
+:LINE-COLOR 241-187-24
+:LINE-WIDTH 2
+:VAR Output Fuel Costs per Unit Energy by Sector[heavy or residual fuel oil,residential buildings sector]|Residential Buildings Sector
+:Y-MIN 0
+:LINE-COLOR 8-123-241
+:LINE-WIDTH 2
+:VAR Output Fuel Costs per Unit Energy by Sector[heavy or residual fuel oil,commercial buildings sector]|Commercial Buildings Sector
+:Y-MIN 0
+:LINE-COLOR 0-65-133
+:LINE-WIDTH 2
+
+:GRAPH Fuel_Cost_by_Sector_LPG_Propane_or_Butane
+:TITLE Fuel Cost by Sector: LPG Propane or Butane
+:NO-LEGEND 4
+:SCALE
+:VAR Output Fuel Costs per Unit Energy by Sector[LPG propane or butane,industry sector]|Industry Sector
+:Y-MIN 0
+:LINE-COLOR 150-150-150
+:LINE-WIDTH 2
+:VAR Output Fuel Costs per Unit Energy by Sector[LPG propane or butane,transportation sector]|Transportation Sector
+:Y-MIN 0
+:LINE-COLOR 192-27-0
+:LINE-WIDTH 2
+:VAR Output Fuel Costs per Unit Energy by Sector[LPG propane or butane,residential buildings sector]|Residential Buildings Sector
+:Y-MIN 0
+:LINE-COLOR 8-123-241
+:LINE-WIDTH 2
+:VAR Output Fuel Costs per Unit Energy by Sector[LPG propane or butane,commercial buildings sector]|Commercial Buildings Sector
+:Y-MIN 0
+:LINE-COLOR 0-65-133
+:LINE-WIDTH 2
+
+:GRAPH Fuel_Cost_by_Sector_Hydrogen
+:TITLE Fuel Cost by Sector: Hydrogen
+:NO-LEGEND 4
+:SCALE
+:VAR Output Fuel Costs per Unit Energy by Sector[hydrogen,industry sector]|Industry Sector
+:Y-MIN 0
+:LINE-COLOR 150-150-150
+:LINE-WIDTH 2
+:VAR Output Fuel Costs per Unit Energy by Sector[hydrogen,transportation sector]|Transportation Sector
+:Y-MIN 0
+:LINE-COLOR 192-27-0
+:LINE-WIDTH 2
+:VAR Output Fuel Costs per Unit Energy by Sector[hydrogen,residential buildings sector]|Residential Buildings Sector
+:Y-MIN 0
+:LINE-COLOR 8-123-241
+:LINE-WIDTH 2
+:VAR Output Fuel Costs per Unit Energy by Sector[hydrogen,commercial buildings sector]|Commercial Buildings Sector
+:Y-MIN 0
+:LINE-COLOR 0-65-133
+:LINE-WIDTH 2
+
+:GRAPH Technology_Costs_Batteries
+:TITLE Technology Costs: Batteries
+:NO-LEGEND 5
+:SCALE
+:VAR Output Battery Cost
+:Y-MIN 0
+:LINE-WIDTH 2
+
+:GRAPH Technology_Costs_CCS
+:TITLE Technology Costs: CCS
+:NO-LEGEND 4
+:SCALE
+:VAR Output Capital Cost of Epqt to Sequester One Ton of CO2 per Year[electricity sector]|Electricity Sector
+:Y-MIN 0
+:LINE-COLOR 241-187-24
+:LINE-WIDTH 2
+:VAR Output Capital Cost of Epqt to Sequester One Ton of CO2 per Year[industry sector]|Industry Sector
+:Y-MIN 0
+:LINE-COLOR 150-150-150
+:LINE-WIDTH 2
+
+:GRAPH Technology_Costs_Onshore_Wind
+:TITLE Technology Costs: Onshore Wind
+:NO-LEGEND 5
+:SCALE
+:VAR Output Construction Cost per Unit Capacity before Construction Subsidies[onshore wind es]
+:Y-MIN 0
+:LINE-WIDTH 2
+
+:GRAPH Technology_Costs_Offshore_Wind
+:TITLE Technology Costs: Offshore Wind
+:NO-LEGEND 5
+:SCALE
+:VAR Output Construction Cost per Unit Capacity before Construction Subsidies[offshore wind es]
+:Y-MIN 0
+:LINE-WIDTH 2
+
+:GRAPH Technology_Costs_Solar_PV
+:TITLE Technology Costs: Solar PV
+:NO-LEGEND 5
+:SCALE
+:VAR Output Construction Cost per Unit Capacity before Construction Subsidies[solar PV es]
+:Y-MIN 0
+:LINE-WIDTH 2
+
+:GRAPH Technology_Costs_Hydrogen_Electrolyzers
+:TITLE Technology Costs: Hydrogen Electrolyzers
+:NO-LEGEND 5
+:SCALE
+:VAR Output Hydrogen Production Equipment CapEx[electrolysis]
+:Y-MIN 0
+:LINE-WIDTH 2
+
+:GRAPH Total_CO2e_Emissions_Comparison
+:TITLE Total CO2e Emissions Comparison
+:NO-LEGEND 4
+:SCALE
+:VAR Total CO2e Emissions|Policy Package
+:LINE-WIDTH 2
+:VAR BAU Total CO2e Emissions|BAU Case
+:Y-MIN 0
+:LINE-WIDTH 2
+
+:GRAPH Transportation_CO2_Emissions
+:TITLE Transportation Sector CO2 Emissions
+:NO-LEGEND 4
+:SCALE
+:VAR Transportation Sector Pollutant Emissions[CO2]|Policy Package
+:LINE-WIDTH 2
+:VAR BAU Transportation Sector Pollutant Emissions[CO2]|BAU Case
+:Y-MIN 0
+:LINE-WIDTH 2
+
+:GRAPH Electricity_CO2e_Emissions
+:TITLE Electricity Sector CO2e Emissions
+:SCALE
+:VAR Electricity Sector CO2e Emissions|Policy Package
+:LINE-WIDTH 2
+:VAR BAU Electricity Sector CO2e Emissions|BAU Case
+:Y-MIN 0
+:LINE-WIDTH 2
+
+:GRAPH Buildings_CO2_Emissions
+:TITLE Buildings Sector CO2 Emissions
+:SCALE
+:VAR Buildings Sector Pollutant Emissions Summed Across Building Types[CO2]|Policy Package
+:LINE-WIDTH 2
+:VAR BAU Buildings Sector Pollutant Emissions Summed Across Building Types[CO2]|BAU Case
+:Y-MIN 0
+:LINE-WIDTH 2
+
+:GRAPH Industry_Agriculture_CO2e_Emissions
+:TITLE Industry and Agriculture CO2e Emissions
+:SCALE
+:VAR Industrial Sector CO2e Emissions|Policy Package
+:LINE-WIDTH 2
+:VAR BAU Industrial Sector CO2e Emissions|BAU Case
+:Y-MIN 0
+:LINE-WIDTH 2
+
+:GRAPH District_Heating_CO2_Emissions
+:TITLE District Heating CO2 Emissions
+:SCALE
+:VAR District Heating Pollutant Emissions Summed Across Fuels[CO2]|Policy Package
+:LINE-WIDTH 2
+:VAR BAU District Heating Pollutant Emissions Summed Across Fuels[CO2]|BAU Case
+:Y-MIN 0
+:LINE-WIDTH 2
+
+:GRAPH Hydrogen_Sector_CO2e_Emissions
+:TITLE Hydrogen Sector CO2e Emissions
+:SCALE
+:VAR Hydrogen Sector CO2e Emissions|Policy Package
+:LINE-WIDTH 2
+:VAR BAU Hydrogen Sector CO2e Emissions|BAU Case
+:Y-MIN 0
+:LINE-WIDTH 2
+
+:GRAPH LULUCF_CO2_Impact
+:TITLE LULUCF CO2 Impact
+:SCALE
+:VAR LULUCF Anthropogenic Pollutant Emissions[CO2]|Policy Package
+:LINE-WIDTH 2
+:VAR BLACE BAU LULUCF Anthropogenic CO2 Emissions|BAU Case
+:LINE-WIDTH 2
+
+:GRAPH CCS_CO2_Sequestration
+:TITLE CCS CO2 Sequestration
+:SCALE
+:VAR This Year CO2 Sequestered[electricity sector]|Policy Package Electricity Sector
+:LINE-WIDTH 2
+:VAR BAU This Year CO2 Sequestered[electricity sector]|BAU Case Electricity Sector
+:LINE-WIDTH 2
+:VAR This Year CO2 Sequestered[industry sector]|Policy Package Industry Sector
+:LINE-WIDTH 2
+:VAR BAU This Year CO2 Sequestered[industry sector]|BAU Case Industry Sector
+:LINE-WIDTH 2
+
+:GRAPH Transportation_LCFS_Performance
+:TITLE LCFS Performance
+:NO-LEGEND 4
+:SCALE
+:VAR Achieved LCFS Percentage before Fuel Shifts|Achieved LCFS % Before Fuel Shifts
+:LINE-COLOR 98-14-122
+:LINE-WIDTH 2
+:VAR Required LCFS Percentage|Required LCFS %
+:LINE-COLOR 0-77-16
+:LINE-WIDTH 2
+:VAR Maximum Possible LCFS Percentage|Max Possible LCFS %
+:LINE-COLOR 0-65-133
+:LINE-WIDTH 2
+:VAR Achieved LCFS Percentage|Achieved LCFS %
+:LINE-COLOR 255-140-10
+:LINE-WIDTH 6
 :L<%^E!@
 1:MostRecentRun.vdfx
-8:GraphDefinitions.vgd
 9:MostRecentRun
 22:$,Dollar,Dollars,$s
 22:acre,acres
@@ -37741,11 +40588,14 @@ Revenue changes for fuel-supplying cash flow entities should be the same after a
 22:Year,Years,yr,yrs
 23:0
 15:0,0,0,0,0,0
-19:70,0
+19:110,1
 27:0,
 34:0,
+42:1
+72:0
+73:1
 4:Time
-5:Output Total CO2e Emissions
+5:Share of Preexisting Buildings Subject to Retrofitting To Date[Building Type]
 35:Date
 36:YYYY-MM-DD
 37:2000
@@ -37753,9 +40603,6 @@ Revenue changes for fuel-supplying cash flow entities should be the same after a
 39:1
 40:0
 41:0
-42:1
-72:0
-73:1
 76:0
 77:0
 78:0
@@ -37765,10 +40612,12 @@ Revenue changes for fuel-supplying cash flow entities should be the same after a
 24:2019
 25:2050
 26:2050
+87:0
 57:1
 54:0
 55:0
 82:0
+86:0
 59:0
 56:0
 58:0
