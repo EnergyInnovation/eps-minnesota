@@ -1,5 +1,7 @@
-Annual Additional Capacity Retired due to Early Retirement Policy[hard coal es] = 800
-Fraction of Additional Demand Response Potential Achieved = 0.17
+Annual Additional Capacity Retired due to Early Retirement Policy[hard coal es] = 462
+Boolean Use Non BAU Mandated Capacity Construction Schedule[onshore wind es] = 1
+Boolean Use Non BAU Mandated Capacity Construction Schedule[solar PV es] = 1
+Fraction of Additional Demand Response Potential Achieved = 0.14
 Nuclear Capacity Lifetime Extension = 10
 Percentage Improvement in Eqpt Efficiency Standards above BAU[cement and other carbonates,electricity if] = 0.068
 Percentage Improvement in Eqpt Efficiency Standards above BAU[natural gas and petroleum systems,electricity if] = 0.0605
@@ -28,5 +30,4 @@ Reduction in E Use Allowed by Component Eff Std[appliances,commercial] = 0.38
 Reduction in E Use Allowed by Component Eff Std[other component,urban residential] = 0.155
 Reduction in E Use Allowed by Component Eff Std[other component,rural residential] = 0.155
 Reduction in E Use Allowed by Component Eff Std[other component,commercial] = 0.3
-Renewable Portfolio Std Percentage = 0.56
 Share of Preexisting Buildings Subject to Retrofitting[commercial] = 0.39
