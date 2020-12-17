@@ -15,8 +15,8 @@ Fraction of New Bldg Components Shifted to Other Fuels[appliances,rural resident
 Fraction of New Bldg Components Shifted to Other Fuels[appliances,commercial] = 1
 Fraction of New Bldg Components Shifted to Other Fuels[other component,commercial] = 1
 Minimum Required Hydrogen Vehicle Sales Percentage[freight,HDVs] = 0.3
-Percent Change in Electricity Imports[hard coal es] = 0.5
-Percent Change in Electricity Imports[natural gas nonpeaker es] = 0.5
+Percent Change in Electricity Imports[hard coal es] = -0.5
+Percent Change in Electricity Imports[natural gas nonpeaker es] = -0.5
 Percent of Travel Demand Shifted to Other Modes or Eliminated[passenger,LDVs] = 0.26
 Percentage Increase in Transmission Capacity vs BAU = 0.1
 Policy Implementation Schedule Selector = 2

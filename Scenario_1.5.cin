@@ -137,8 +137,8 @@ Percentage Improvement in Eqpt Efficiency Standards above BAU[waste management,h
 Percentage Improvement in Eqpt Efficiency Standards above BAU[waste management,natural gas if] = 0.25
 Percentage Improvement in Eqpt Efficiency Standards above BAU[waste management,petroleum diesel if] = 0.25
 Percentage Increase in Transmission Capacity vs BAU = 1
-Percent Change in Electricity Imports[hard coal es] = 0.5
-Percent Change in Electricity Imports[natural gas nonpeaker es] = 0.5
+Percent Change in Electricity Imports[hard coal es] = -0.5
+Percent Change in Electricity Imports[natural gas nonpeaker es] = -0.5
 Policy Implementation Schedule Selector = 4
 Reduction in E Use Allowed by Component Eff Std[appliances,commercial] = 0.38
 Reduction in E Use Allowed by Component Eff Std[appliances,rural residential] = 0.38
