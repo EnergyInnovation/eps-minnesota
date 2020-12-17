@@ -78,7 +78,6 @@ Industry Sector Fraction of Potential Additional CCS Achieved[chemicals,process 
 Industry Sector Fraction of Potential Additional CCS Achieved[iron and steel,process emissions] = 1
 Industry Sector Fraction of Potential Additional CCS Achieved[natural gas and petroleum systems,process emissions] = 1
 Industry Sector Fraction of Potential Additional CCS Achieved[other industries,process emissions] = 1
-Nuclear Capacity Lifetime Extension = 10
 Percent of Travel Demand Shifted to Other Modes or Eliminated[freight,HDVs] = 0.22
 Percent of Travel Demand Shifted to Other Modes or Eliminated[passenger,LDVs] = 0.2
 Percent Reduction in Fossil Fuel Exports[hard coal] = 1
