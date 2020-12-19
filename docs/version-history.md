@@ -6,4 +6,4 @@ This page tracks updates that have been made with each version of the Minnesota 
 
 ### **3.1.1 - Dec 18, 2020**
 
-* {comment}
+* Official launch of the Minnesota EPS
