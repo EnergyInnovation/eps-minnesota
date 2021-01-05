@@ -1,4 +1,4 @@
-Unit: dimensionless (%),LDVs,HDVs,aircraft,rail,ships,motorbikes,,Non-motorized modes or eliminated trips
+﻿Unit: dimensionless (%),LDVs,HDVs,aircraft,rail,ships,motorbikes,,Non-motorized modes or eliminated trips
 LDVs,0,0,0,0,0,0,,1
 HDVs,0,0,0,0.9,0.1,0,,0
 aircraft,0,0,0,0,0,0,,1
