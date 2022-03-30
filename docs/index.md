@@ -13,7 +13,7 @@ The Minnesota Energy Policy Simulator may be used on this website through your w
 
 ## Documentation
 
-Documentation of source data, assumptions, and policy scenarios is available [here](https://github.com/Energy-Innovation/eps-minnesota/blob/master/MN%20Policy%20Assumptions_FINAL.pdf). Documentation of the model is available [here](https://us.energypolicy.solutions/docs/index.html).  Documentation of the model is not specific to any model version and therefore applies to both U.S. and Virginia versions of the Energy Policy Simulator.
+Documentation of source data, assumptions, and policy scenarios is available [here](https://github.com/Energy-Innovation/eps-minnesota/blob/master/MN%20Policy%20Assumptions_FINAL.pdf). Documentation of the model is available [here](https://us.energypolicy.solutions/docs/index.html).  Documentation of the model is not specific to any model version and therefore applies to both U.S. and Minnesota versions of the Energy Policy Simulator.
 
 ## Other Information
 
