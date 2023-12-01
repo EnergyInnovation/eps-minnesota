@@ -23,6 +23,22 @@
 :LINE-WIDTH 2
 
 
+:GRAPH Output_CO2e_Cumulative_Emissions_(Total)
+:TITLE Cumulative CO2e Emissions (Total)
+:NO-LEGEND 5
+:SCALE
+:VAR Output Cumulative Total CO2e Emissions This Year
+:LINE-WIDTH 2
+
+
+:GRAPH Output_CO2e_Cumulative_Emissions_(Total_Excluding_LULUCF)
+:TITLE Cumulative CO2e Emissions (Total, Excluding LULUCF)
+:NO-LEGEND 5
+:SCALE
+:VAR Output Cumulative Total CO2e Emissions Excluding LULUCF This Year
+:LINE-WIDTH 2
+
+
 :GRAPH Output_CO2e_Emissions_by_Sector
 :TITLE CO2e Emissions by Sector
 :NO-LEGEND 4
@@ -1460,10 +1476,18 @@
 :LINE-COLOR 175-100-255
 :VAR Output Electricity Generation by Type[hard coal es]|Hard Coal
 :LINE-COLOR 150-150-150
+:VAR Output Electricity Generation by Type[hard coal w CCS es]|Hard Coal with CCS
+:LINE-COLOR 0-99-99
 :VAR Output Electricity Generation by Type[lignite es]|Lignite
 :LINE-COLOR 0-77-16
-:VAR Output Electricity Generation by Type[natural gas nonpeaker es]|Natural Gas Nonpeaker
+:VAR Output Electricity Generation by Type[lignite w CCS es]|Lignite with CCS
+:LINE-COLOR 110-128-0
+:VAR Output Electricity Generation by Type[natural gas combined cycle es]|Natural Gas Combined Cycle
 :LINE-COLOR 192-27-0
+:VAR Output Electricity Generation by Type[natural gas combined cycle w CCS es]|Natural Gas Combined Cycle with CCS
+:LINE-COLOR 155-28-176
+:VAR Output Electricity Generation by Type[natural gas steam turbine es]|Natural Gas Steam Turbine
+:LINE-COLOR 255-0-0
 :VAR Output Electricity Generation by Type[natural gas peaker es]|Natural Gas Peaker
 :LINE-COLOR 245-147-224
 :VAR Output Electricity Generation by Type[crude oil es]|Crude Oil
@@ -1476,8 +1500,10 @@
 :LINE-COLOR 255-0-255
 :VAR Output Non Solar Distributed Output|Distributed Non-Solar
 :LINE-COLOR 191-176-136
-:VAR Output Electricity Generation by Type[nuclear es]|Nuclear
+:VAR Output Electricity Generation by Type[nuclear es]|Conventional Nuclear
 :LINE-COLOR 4-255-175
+:VAR Output Electricity Generation by Type[small modular reactor es]|Small Modular Reactors
+:LINE-COLOR 204-255-51
 :VAR Output Electricity Generation by Type[hydro es]|Hydro
 :LINE-COLOR 0-65-133
 :VAR Output Electricity Generation by Type[offshore wind es]|Offshore Wind
@@ -1492,8 +1518,14 @@
 :LINE-COLOR 255-100-0
 :VAR Output Electricity Generation by Type[biomass es]|Biomass
 :LINE-COLOR 0-176-80
+:VAR Output Electricity Generation by Type[biomass w CCS es]|Biomass with CCS
+:LINE-COLOR 101-255-251
 :VAR Output Electricity Generation by Type[geothermal es]|Geothermal
 :LINE-COLOR 98-14-122
+:VAR Output Electricity Generation by Type[hydrogen combustion turbine es]|Hydrogen Combustion Turbine
+:LINE-COLOR 255-153-153
+:VAR Output Electricity Generation by Type[hydrogen combined cycle es]|Hydrogen Combined Cycle
+:LINE-COLOR 229-255-204
 
 
 :GRAPH Output_Electricity_Output_Change_due_to_Policies
@@ -1506,12 +1538,24 @@
 :VAR Output Change in Electricity Generation by Type[hard coal es]|Hard Coal
 :LINE-WIDTH 2
 :LINE-COLOR 150-150-150
+:VAR Output Change in Electricity Generation by Type[hard coal w CCS es]|Hard Coal with CCS
+:LINE-WIDTH 2
+:LINE-COLOR 0-99-99
 :VAR Output Change in Electricity Generation by Type[lignite es]|Lignite
 :LINE-WIDTH 2
 :LINE-COLOR 0-77-16
-:VAR Output Change in Electricity Generation by Type[natural gas nonpeaker es]|Natural Gas Nonpeaker
+:VAR Output Change in Electricity Generation by Type[lignite w CCS es]|Lignite with CCS
+:LINE-WIDTH 2
+:LINE-COLOR 110-128-0
+:VAR Output Change in Electricity Generation by Type[natural gas combined cycle es]|Natural Gas Combined Cycle
 :LINE-WIDTH 2
 :LINE-COLOR 192-27-0
+:VAR Output Change in Electricity Generation by Type[natural gas combined cycle w CCS es]|Natural Gas Combined Cycle with CCS
+:LINE-WIDTH 2
+:LINE-COLOR 155-28-176
+:VAR Output Change in Electricity Generation by Type[natural gas steam turbine es]|Natural Gas Steam Turbine
+:LINE-WIDTH 2
+:LINE-COLOR 255-0-0
 :VAR Output Change in Electricity Generation by Type[natural gas peaker es]|Natural Gas Peaker
 :LINE-WIDTH 2
 :LINE-COLOR 245-147-224
@@ -1527,9 +1571,12 @@
 :VAR Output Change in Electricity Generation by Type[municipal solid waste es]|Municipal Solid Waste
 :LINE-WIDTH 2
 :LINE-COLOR 255-0-255
-:VAR Output Change in Electricity Generation by Type[nuclear es]|Nuclear
+:VAR Output Change in Electricity Generation by Type[nuclear es]|Conventional Nuclear
 :LINE-WIDTH 2
 :LINE-COLOR 4-255-175
+:VAR Output Change in Electricity Generation by Type[small modular reactor es]|Small Modular Reactors
+:LINE-WIDTH 2
+:LINE-COLOR 204-255-51
 :VAR Output Change in Electricity Generation by Type[hydro es]|Hydro
 :LINE-WIDTH 2
 :LINE-COLOR 0-65-133
@@ -1551,9 +1598,18 @@
 :VAR Output Change in Electricity Generation by Type[biomass es]|Biomass
 :LINE-WIDTH 2
 :LINE-COLOR 0-176-80
+:VAR Output Change in Electricity Generation by Type[biomass w CCS es]|Biomass with CCS
+:LINE-WIDTH 2
+:LINE-COLOR 101-255-251
 :VAR Output Change in Electricity Generation by Type[geothermal es]|Geothermal
 :LINE-WIDTH 2
 :LINE-COLOR 98-14-122
+:VAR Output Change in Electricity Generation by Type[hydrogen combustion turbine es]|Hydrogen Combustion Turbine
+:LINE-WIDTH 2
+:LINE-COLOR 255-153-153
+:VAR Output Change in Electricity Generation by Type[hydrogen combined cycle es]|Hydrogen Combined Cycle
+:LINE-WIDTH 2
+:LINE-COLOR 229-255-204
 
 
 :GRAPH Output_Electricity_Generation_Capacity_by_Type
@@ -1564,10 +1620,18 @@
 :Y-MIN 0
 :VAR Output Electricity Generation Capacity[hard coal es]|Hard Coal
 :LINE-COLOR 150-150-150
+:VAR Output Electricity Generation Capacity[hard coal w CCS es]|Hard Coal with CCS
+:LINE-COLOR 0-99-99
 :VAR Output Electricity Generation Capacity[lignite es]|Lignite
 :LINE-COLOR 0-77-16
-:VAR Output Electricity Generation Capacity[natural gas nonpeaker es]|Natural Gas Nonpeaker
+:VAR Output Electricity Generation Capacity[lignite w CCS es]|Lignite with CCS
+:LINE-COLOR 110-128-0
+:VAR Output Electricity Generation Capacity[natural gas combined cycle es]|Natural Gas Combined Cycle
 :LINE-COLOR 192-27-0
+:VAR Output Electricity Generation Capacity[natural gas combined cycle w CCS es]|Natural Gas Combined Cycle with CCS
+:LINE-COLOR 155-28-176
+:VAR Output Electricity Generation Capacity[natural gas steam turbine es]|Natural Gas Steam Turbine
+:LINE-COLOR 255-0-0
 :VAR Output Electricity Generation Capacity[natural gas peaker es]|Natural Gas Peaker
 :LINE-COLOR 245-147-224
 :VAR Output Electricity Generation Capacity[crude oil es]|Crude Oil
@@ -1580,8 +1644,10 @@
 :LINE-COLOR 255-0-255
 :VAR Output Non Solar Distributed Capacity|Distributed Non-Solar
 :LINE-COLOR 191-176-136
-:VAR Output Electricity Generation Capacity[nuclear es]|Nuclear
+:VAR Output Electricity Generation Capacity[nuclear es]|Conventional Nuclear
 :LINE-COLOR 4-255-175
+:VAR Output Electricity Generation Capacity[small modular reactor es]|Small Modular Reactors
+:LINE-COLOR 204-255-51
 :VAR Output Electricity Generation Capacity[hydro es]|Hydro
 :LINE-COLOR 0-65-133
 :VAR Output Electricity Generation Capacity[offshore wind es]|Offshore Wind
@@ -1596,8 +1662,14 @@
 :LINE-COLOR 255-100-0
 :VAR Output Electricity Generation Capacity[biomass es]|Biomass
 :LINE-COLOR 0-176-80
+:VAR Output Electricity Generation Capacity[biomass w CCS es]|Biomass with CCS
+:LINE-COLOR 101-255-251
 :VAR Output Electricity Generation Capacity[geothermal es]|Geothermal
 :LINE-COLOR 98-14-122
+:VAR Output Electricity Generation Capacity[hydrogen combustion turbine es]|Hydrogen Combustion Turbine
+:LINE-COLOR 255-153-153
+:VAR Output Electricity Generation Capacity[hydrogen combined cycle es]|Hydrogen Combined Cycle
+:LINE-COLOR 229-255-204
 
 
 :GRAPH Output_Electricity_Generation_Capacity_Change_due_to_Policies
@@ -1607,12 +1679,24 @@
 :VAR Output Change in Electricity Generation Capacity[hard coal es]|Hard Coal
 :LINE-WIDTH 2
 :LINE-COLOR 150-150-150
+:VAR Output Change in Electricity Generation Capacity[hard coal w CCS es]|Hard Coal with CCS
+:LINE-WIDTH 2
+:LINE-COLOR 0-99-99
 :VAR Output Change in Electricity Generation Capacity[lignite es]|Lignite
 :LINE-WIDTH 2
 :LINE-COLOR 0-77-16
-:VAR Output Change in Electricity Generation Capacity[natural gas nonpeaker es]|Natural Gas Nonpeaker
+:VAR Output Change in Electricity Generation Capacity[lignite w CCS es]|Lignite with CCS
+:LINE-WIDTH 2
+:LINE-COLOR 110-128-0
+:VAR Output Change in Electricity Generation Capacity[natural gas combined cycle es]|Natural Gas Combined Cycle
 :LINE-WIDTH 2
 :LINE-COLOR 192-27-0
+:VAR Output Change in Electricity Generation Capacity[natural gas combined cycle w CCS es]|Natural Gas Combined Cycle with CCS
+:LINE-WIDTH 2
+:LINE-COLOR 155-28-176
+:VAR Output Change in Electricity Generation Capacity[natural gas steam turbine es]|Natural Gas Steam Turbine
+:LINE-WIDTH 2
+:LINE-COLOR 255-0-0
 :VAR Output Change in Electricity Generation Capacity[natural gas peaker es]|Natural Gas Peaker
 :LINE-WIDTH 2
 :LINE-COLOR 245-147-224
@@ -1628,9 +1712,12 @@
 :VAR Output Change in Electricity Generation Capacity[municipal solid waste es]|Municipal Solid Waste
 :LINE-WIDTH 2
 :LINE-COLOR 255-0-255
-:VAR Output Change in Electricity Generation Capacity[nuclear es]|Nuclear
+:VAR Output Change in Electricity Generation Capacity[nuclear es]|Conventional Nuclear
 :LINE-WIDTH 2
 :LINE-COLOR 4-255-175
+:VAR Output Change in Electricity Generation Capacity[small modular reactor es]|Small Modular Reactors
+:LINE-WIDTH 2
+:LINE-COLOR 204-255-51
 :VAR Output Change in Electricity Generation Capacity[hydro es]|Hydro
 :LINE-WIDTH 2
 :LINE-COLOR 0-65-133
@@ -1652,9 +1739,18 @@
 :VAR Output Change in Electricity Generation Capacity[biomass es]|Biomass
 :LINE-WIDTH 2
 :LINE-COLOR 0-176-80
+:VAR Output Change in Electricity Generation Capacity[biomass w CCS es]|Biomass with CCS
+:LINE-WIDTH 2
+:LINE-COLOR 101-255-251
 :VAR Output Change in Electricity Generation Capacity[geothermal es]|Geothermal
 :LINE-WIDTH 2
 :LINE-COLOR 98-14-122
+:VAR Output Change in Electricity Generation Capacity[hydrogen combustion turbine es]|Hydrogen Combustion Turbine
+:LINE-WIDTH 2
+:LINE-COLOR 255-153-153
+:VAR Output Change in Electricity Generation Capacity[hydrogen combined cycle es]|Hydrogen Combined Cycle
+:LINE-WIDTH 2
+:LINE-COLOR 229-255-204
 
 
 :GRAPH Output_Electricity_Demand_by_Sector
@@ -1711,12 +1807,24 @@
 :VAR Output Cost per Unit New Elec Output[hard coal es]|Hard Coal
 :LINE-WIDTH 2
 :LINE-COLOR 150-150-150
+:VAR Output Cost per Unit New Elec Output[hard coal w CCS es]|Hard Coal with CCS
+:LINE-WIDTH 2
+:LINE-COLOR 0-99-99
 :VAR Output Cost per Unit New Elec Output[lignite es]|Lignite
 :LINE-WIDTH 2
 :LINE-COLOR 0-77-16
-:VAR Output Cost per Unit New Elec Output[natural gas nonpeaker es]|Natural Gas Nonpeaker
+:VAR Output Cost per Unit New Elec Output[lignite w CCS es]|Lignite with CCS
+:LINE-WIDTH 2
+:LINE-COLOR 110-128-0
+:VAR Output Cost per Unit New Elec Output[natural gas combined cycle es]|Natural Gas Combined Cycle
 :LINE-WIDTH 2
 :LINE-COLOR 192-27-0
+:VAR Output Cost per Unit New Elec Output[natural gas combined cycle w CCS es]|Natural Gas Combined Cycle with CCS
+:LINE-WIDTH 2
+:LINE-COLOR 155-28-176
+:VAR Output Cost per Unit New Elec Output[natural gas steam turbine es]|Natural Gas Steam Turbine
+:LINE-WIDTH 2
+:LINE-COLOR 255-0-0
 :VAR Output Cost per Unit New Elec Output[natural gas peaker es]|Natural Gas Peaker
 :LINE-WIDTH 2
 :LINE-COLOR 245-147-224
@@ -1732,9 +1840,12 @@
 :VAR Output Cost per Unit New Elec Output[municipal solid waste es]|Municipal Solid Waste
 :LINE-WIDTH 2
 :LINE-COLOR 255-0-255
-:VAR Output Cost per Unit New Elec Output[nuclear es]|Nuclear
+:VAR Output Cost per Unit New Elec Output[nuclear es]|Conventional Nuclear
 :LINE-WIDTH 2
 :LINE-COLOR 4-255-175
+:VAR Output Cost per Unit New Elec Output[small modular reactor es]|Small Modular Reactors
+:LINE-WIDTH 2
+:LINE-COLOR 204-255-51
 :VAR Output Cost per Unit New Elec Output[hydro es]|Hydro
 :LINE-WIDTH 2
 :LINE-COLOR 0-65-133
@@ -1753,9 +1864,18 @@
 :VAR Output Cost per Unit New Elec Output[biomass es]|Biomass
 :LINE-WIDTH 2
 :LINE-COLOR 0-176-80
+:VAR Output Cost per Unit New Elec Output[biomass w CCS es]|Biomass with CCS
+:LINE-WIDTH 2
+:LINE-COLOR 101-255-251
 :VAR Output Cost per Unit New Elec Output[geothermal es]|Geothermal
 :LINE-WIDTH 2
 :LINE-COLOR 98-14-122
+:VAR Output Cost per Unit New Elec Output[hydrogen combustion turbine es]|Hydrogen Combustion Turbine
+:LINE-WIDTH 2
+:LINE-COLOR 255-153-153
+:VAR Output Cost per Unit New Elec Output[hydrogen combined cycle es]|Hydrogen Combined Cycle
+:LINE-WIDTH 2
+:LINE-COLOR 229-255-204
 
 
 :GRAPH Output_Curtailed_Electricity_from_Renewables
@@ -1781,10 +1901,18 @@
 :Y-MIN 0
 :VAR Output Electricity Sector CO2e Emissions[hard coal es]|Hard Coal
 :LINE-COLOR 150-150-150
+:VAR Output Electricity Sector CO2e Emissions[hard coal w CCS es]|Hard Coal with CCS
+:LINE-COLOR 0-99-99
 :VAR Output Electricity Sector CO2e Emissions[lignite es]|Lignite
 :LINE-COLOR 0-77-16
-:VAR Output Electricity Sector CO2e Emissions[natural gas nonpeaker es]|Natural Gas Nonpeaker
+:VAR Output Electricity Sector CO2e Emissions[lignite w CCS es]|Lignite with CCS
+:LINE-COLOR 110-128-0
+:VAR Output Electricity Sector CO2e Emissions[natural gas combined cycle es]|Natural Gas Combined Cycle
 :LINE-COLOR 192-27-0
+:VAR Output Electricity Sector CO2e Emissions[natural gas combined cycle w CCS es]|Natural Gas Combined Cycle with CCS
+:LINE-COLOR 155-28-176
+:VAR Output Electricity Sector CO2e Emissions[natural gas steam turbine es]|Natural Gas Steam Turbine
+:LINE-COLOR 255-0-0
 :VAR Output Electricity Sector CO2e Emissions[natural gas peaker es]|Natural Gas Peaker
 :LINE-COLOR 245-147-224
 :VAR Output Electricity Sector CO2e Emissions[crude oil es]|Crude Oil
@@ -1797,6 +1925,8 @@
 :LINE-COLOR 255-0-255
 :VAR Output Electricity Sector CO2e Emissions[biomass es]|Biomass
 :LINE-COLOR 0-176-80
+:VAR Output Electricity Sector CO2e Emissions[biomass w CCS es]|Biomass with CCS
+:LINE-COLOR 101-255-251
 
 
 :GRAPH Output_Water_Withdrawals_by_Power_Plants
@@ -1807,10 +1937,18 @@
 :Y-MIN 0
 :VAR Output Water Withdrawn by Power Plants[hard coal es]|Hard Coal
 :LINE-COLOR 150-150-150
+:VAR Output Water Withdrawn by Power Plants[hard coal w CCS es]|Hard Coal with CCS
+:LINE-COLOR 0-99-99
 :VAR Output Water Withdrawn by Power Plants[lignite es]|Lignite
 :LINE-COLOR 0-77-16
-:VAR Output Water Withdrawn by Power Plants[natural gas nonpeaker es]|Natural Gas Nonpeaker
+:VAR Output Water Withdrawn by Power Plants[lignite w CCS es]|Lignite with CCS
+:LINE-COLOR 110-128-0
+:VAR Output Water Withdrawn by Power Plants[natural gas combined cycle es]|Natural Gas Combined Cycle
 :LINE-COLOR 192-27-0
+:VAR Output Water Withdrawn by Power Plants[natural gas combined cycle w CCS es]|Natural Gas Combined Cycle with CCS
+:LINE-COLOR 155-28-176
+:VAR Output Water Withdrawn by Power Plants[natural gas steam turbine es]|Natural Gas Steam Turbine
+:LINE-COLOR 255-0-0
 :VAR Output Water Withdrawn by Power Plants[natural gas peaker es]|Natural Gas Peaker
 :LINE-COLOR 245-147-224
 :VAR Output Water Withdrawn by Power Plants[crude oil es]|Crude Oil
@@ -1821,16 +1959,28 @@
 :LINE-COLOR 0-0-0
 :VAR Output Water Withdrawn by Power Plants[municipal solid waste es]|Municipal Solid Waste
 :LINE-COLOR 255-0-255
-:VAR Output Water Withdrawn by Power Plants[nuclear es]|Nuclear
+:VAR Output Water Withdrawn by Power Plants[nuclear es]|Conventional Nuclear
 :LINE-COLOR 4-255-175
+:VAR Output Water Withdrawn by Power Plants[small modular reactor es]|Small Modular Reactors
+:LINE-COLOR 204-255-51
+:VAR Output Water Withdrawn by Power Plants[offshore wind es]|Offshore Wind
+:LINE-COLOR 8-123-241
+:VAR Output Water Withdrawn by Power Plants[onshore wind es]|Onshore Wind
+:LINE-COLOR 194-223-253
 :VAR Output Water Withdrawn by Power Plants[solar PV es]|Utility Solar PV
 :LINE-COLOR 255-255-0
 :VAR Output Water Withdrawn by Power Plants[solar thermal es]|Solar Thermal
 :LINE-COLOR 255-100-0
 :VAR Output Water Withdrawn by Power Plants[biomass es]|Biomass
 :LINE-COLOR 0-176-80
+:VAR Output Water Withdrawn by Power Plants[biomass w CCS es]|Biomass with CCS
+:LINE-COLOR 101-255-251
 :VAR Output Water Withdrawn by Power Plants[geothermal es]|Geothermal
 :LINE-COLOR 98-14-122
+:VAR Output Water Withdrawn by Power Plants[hydrogen combustion turbine es]|Hydrogen Combustion Turbine
+:LINE-COLOR 255-153-153
+:VAR Output Water Withdrawn by Power Plants[hydrogen combined cycle es]|Hydrogen Combined Cycle
+:LINE-COLOR 229-255-204
 
 
 :GRAPH Output_Water_Consumption_by_Power_Plants
@@ -1841,10 +1991,18 @@
 :Y-MIN 0
 :VAR Output Water Consumed by Power Plants[hard coal es]|Hard Coal
 :LINE-COLOR 150-150-150
+:VAR Output Water Consumed by Power Plants[hard coal w CCS es]|Hard Coal with CCS
+:LINE-COLOR 0-99-99
 :VAR Output Water Consumed by Power Plants[lignite es]|Lignite
 :LINE-COLOR 0-77-16
-:VAR Output Water Consumed by Power Plants[natural gas nonpeaker es]|Natural Gas Nonpeaker
+:VAR Output Water Consumed by Power Plants[lignite w CCS es]|Lignite with CCS
+:LINE-COLOR 110-128-0
+:VAR Output Water Consumed by Power Plants[natural gas combined cycle es]|Natural Gas Combined Cycle
 :LINE-COLOR 192-27-0
+:VAR Output Water Consumed by Power Plants[natural gas combined cycle w CCS es]|Natural Gas Combined Cycle with CCS
+:LINE-COLOR 155-28-176
+:VAR Output Water Consumed by Power Plants[natural gas steam turbine es]|Natural Gas Steam Turbine
+:LINE-COLOR 255-0-0
 :VAR Output Water Consumed by Power Plants[natural gas peaker es]|Natural Gas Peaker
 :LINE-COLOR 245-147-224
 :VAR Output Water Consumed by Power Plants[crude oil es]|Crude Oil
@@ -1855,18 +2013,28 @@
 :LINE-COLOR 0-0-0
 :VAR Output Water Consumed by Power Plants[municipal solid waste es]|Municipal Solid Waste
 :LINE-COLOR 255-0-255
-:VAR Output Water Consumed by Power Plants[nuclear es]|Nuclear
+:VAR Output Water Consumed by Power Plants[nuclear es]|Conventional Nuclear
 :LINE-COLOR 4-255-175
-:VAR Output Water Consumed by Power Plants[hydro es]|Hydro
-:LINE-COLOR 0-65-133
+:VAR Output Water Consumed by Power Plants[small modular reactor es]|Small Modular Reactors
+:LINE-COLOR 204-255-51
+:VAR Output Water Consumed by Power Plants[offshore wind es]|Offshore Wind
+:LINE-COLOR 8-123-241
+:VAR Output Water Consumed by Power Plants[onshore wind es]|Onshore Wind
+:LINE-COLOR 194-223-253
 :VAR Output Water Consumed by Power Plants[solar PV es]|Utility Solar PV
 :LINE-COLOR 255-255-0
 :VAR Output Water Consumed by Power Plants[solar thermal es]|Solar Thermal
 :LINE-COLOR 255-100-0
 :VAR Output Water Consumed by Power Plants[biomass es]|Biomass
 :LINE-COLOR 0-176-80
+:VAR Output Water Consumed by Power Plants[biomass w CCS es]|Biomass with CCS
+:LINE-COLOR 101-255-251
 :VAR Output Water Consumed by Power Plants[geothermal es]|Geothermal
 :LINE-COLOR 98-14-122
+:VAR Output Water Consumed by Power Plants[hydrogen combustion turbine es]|Hydrogen Combustion Turbine
+:LINE-COLOR 255-153-153
+:VAR Output Water Consumed by Power Plants[hydrogen combined cycle es]|Hydrogen Combined Cycle
+:LINE-COLOR 229-255-204
 
 
 ##### Transport: Vehicles by Technology #####
@@ -2466,6 +2634,54 @@
 :LINE-WIDTH 2
 
 
+:GRAPH Industry_Fuel_Use_by_Industrial_Process_Thermal_Fuels
+:TITLE Industry: Fuel Use by Industrial Process (Thermal Fuels, Excluding Feedstocks)
+:NO-LEGEND 4
+:SCALE
+:STACK-FILL
+:Y-MIN 0
+:VAR Output Industrial Thermal Fuel Use for Energy Purposes by Industrial Process Excluding CCS and Captured Methane[boilers]|Boilers & Steam
+:LINE-COLOR 255-255-0
+:VAR Output Industrial Thermal Fuel Use for Energy Purposes by Industrial Process Excluding CCS and Captured Methane[nonboiler low temp]|Nonboiler Low Temp
+:LINE-COLOR 241-187-24
+:VAR Output Industrial Thermal Fuel Use for Energy Purposes by Industrial Process Excluding CCS and Captured Methane[nonboiler med temp]|Nonboiler Med Temp
+:LINE-COLOR 255-100-0
+:VAR Output Industrial Thermal Fuel Use for Energy Purposes by Industrial Process Excluding CCS and Captured Methane[nonboiler high temp]|Nonboiler High Temp
+:LINE-COLOR 192-27-0
+:VAR Output Industrial Thermal Fuel Use for Energy Purposes by Industrial Process Excluding CCS and Captured Methane[cooling]|Cooling
+:LINE-COLOR 8-123-241
+:VAR Output Industrial Thermal Fuel Use for Energy Purposes by Industrial Process Excluding CCS and Captured Methane[machine drive]|Machine Drive
+:LINE-COLOR 150-150-150
+:VAR Output Industrial Thermal Fuel Use for Energy Purposes by Industrial Process Excluding CCS and Captured Methane[electrochemical]|Electrochemical
+:LINE-COLOR 4-255-175
+:VAR Output Industrial Thermal Fuel Use for Energy Purposes by Industrial Process Excluding CCS and Captured Methane[other process]|Other Processes
+:LINE-COLOR 175-100-255
+
+
+:GRAPH Industry_Fuel_Use_by_Industrial_Process_Electricity
+:TITLE Industry: Fuel Use by Industrial Process (Electricity)
+:NO-LEGEND 4
+:SCALE
+:STACK-FILL
+:Y-MIN 0
+:VAR Output Industrial Electricity Use by Industrial Process[boilers]|Boilers & Steam
+:LINE-COLOR 255-255-0
+:VAR Output Industrial Electricity Use by Industrial Process[nonboiler low temp]|Nonboiler Low Temp
+:LINE-COLOR 241-187-24
+:VAR Output Industrial Electricity Use by Industrial Process[nonboiler med temp]|Nonboiler Med Temp
+:LINE-COLOR 255-100-0
+:VAR Output Industrial Electricity Use by Industrial Process[nonboiler high temp]|Nonboiler High Temp
+:LINE-COLOR 192-27-0
+:VAR Output Industrial Electricity Use by Industrial Process[cooling]|Cooling
+:LINE-COLOR 8-123-241
+:VAR Output Industrial Electricity Use by Industrial Process[machine drive]|Machine Drive
+:LINE-COLOR 150-150-150
+:VAR Output Industrial Electricity Use by Industrial Process[electrochemical]|Electrochemical
+:LINE-COLOR 4-255-175
+:VAR Output Industrial Electricity Use by Industrial Process[other process]|Other Processes
+:LINE-COLOR 175-100-255
+
+
 ##### Industry: Emissions #####
 ###############################
 
@@ -2684,9 +2900,9 @@
 :SCALE
 :STACK-FILL
 :Y-MIN 0
-:VAR Output Industry Sector Energy Related CO2 Emissions
+:VAR Output Industry Sector Energy Related CO2e Emissions by Pollutant[CO2]
 :LINE-COLOR 192-27-0
-:VAR Output Process CO2 Emissions
+:VAR Output Process Emissions in CO2e by Pollutant[CO2]
 :LINE-COLOR 8-123-241
 
 
@@ -2798,7 +3014,7 @@
 :LINE-COLOR 110-128-0
 
 
-##### Buildings: Energy Use #####
+##### Buildings: Energy Use and Emissions #####
 #################################
 
 
@@ -2863,13 +3079,88 @@
 
 
 :GRAPH Buildings_Energy_Use_Total
-:TITLE Buildings Energy Use (Total)
+:TITLE Buildings: Buildings Energy Use (Total)
 :NO-LEGEND 5
 :Y-MIN 0
 :SCALE
 :VAR Output Total Buildings Energy Use
 :LINE-WIDTH 2
 
+
+:GRAPH Buildings_Direct_Emissions
+:TITLE Buildings: Direct Emissions by Building Type and End Use 
+:NO-LEGEND 4
+:SCALE
+:STACK-FILL
+:Y-MIN 0
+:VAR Output Direct Buildings CO2e Emissions by End Use[urban residential,heating]|Urban Residential Heating
+:LINE-COLOR 150-150-150
+:VAR Output Direct Buildings CO2e Emissions by End Use[rural residential,heating]|Rural Residential Heating
+:LINE-COLOR 192-27-0
+:VAR Output Direct Buildings CO2e Emissions by End Use[commercial,heating]|Commercial Heating
+:LINE-COLOR 98-14-122
+:VAR Output Direct Buildings CO2e Emissions by End Use[urban residential,cooling and ventilation]|Urban Residential Cooling and Ventilation
+:LINE-COLOR 255-100-0
+:VAR Output Direct Buildings CO2e Emissions by End Use[rural residential,cooling and ventilation]|Rural Residential Cooling and Ventilation
+:LINE-COLOR 255-255-0
+:VAR Output Direct Buildings CO2e Emissions by End Use[commercial,cooling and ventilation]|Commercial Cooling and Ventilation
+:LINE-COLOR 0-176-80
+:VAR Output Direct Buildings CO2e Emissions by End Use[urban residential,lighting]|Urban Residential Lighting
+:LINE-COLOR 4-255-175
+:VAR Output Direct Buildings CO2e Emissions by End Use[rural residential,lighting]|Rural Residential Lighting
+:LINE-COLOR 0-0-0
+:VAR Output Direct Buildings CO2e Emissions by End Use[commercial,lighting]|Commercial Lighting
+:LINE-COLOR 241-187-24
+:VAR Output Direct Buildings CO2e Emissions by End Use[urban residential,appliances]|Urban Residential Appliances
+:LINE-COLOR 255-0-255
+:VAR Output Direct Buildings CO2e Emissions by End Use[rural residential,appliances]|Rural Residential Appliances
+:LINE-COLOR 173-102-0
+:VAR Output Direct Buildings CO2e Emissions by End Use[commercial,appliances]|Commercial Appliances
+:LINE-COLOR 194-223-253
+:VAR Output Direct Buildings CO2e Emissions by End Use[urban residential,other component]|Urban Residential Other Components
+:LINE-COLOR 0-65-133
+:VAR Output Direct Buildings CO2e Emissions by End Use[rural residential,other component]|Rural Residential Other Components
+:LINE-COLOR 8-123-241
+:VAR Output Direct Buildings CO2e Emissions by End Use[commercial,other component]|Commercial Other Components
+:LINE-COLOR 116-0-0
+
+
+:GRAPH Buildings_Emissions_Reallocated
+:TITLE Buildings: Emissions by Building Type and End Use with Reallocated Energy Carriers
+:NO-LEGEND 4
+:SCALE
+:STACK-FILL
+:Y-MIN 0
+:VAR Output Buildings CO2e Emissions by End Use with Reallocated Energy Carriers[urban residential,heating]|Urban Residential Heating
+:LINE-COLOR 150-150-150
+:VAR Output Buildings CO2e Emissions by End Use with Reallocated Energy Carriers[rural residential,heating]|Rural Residential Heating
+:LINE-COLOR 192-27-0
+:VAR Output Buildings CO2e Emissions by End Use with Reallocated Energy Carriers[commercial,heating]|Commercial Heating
+:LINE-COLOR 98-14-122
+:VAR Output Buildings CO2e Emissions by End Use with Reallocated Energy Carriers[urban residential,cooling and ventilation]|Urban Residential Cooling and Ventilation
+:LINE-COLOR 255-100-0
+:VAR Output Buildings CO2e Emissions by End Use with Reallocated Energy Carriers[rural residential,cooling and ventilation]|Rural Residential Cooling and Ventilation
+:LINE-COLOR 255-255-0
+:VAR Output Buildings CO2e Emissions by End Use with Reallocated Energy Carriers[commercial,cooling and ventilation]|Commercial Cooling and Ventilation
+:LINE-COLOR 0-176-80
+:VAR Output Buildings CO2e Emissions by End Use with Reallocated Energy Carriers[urban residential,lighting]|Urban Residential Lighting
+:LINE-COLOR 4-255-175
+:VAR Output Buildings CO2e Emissions by End Use with Reallocated Energy Carriers[rural residential,lighting]|Rural Residential Lighting
+:LINE-COLOR 0-0-0
+:VAR Output Buildings CO2e Emissions by End Use with Reallocated Energy Carriers[commercial,lighting]|Commercial Lighting
+:LINE-COLOR 241-187-24
+:VAR Output Buildings CO2e Emissions by End Use with Reallocated Energy Carriers[urban residential,appliances]|Urban Residential Appliances
+:LINE-COLOR 255-0-255
+:VAR Output Buildings CO2e Emissions by End Use with Reallocated Energy Carriers[rural residential,appliances]|Rural Residential Appliances
+:LINE-COLOR 173-102-0
+:VAR Output Buildings CO2e Emissions by End Use with Reallocated Energy Carriers[commercial,appliances]|Commercial Appliances
+:LINE-COLOR 194-223-253
+:VAR Output Buildings CO2e Emissions by End Use with Reallocated Energy Carriers[urban residential,other component]|Urban Residential Other Components
+:LINE-COLOR 0-65-133
+:VAR Output Buildings CO2e Emissions by End Use with Reallocated Energy Carriers[rural residential,other component]|Rural Residential Other Components
+:LINE-COLOR 8-123-241
+:VAR Output Buildings CO2e Emissions by End Use with Reallocated Energy Carriers[commercial,other component]|Commercial Other Components
+:LINE-COLOR 116-0-0
 
 ##### Energy Consumption #####
 ##############################
@@ -4260,3 +4551,21 @@
 :VAR Achieved LCFS Percentage|Achieved LCFS %
 :LINE-WIDTH 6
 :LINE-COLOR 255-140-10
+
+
+:GRAPH RFS_CES_Performance
+:TITLE RPS/CES Performance
+:NO-LEGEND 4
+:SCALE
+:VAR Actual Total Electricity Generation|Actual Total Electricity Generation
+:LINE-WIDTH 2
+:LINE-COLOR 140-0-0
+:VAR Actual RPS Qualifying Electricity Generation|Actual RPS Qualifying Electricity Dispatched
+:LINE-WIDTH 2
+:LINE-COLOR 0-65-133
+:VAR Actual Total Electricity Demand|Actual Total Electricity Demand
+:LINE-WIDTH 6
+:LINE-COLOR 241-187-24
+:VAR Legally Required Electricity Dispatch to Satisfy RPS|Legally Required RPS Qualifying Electricity to Dispatch
+:LINE-WIDTH 6
+:LINE-COLOR 4-255-175
